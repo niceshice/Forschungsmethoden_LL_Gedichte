@@ -4,100 +4,306 @@
     "author": "André Schinkel",
     "poem": {
         "line.1": {
-            "text": "Du bist eine Lilie"
+            "text": "Du bist eine Lilie",
+            "tokens": [
+                "Du",
+                "bist",
+                "eine",
+                "Lilie"
+            ]
         },
         "line.2": {
-            "text": "Aus Lodern und Schnee –"
+            "text": "Aus Lodern und Schnee –",
+            "tokens": [
+                "Aus",
+                "Lodern",
+                "und",
+                "Schnee",
+                "�",
+                "�"
+            ]
         },
         "line.3": {
-            "text": "Ein Licht, ein graziles,"
+            "text": "Ein Licht, ein graziles,",
+            "tokens": [
+                "Ein",
+                "Licht",
+                ",",
+                "ein",
+                "graziles",
+                ","
+            ]
         },
         "line.4": {
-            "text": "Aus Düften gedreht."
+            "text": "Aus Düften gedreht.",
+            "tokens": [
+                "Aus",
+                "Düften",
+                "gedreht",
+                "."
+            ]
         },
         "line.5": {
-            "text": "Ich lieb den Gedanken,"
+            "text": "Ich lieb den Gedanken,",
+            "tokens": [
+                "Ich",
+                "lieb",
+                "den",
+                "Gedanken",
+                ","
+            ]
         },
         "line.6": {
-            "text": "Daß du mich so liebst,"
+            "text": "Daß du mich so liebst,",
+            "tokens": [
+                "Daß",
+                "du",
+                "mich",
+                "so",
+                "liebst",
+                ","
+            ]
         },
         "line.7": {
-            "text": "Als gäbs keine Schranken"
+            "text": "Als gäbs keine Schranken",
+            "tokens": [
+                "Als",
+                "gäbs",
+                "keine",
+                "Schranken"
+            ]
         },
         "line.8": {
-            "text": "Im Sehnsuchts-Betrieb."
+            "text": "Im Sehnsuchts-Betrieb.",
+            "tokens": [
+                "Im",
+                "Sehnsuchts-Betrieb",
+                "."
+            ]
         },
         "line.9": {
-            "text": "Timalien, Tangaren"
+            "text": "Timalien, Tangaren",
+            "tokens": [
+                "Timalien",
+                ",",
+                "Tangaren"
+            ]
         },
         "line.10": {
-            "text": "Umschwirren dich bunt –"
+            "text": "Umschwirren dich bunt –",
+            "tokens": [
+                "Umschwirren",
+                "dich",
+                "bunt",
+                "�",
+                "�"
+            ]
         },
         "line.11": {
-            "text": "Ihre Syrinx-Fanfaren"
+            "text": "Ihre Syrinx-Fanfaren",
+            "tokens": [
+                "Ihre",
+                "Syrinx-Fanfaren"
+            ]
         },
         "line.12": {
-            "text": "Bereisen das Rund:"
+            "text": "Bereisen das Rund:",
+            "tokens": [
+                "Bereisen",
+                "das",
+                "Rund",
+                ":"
+            ]
         },
         "line.13": {
-            "text": "Aus Rauch und Bromelie"
+            "text": "Aus Rauch und Bromelie",
+            "tokens": [
+                "Aus",
+                "Rauch",
+                "und",
+                "Bromelie"
+            ]
         },
         "line.14": {
-            "text": "Und Feuer bei Nacht –"
+            "text": "Und Feuer bei Nacht –",
+            "tokens": [
+                "Und",
+                "Feuer",
+                "bei",
+                "Nacht",
+                "�",
+                "�"
+            ]
         },
         "line.15": {
-            "text": "Aus Glanz und Corbelie,"
+            "text": "Aus Glanz und Corbelie,",
+            "tokens": [
+                "Aus",
+                "Glanz",
+                "und",
+                "Corbelie",
+                ","
+            ]
         },
         "line.16": {
-            "text": "Blatt und Küssen gemacht."
+            "text": "Blatt und Küssen gemacht.",
+            "tokens": [
+                "Blatt",
+                "und",
+                "Küssen",
+                "gemacht",
+                "."
+            ]
         },
         "line.17": {
-            "text": "Gefiederte Träume –"
+            "text": "Gefiederte Träume –",
+            "tokens": [
+                "Gefiederte",
+                "Träume",
+                "�",
+                "�"
+            ]
         },
         "line.18": {
-            "text": "Bis tief in den Tag"
+            "text": "Bis tief in den Tag",
+            "tokens": [
+                "Bis",
+                "tief",
+                "in",
+                "den",
+                "Tag"
+            ]
         },
         "line.19": {
-            "text": "Durchfluten die Räume,"
+            "text": "Durchfluten die Räume,",
+            "tokens": [
+                "Durchfluten",
+                "die",
+                "Räume",
+                ","
+            ]
         },
         "line.20": {
-            "text": "In die ich dich trag."
+            "text": "In die ich dich trag.",
+            "tokens": [
+                "In",
+                "die",
+                "ich",
+                "dich",
+                "trag",
+                "."
+            ]
         },
         "line.21": {
-            "text": "Als gäbs keine Schranken"
+            "text": "Als gäbs keine Schranken",
+            "tokens": [
+                "Als",
+                "gäbs",
+                "keine",
+                "Schranken"
+            ]
         },
         "line.22": {
-            "text": "Im Sehnsuchts-Betrieb:"
+            "text": "Im Sehnsuchts-Betrieb:",
+            "tokens": [
+                "Im",
+                "Sehnsuchts-Betrieb",
+                ":"
+            ]
         },
         "line.23": {
-            "text": "Lieb ich den Gedanken,"
+            "text": "Lieb ich den Gedanken,",
+            "tokens": [
+                "Lieb",
+                "ich",
+                "den",
+                "Gedanken",
+                ","
+            ]
         },
         "line.24": {
-            "text": "Daß du mich so liebst."
+            "text": "Daß du mich so liebst.",
+            "tokens": [
+                "Daß",
+                "du",
+                "mich",
+                "so",
+                "liebst",
+                "."
+            ]
         },
         "line.25": {
-            "text": "Ich tauche den Schnabel"
+            "text": "Ich tauche den Schnabel",
+            "tokens": [
+                "Ich",
+                "tauche",
+                "den",
+                "Schnabel"
+            ]
         },
         "line.26": {
-            "text": "Ganz tief in dich ein;"
+            "text": "Ganz tief in dich ein;",
+            "tokens": [
+                "Ganz",
+                "tief",
+                "in",
+                "dich",
+                "ein",
+                ";"
+            ]
         },
         "line.27": {
-            "text": "Ich führe die Wabe"
+            "text": "Ich führe die Wabe",
+            "tokens": [
+                "Ich",
+                "führe",
+                "die",
+                "Wabe"
+            ]
         },
         "line.28": {
-            "text": "Im Flügelkleid heim:"
+            "text": "Im Flügelkleid heim:",
+            "tokens": [
+                "Im",
+                "Flügelkleid",
+                "heim",
+                ":"
+            ]
         },
         "line.29": {
-            "text": "Eine Glücks-Amazilie"
+            "text": "Eine Glücks-Amazilie",
+            "tokens": [
+                "Eine",
+                "Glücks-Amazilie"
+            ]
         },
         "line.30": {
-            "text": "Im Feder-Karree –"
+            "text": "Im Feder-Karree –",
+            "tokens": [
+                "Im",
+                "Feder-Karree",
+                "�",
+                "�"
+            ]
         },
         "line.31": {
-            "text": "Du bist eine Lilie"
+            "text": "Du bist eine Lilie",
+            "tokens": [
+                "Du",
+                "bist",
+                "eine",
+                "Lilie"
+            ]
         },
         "line.32": {
-            "text": "Aus Lodern und Schnee."
+            "text": "Aus Lodern und Schnee.",
+            "tokens": [
+                "Aus",
+                "Lodern",
+                "und",
+                "Schnee",
+                "."
+            ]
         }
     }
 }

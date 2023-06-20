@@ -4,34 +4,170 @@
     "author": "Sandra Burkhardt",
     "poem": {
         "line.1": {
-            "text": "Man trippelt zu weit nach links bis die Büsche wie Bäume"
+            "text": "Man trippelt zu weit nach links bis die Büsche wie Bäume",
+            "tokens": [
+                "Man",
+                "trippelt",
+                "zu",
+                "weit",
+                "nach",
+                "links",
+                "bis",
+                "die",
+                "Büsche",
+                "wie",
+                "Bäume"
+            ]
         },
         "line.2": {
-            "text": "wachsen, als gewaltige Waldwand entlang einer Geraden,"
+            "text": "wachsen, als gewaltige Waldwand entlang einer Geraden,",
+            "tokens": [
+                "wachsen",
+                ",",
+                "als",
+                "gewaltige",
+                "Waldwand",
+                "entlang",
+                "einer",
+                "Geraden",
+                ","
+            ]
         },
         "line.3": {
-            "text": "und je gerader der Stamm, desto verzweigter der Zweig."
+            "text": "und je gerader der Stamm, desto verzweigter der Zweig.",
+            "tokens": [
+                "und",
+                "je",
+                "gerader",
+                "der",
+                "Stamm",
+                ",",
+                "desto",
+                "verzweigter",
+                "der",
+                "Zweig",
+                "."
+            ]
         },
         "line.4": {
-            "text": "Was gelingt der Wildnis, und was gelingt ihr nicht? Sprachs:"
+            "text": "Was gelingt der Wildnis, und was gelingt ihr nicht? Sprachs:",
+            "tokens": [
+                "Was",
+                "gelingt",
+                "der",
+                "Wildnis",
+                ",",
+                "und",
+                "was",
+                "gelingt",
+                "ihr",
+                "nicht",
+                "?",
+                "Sprachs",
+                ":"
+            ]
         },
         "line.5": {
-            "text": "Leg jetzt den Kopf in den Nacken, bis du die Wipfel"
+            "text": "Leg jetzt den Kopf in den Nacken, bis du die Wipfel",
+            "tokens": [
+                "Leg",
+                "jetzt",
+                "den",
+                "Kopf",
+                "in",
+                "den",
+                "Nacken",
+                ",",
+                "bis",
+                "du",
+                "die",
+                "Wipfel"
+            ]
         },
         "line.6": {
-            "text": "und schon wieder das Kies siehst. Besieht man aber"
+            "text": "und schon wieder das Kies siehst. Besieht man aber",
+            "tokens": [
+                "und",
+                "schon",
+                "wieder",
+                "das",
+                "Kies",
+                "siehst",
+                ".",
+                "Besieht",
+                "man",
+                "aber"
+            ]
         },
         "line.7": {
-            "text": "die Blätter genauer, beginnt hier der Verfall: Viele Hölzer,"
+            "text": "die Blätter genauer, beginnt hier der Verfall: Viele Hölzer,",
+            "tokens": [
+                "die",
+                "Blätter",
+                "genauer",
+                ",",
+                "beginnt",
+                "hier",
+                "der",
+                "Verfall",
+                ":",
+                "Viele",
+                "Hölzer",
+                ","
+            ]
         },
         "line.8": {
-            "text": "die aus ihnen wuchern und drücken, Wipfel und zwei Rehe,"
+            "text": "die aus ihnen wuchern und drücken, Wipfel und zwei Rehe,",
+            "tokens": [
+                "die",
+                "aus",
+                "ihnen",
+                "wuchern",
+                "und",
+                "drücken",
+                ",",
+                "Wipfel",
+                "und",
+                "zwei",
+                "Rehe",
+                ","
+            ]
         },
         "line.9": {
-            "text": "die zurückblicken. Zwei Jäger, die in den Wald blicken,"
+            "text": "die zurückblicken. Zwei Jäger, die in den Wald blicken,",
+            "tokens": [
+                "die",
+                "zurückblicken",
+                ".",
+                "Zwei",
+                "Jäger",
+                ",",
+                "die",
+                "in",
+                "den",
+                "Wald",
+                "blicken",
+                ","
+            ]
         },
         "line.10": {
-            "text": "und springt einer in die Pfütze, fällt man selbst aus dem Bild."
+            "text": "und springt einer in die Pfütze, fällt man selbst aus dem Bild.",
+            "tokens": [
+                "und",
+                "springt",
+                "einer",
+                "in",
+                "die",
+                "Pfütze",
+                ",",
+                "fällt",
+                "man",
+                "selbst",
+                "aus",
+                "dem",
+                "Bild",
+                "."
+            ]
         }
     }
 }

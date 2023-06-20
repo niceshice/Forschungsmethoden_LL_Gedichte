@@ -4,76 +4,283 @@
     "author": "Erich Kästner",
     "poem": {
         "line.1": {
-            "text": "Wär ich ein Baum, stünd ich droben am Wald."
+            "text": "Wär ich ein Baum, stünd ich droben am Wald.",
+            "tokens": [
+                "Wär",
+                "ich",
+                "ein",
+                "Baum",
+                ",",
+                "stünd",
+                "ich",
+                "droben",
+                "am",
+                "Wald",
+                "."
+            ]
         },
         "line.2": {
-            "text": "Trüg Wolke und Stern in den grünen Haaren."
+            "text": "Trüg Wolke und Stern in den grünen Haaren.",
+            "tokens": [
+                "Trüg",
+                "Wolke",
+                "und",
+                "Stern",
+                "in",
+                "den",
+                "grünen",
+                "Haaren",
+                "."
+            ]
         },
         "line.3": {
-            "text": "Wäre mit meinen dreihundert Jahren"
+            "text": "Wäre mit meinen dreihundert Jahren",
+            "tokens": [
+                "Wäre",
+                "mit",
+                "meinen",
+                "dreihundert",
+                "Jahren"
+            ]
         },
         "line.4": {
-            "text": "noch gar nicht sehr alt."
+            "text": "noch gar nicht sehr alt.",
+            "tokens": [
+                "noch",
+                "gar",
+                "nicht",
+                "sehr",
+                "alt",
+                "."
+            ]
         },
         "line.5": {
-            "text": "Wildtauben grüben den Kopf untern Flügel."
+            "text": "Wildtauben grüben den Kopf untern Flügel.",
+            "tokens": [
+                "Wildtauben",
+                "grüben",
+                "den",
+                "Kopf",
+                "untern",
+                "Flügel",
+                "."
+            ]
         },
         "line.6": {
-            "text": "Kriege ritten und klirrten im Trab"
+            "text": "Kriege ritten und klirrten im Trab",
+            "tokens": [
+                "Kriege",
+                "ritten",
+                "und",
+                "klirrten",
+                "im",
+                "Trab"
+            ]
         },
         "line.7": {
-            "text": "querfeldein und über die Hügel"
+            "text": "querfeldein und über die Hügel",
+            "tokens": [
+                "querfeldein",
+                "und",
+                "über",
+                "die",
+                "Hügel"
+            ]
         },
         "line.8": {
-            "text": "ins offene Grab."
+            "text": "ins offene Grab.",
+            "tokens": [
+                "ins",
+                "offene",
+                "Grab",
+                "."
+            ]
         },
         "line.9": {
-            "text": "Humpelten Hunger vorüber und Seuche."
+            "text": "Humpelten Hunger vorüber und Seuche.",
+            "tokens": [
+                "Humpelten",
+                "Hunger",
+                "vorüber",
+                "und",
+                "Seuche",
+                "."
+            ]
         },
         "line.10": {
-            "text": "Kämen und schmölzen wie Ostern und Schnee."
+            "text": "Kämen und schmölzen wie Ostern und Schnee.",
+            "tokens": [
+                "Kämen",
+                "und",
+                "schmölzen",
+                "wie",
+                "Ostern",
+                "und",
+                "Schnee",
+                "."
+            ]
         },
         "line.11": {
-            "text": "Läg ein Pärchen versteckt im Gesträuche"
+            "text": "Läg ein Pärchen versteckt im Gesträuche",
+            "tokens": [
+                "Läg",
+                "ein",
+                "Pärchen",
+                "versteckt",
+                "im",
+                "Gesträuche"
+            ]
         },
         "line.12": {
-            "text": "und tät sich süß weh."
+            "text": "und tät sich süß weh.",
+            "tokens": [
+                "und",
+                "tät",
+                "sich",
+                "süß",
+                "weh",
+                "."
+            ]
         },
         "line.13": {
-            "text": "Klängen vom Dorf her die Kirmesgeigen."
+            "text": "Klängen vom Dorf her die Kirmesgeigen.",
+            "tokens": [
+                "Klängen",
+                "vom",
+                "Dorf",
+                "her",
+                "die",
+                "Kirmesgeigen",
+                "."
+            ]
         },
         "line.14": {
-            "text": "Ameisen brächten die Ernte ein."
+            "text": "Ameisen brächten die Ernte ein.",
+            "tokens": [
+                "Ameisen",
+                "brächten",
+                "die",
+                "Ernte",
+                "ein",
+                "."
+            ]
         },
         "line.15": {
-            "text": "Hinge ein Toter in meinen Zweigen"
+            "text": "Hinge ein Toter in meinen Zweigen",
+            "tokens": [
+                "Hinge",
+                "ein",
+                "Toter",
+                "in",
+                "meinen",
+                "Zweigen"
+            ]
         },
         "line.16": {
-            "text": "und schwänge das Bein."
+            "text": "und schwänge das Bein.",
+            "tokens": [
+                "und",
+                "schwänge",
+                "das",
+                "Bein",
+                "."
+            ]
         },
         "line.17": {
-            "text": "Spränge die Flut und ersäufte die Täler."
+            "text": "Spränge die Flut und ersäufte die Täler.",
+            "tokens": [
+                "Spränge",
+                "die",
+                "Flut",
+                "und",
+                "ersäufte",
+                "die",
+                "Täler",
+                "."
+            ]
         },
         "line.18": {
-            "text": "Wüchse Vergissmeinnicht zärtlich am Bach."
+            "text": "Wüchse Vergissmeinnicht zärtlich am Bach.",
+            "tokens": [
+                "Wüchse",
+                "Vergissmeinnicht",
+                "zärtlich",
+                "am",
+                "Bach",
+                "."
+            ]
         },
         "line.19": {
-            "text": "Alles verginge wie Täuschung und Fehler"
+            "text": "Alles verginge wie Täuschung und Fehler",
+            "tokens": [
+                "Alles",
+                "verginge",
+                "wie",
+                "Täuschung",
+                "und",
+                "Fehler"
+            ]
         },
         "line.20": {
-            "text": "und Rauch überm Dach."
+            "text": "und Rauch überm Dach.",
+            "tokens": [
+                "und",
+                "Rauch",
+                "überm",
+                "Dach",
+                "."
+            ]
         },
         "line.21": {
-            "text": "Wär ich ein Baum, stünd ich droben am Wald."
+            "text": "Wär ich ein Baum, stünd ich droben am Wald.",
+            "tokens": [
+                "Wär",
+                "ich",
+                "ein",
+                "Baum",
+                ",",
+                "stünd",
+                "ich",
+                "droben",
+                "am",
+                "Wald",
+                "."
+            ]
         },
         "line.22": {
-            "text": "Trüg Wolke und Stern in den grünen Haaren."
+            "text": "Trüg Wolke und Stern in den grünen Haaren.",
+            "tokens": [
+                "Trüg",
+                "Wolke",
+                "und",
+                "Stern",
+                "in",
+                "den",
+                "grünen",
+                "Haaren",
+                "."
+            ]
         },
         "line.23": {
-            "text": "Wäre mit meinen dreihundert Jahren"
+            "text": "Wäre mit meinen dreihundert Jahren",
+            "tokens": [
+                "Wäre",
+                "mit",
+                "meinen",
+                "dreihundert",
+                "Jahren"
+            ]
         },
         "line.24": {
-            "text": "noch gar nicht sehr alt...."
+            "text": "noch gar nicht sehr alt....",
+            "tokens": [
+                "noch",
+                "gar",
+                "nicht",
+                "sehr",
+                "alt",
+                "...."
+            ]
         }
     }
 }

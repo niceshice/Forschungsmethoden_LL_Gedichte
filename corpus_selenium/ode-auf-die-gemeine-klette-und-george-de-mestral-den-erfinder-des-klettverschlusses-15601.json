@@ -4,148 +4,487 @@
     "author": "Steffen  Mensching",
     "poem": {
         "line.1": {
-            "text": "Arcticum lappa,"
+            "text": "Arcticum lappa,",
+            "tokens": [
+                "Arcticum",
+                "lappa",
+                ","
+            ]
         },
         "line.2": {
-            "text": "Zauberkraut, einst,"
+            "text": "Zauberkraut, einst,",
+            "tokens": [
+                "Zauberkraut",
+                ",",
+                "einst",
+                ","
+            ]
         },
         "line.3": {
-            "text": "Wider Dämonen und Donner. Den Extrakt"
+            "text": "Wider Dämonen und Donner. Den Extrakt",
+            "tokens": [
+                "Wider",
+                "Dämonen",
+                "und",
+                "Donner",
+                ".",
+                "Den",
+                "Extrakt"
+            ]
         },
         "line.4": {
-            "text": "Ihrer Wurzel empfahl"
+            "text": "Ihrer Wurzel empfahl",
+            "tokens": [
+                "Ihrer",
+                "Wurzel",
+                "empfahl"
+            ]
         },
         "line.5": {
-            "text": "Hildegard"
+            "text": "Hildegard",
+            "tokens": [
+                "Hildegard"
+            ]
         },
         "line.6": {
-            "text": "Von Bingen"
+            "text": "Von Bingen",
+            "tokens": [
+                "Von",
+                "Bingen"
+            ]
         },
         "line.7": {
-            "text": "gegen Lepra, Steinleiden,"
+            "text": "gegen Lepra, Steinleiden,",
+            "tokens": [
+                "gegen",
+                "Lepra",
+                ",",
+                "Steinleiden",
+                ","
+            ]
         },
         "line.8": {
-            "text": "Grind. Mit den Hexen fiel"
+            "text": "Grind. Mit den Hexen fiel",
+            "tokens": [
+                "Grind",
+                ".",
+                "Mit",
+                "den",
+                "Hexen",
+                "fiel"
+            ]
         },
         "line.9": {
-            "text": "Auch die Klette dem Vergessen"
+            "text": "Auch die Klette dem Vergessen",
+            "tokens": [
+                "Auch",
+                "die",
+                "Klette",
+                "dem",
+                "Vergessen"
+            ]
         },
         "line.10": {
-            "text": "Anheim. Auf Ödland, im Unterholz"
+            "text": "Anheim. Auf Ödland, im Unterholz",
+            "tokens": [
+                "Anheim",
+                ".",
+                "Auf",
+                "Ödland",
+                ",",
+                "im",
+                "Unterholz"
+            ]
         },
         "line.11": {
-            "text": "Der Wälder wucherte sie, über Jahrhunderte,"
+            "text": "Der Wälder wucherte sie, über Jahrhunderte,",
+            "tokens": [
+                "Der",
+                "Wälder",
+                "wucherte",
+                "sie",
+                ",",
+                "über",
+                "Jahrhunderte",
+                ","
+            ]
         },
         "line.12": {
-            "text": "Still vor sich hin, eine Laune Gottes,"
+            "text": "Still vor sich hin, eine Laune Gottes,",
+            "tokens": [
+                "Still",
+                "vor",
+                "sich",
+                "hin",
+                ",",
+                "eine",
+                "Laune",
+                "Gottes",
+                ","
+            ]
         },
         "line.13": {
-            "text": "Zu nichts zu gebrauchen. Wanderer,"
+            "text": "Zu nichts zu gebrauchen. Wanderer,",
+            "tokens": [
+                "Zu",
+                "nichts",
+                "zu",
+                "gebrauchen",
+                ".",
+                "Wanderer",
+                ","
+            ]
         },
         "line.14": {
-            "text": "Jäger, Soldaten, zupften"
+            "text": "Jäger, Soldaten, zupften",
+            "tokens": [
+                "Jäger",
+                ",",
+                "Soldaten",
+                ",",
+                "zupften"
+            ]
         },
         "line.15": {
-            "text": "Die widerspenstigen Knöllchen"
+            "text": "Die widerspenstigen Knöllchen",
+            "tokens": [
+                "Die",
+                "widerspenstigen",
+                "Knöllchen"
+            ]
         },
         "line.16": {
-            "text": "Mürrisch aus Haaren und Kleidern. Kinder"
+            "text": "Mürrisch aus Haaren und Kleidern. Kinder",
+            "tokens": [
+                "Mürrisch",
+                "aus",
+                "Haaren",
+                "und",
+                "Kleidern",
+                ".",
+                "Kinder"
+            ]
         },
         "line.17": {
-            "text": "Zielten damit auf die Rockschöße"
+            "text": "Zielten damit auf die Rockschöße",
+            "tokens": [
+                "Zielten",
+                "damit",
+                "auf",
+                "die",
+                "Rockschöße"
+            ]
         },
         "line.18": {
-            "text": "Von Hauslehrern und Katecheten."
+            "text": "Von Hauslehrern und Katecheten.",
+            "tokens": [
+                "Von",
+                "Hauslehrern",
+                "und",
+                "Katecheten",
+                "."
+            ]
         },
         "line.19": {
-            "text": "An einem Maiabend des Jahres"
+            "text": "An einem Maiabend des Jahres",
+            "tokens": [
+                "An",
+                "einem",
+                "Maiabend",
+                "des",
+                "Jahres"
+            ]
         },
         "line.20": {
-            "text": "Neunzehn Achtundvierzig"
+            "text": "Neunzehn Achtundvierzig",
+            "tokens": [
+                "Neunzehn",
+                "Achtundvierzig"
+            ]
         },
         "line.21": {
-            "text": "Kehrte George de Mestral, ein Schweizer"
+            "text": "Kehrte George de Mestral, ein Schweizer",
+            "tokens": [
+                "Kehrte",
+                "George",
+                "de",
+                "Mestral",
+                ",",
+                "ein",
+                "Schweizer"
+            ]
         },
         "line.22": {
-            "text": "Ingenieur, mit seinem Hund"
+            "text": "Ingenieur, mit seinem Hund",
+            "tokens": [
+                "Ingenieur",
+                ",",
+                "mit",
+                "seinem",
+                "Hund"
+            ]
         },
         "line.23": {
-            "text": "Aus den Wiesen zurück, Kletten"
+            "text": "Aus den Wiesen zurück, Kletten",
+            "tokens": [
+                "Aus",
+                "den",
+                "Wiesen",
+                "zurück",
+                ",",
+                "Kletten"
+            ]
         },
         "line.24": {
-            "text": "An Hosenbeinen und Strümpfen."
+            "text": "An Hosenbeinen und Strümpfen.",
+            "tokens": [
+                "An",
+                "Hosenbeinen",
+                "und",
+                "Strümpfen",
+                "."
+            ]
         },
         "line.25": {
-            "text": "Die Hand in den Flanken des Dackels"
+            "text": "Die Hand in den Flanken des Dackels",
+            "tokens": [
+                "Die",
+                "Hand",
+                "in",
+                "den",
+                "Flanken",
+                "des",
+                "Dackels"
+            ]
         },
         "line.26": {
-            "text": "Prüfte der Forscher"
+            "text": "Prüfte der Forscher",
+            "tokens": [
+                "Prüfte",
+                "der",
+                "Forscher"
+            ]
         },
         "line.27": {
-            "text": "Eine haarige Kugel. Winzige Häkchen,"
+            "text": "Eine haarige Kugel. Winzige Häkchen,",
+            "tokens": [
+                "Eine",
+                "haarige",
+                "Kugel",
+                ".",
+                "Winzige",
+                "Häkchen",
+                ","
+            ]
         },
         "line.28": {
-            "text": "Erkannte er unter der Lupe,"
+            "text": "Erkannte er unter der Lupe,",
+            "tokens": [
+                "Erkannte",
+                "er",
+                "unter",
+                "der",
+                "Lupe",
+                ","
+            ]
         },
         "line.29": {
-            "text": "Krallten sich fest"
+            "text": "Krallten sich fest",
+            "tokens": [
+                "Krallten",
+                "sich",
+                "fest"
+            ]
         },
         "line.30": {
-            "text": "In der Wolle. Ihm stockte der Atem."
+            "text": "In der Wolle. Ihm stockte der Atem.",
+            "tokens": [
+                "In",
+                "der",
+                "Wolle",
+                ".",
+                "Ihm",
+                "stockte",
+                "der",
+                "Atem",
+                "."
+            ]
         },
         "line.31": {
-            "text": "Was wäre wenn? Was für ein Wahnwitz,"
+            "text": "Was wäre wenn? Was für ein Wahnwitz,",
+            "tokens": [
+                "Was",
+                "wäre",
+                "wenn",
+                "?",
+                "Was",
+                "für",
+                "ein",
+                "Wahnwitz",
+                ","
+            ]
         },
         "line.32": {
-            "text": "Anzutreten gegen die"
+            "text": "Anzutreten gegen die",
+            "tokens": [
+                "Anzutreten",
+                "gegen",
+                "die"
+            ]
         },
         "line.33": {
-            "text": "ultima ratio"
+            "text": "ultima ratio",
+            "tokens": [
+                "ultima",
+                "ratio"
+            ]
         },
         "line.34": {
-            "text": "Von Reißverschlüssen und Knöpfen."
+            "text": "Von Reißverschlüssen und Knöpfen.",
+            "tokens": [
+                "Von",
+                "Reißverschlüssen",
+                "und",
+                "Knöpfen",
+                "."
+            ]
         },
         "line.35": {
-            "text": "Das Patent lag brach. Eine Revolution"
+            "text": "Das Patent lag brach. Eine Revolution",
+            "tokens": [
+                "Das",
+                "Patent",
+                "lag",
+                "brach",
+                ".",
+                "Eine",
+                "Revolution"
+            ]
         },
         "line.36": {
-            "text": "Der Verschlußtechnik"
+            "text": "Der Verschlußtechnik",
+            "tokens": [
+                "Der",
+                "Verschlußtechnik"
+            ]
         },
         "line.37": {
-            "text": "Wuchs an den Rainen. Der Rest war Routine"
+            "text": "Wuchs an den Rainen. Der Rest war Routine",
+            "tokens": [
+                "Wuchs",
+                "an",
+                "den",
+                "Rainen",
+                ".",
+                "Der",
+                "Rest",
+                "war",
+                "Routine"
+            ]
         },
         "line.38": {
-            "text": "Und Handwerk."
+            "text": "Und Handwerk.",
+            "tokens": [
+                "Und",
+                "Handwerk",
+                "."
+            ]
         },
         "line.39": {
-            "text": "Chapeau!,"
+            "text": "Chapeau!,",
+            "tokens": [
+                "Chapeau",
+                "!",
+                ","
+            ]
         },
         "line.40": {
-            "text": "Meister Mestral,"
+            "text": "Meister Mestral,",
+            "tokens": [
+                "Meister",
+                "Mestral",
+                ","
+            ]
         },
         "line.41": {
-            "text": "Astronauten und ABC-Schützen"
+            "text": "Astronauten und ABC-Schützen",
+            "tokens": [
+                "Astronauten",
+                "und",
+                "ABC-Schützen"
+            ]
         },
         "line.42": {
-            "text": "Lieben Ihre Erfindung, Sie schenkten"
+            "text": "Lieben Ihre Erfindung, Sie schenkten",
+            "tokens": [
+                "Lieben",
+                "Ihre",
+                "Erfindung",
+                ",",
+                "Sie",
+                "schenkten"
+            ]
         },
         "line.43": {
-            "text": "Der Welt ein Geräusch, dieses"
+            "text": "Der Welt ein Geräusch, dieses",
+            "tokens": [
+                "Der",
+                "Welt",
+                "ein",
+                "Geräusch",
+                ",",
+                "dieses"
+            ]
         },
         "line.44": {
-            "text": "Ritsch,"
+            "text": "Ritsch,",
+            "tokens": [
+                "Ritsch",
+                ","
+            ]
         },
         "line.45": {
-            "text": "Und den stachligen Glauben, noch"
+            "text": "Und den stachligen Glauben, noch",
+            "tokens": [
+                "Und",
+                "den",
+                "stachligen",
+                "Glauben",
+                ",",
+                "noch"
+            ]
         },
         "line.46": {
-            "text": "Für die beste Lösung"
+            "text": "Für die beste Lösung",
+            "tokens": [
+                "Für",
+                "die",
+                "beste",
+                "Lösung"
+            ]
         },
         "line.47": {
-            "text": "Gibt es auf Erden eine, die einfach"
+            "text": "Gibt es auf Erden eine, die einfach",
+            "tokens": [
+                "Gibt",
+                "es",
+                "auf",
+                "Erden",
+                "eine",
+                ",",
+                "die",
+                "einfach"
+            ]
         },
         "line.48": {
-            "text": "Besser und einfacher ist."
+            "text": "Besser und einfacher ist.",
+            "tokens": [
+                "Besser",
+                "und",
+                "einfacher",
+                "ist",
+                "."
+            ]
         }
     }
 }

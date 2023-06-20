@@ -4,64 +4,319 @@
     "author": "Yevgeniy Breyger",
     "poem": {
         "line.1": {
-            "text": "Blau ist die Farbe der Hoffnung. Grün, die Empörung."
+            "text": "Blau ist die Farbe der Hoffnung. Grün, die Empörung.",
+            "tokens": [
+                "Blau",
+                "ist",
+                "die",
+                "Farbe",
+                "der",
+                "Hoffnung",
+                ".",
+                "Grün",
+                ",",
+                "die",
+                "Empörung",
+                "."
+            ]
         },
         "line.2": {
-            "text": "Eitelkeit – gelb, wie der Morgen über den Bergen,"
+            "text": "Eitelkeit – gelb, wie der Morgen über den Bergen,",
+            "tokens": [
+                "Eitelkeit",
+                "�",
+                "�",
+                "gelb",
+                ",",
+                "wie",
+                "der",
+                "Morgen",
+                "über",
+                "den",
+                "Bergen",
+                ","
+            ]
         },
         "line.3": {
-            "text": "Wolken, verkleidet in Außenhaut Licht. Wind wird erzeugt"
+            "text": "Wolken, verkleidet in Außenhaut Licht. Wind wird erzeugt",
+            "tokens": [
+                "Wolken",
+                ",",
+                "verkleidet",
+                "in",
+                "Außenhaut",
+                "Licht",
+                ".",
+                "Wind",
+                "wird",
+                "erzeugt"
+            ]
         },
         "line.4": {
-            "text": "durch die Drehung des Erdballs und kreist um Paläste."
+            "text": "durch die Drehung des Erdballs und kreist um Paläste.",
+            "tokens": [
+                "durch",
+                "die",
+                "Drehung",
+                "des",
+                "Erdballs",
+                "und",
+                "kreist",
+                "um",
+                "Paläste",
+                "."
+            ]
         },
         "line.5": {
-            "text": "Gebet an die Furcht. Gebet an das Holz in den Möbeln,"
+            "text": "Gebet an die Furcht. Gebet an das Holz in den Möbeln,",
+            "tokens": [
+                "Gebet",
+                "an",
+                "die",
+                "Furcht",
+                ".",
+                "Gebet",
+                "an",
+                "das",
+                "Holz",
+                "in",
+                "den",
+                "Möbeln",
+                ","
+            ]
         },
         "line.6": {
-            "text": "die Spannung des Körpers bei einer reifen Bewegung,"
+            "text": "die Spannung des Körpers bei einer reifen Bewegung,",
+            "tokens": [
+                "die",
+                "Spannung",
+                "des",
+                "Körpers",
+                "bei",
+                "einer",
+                "reifen",
+                "Bewegung",
+                ","
+            ]
         },
         "line.7": {
-            "text": "die launische Gunst von Insekten – Sie beten im Winter."
+            "text": "die launische Gunst von Insekten – Sie beten im Winter.",
+            "tokens": [
+                "die",
+                "launische",
+                "Gunst",
+                "von",
+                "Insekten",
+                "�",
+                "�",
+                "Sie",
+                "beten",
+                "im",
+                "Winter",
+                "."
+            ]
         },
         "line.8": {
-            "text": "Mit der Pünktlichkeit einer Krankheit kommt Frühling."
+            "text": "Mit der Pünktlichkeit einer Krankheit kommt Frühling.",
+            "tokens": [
+                "Mit",
+                "der",
+                "Pünktlichkeit",
+                "einer",
+                "Krankheit",
+                "kommt",
+                "Frühling",
+                "."
+            ]
         },
         "line.9": {
-            "text": "Honig quillt golden aus Waben, benetzt das Haar eines"
+            "text": "Honig quillt golden aus Waben, benetzt das Haar eines",
+            "tokens": [
+                "Honig",
+                "quillt",
+                "golden",
+                "aus",
+                "Waben",
+                ",",
+                "benetzt",
+                "das",
+                "Haar",
+                "eines"
+            ]
         },
         "line.10": {
-            "text": "Mädchens. Noch nie wurde etwas gepflanzt, das selbst"
+            "text": "Mädchens. Noch nie wurde etwas gepflanzt, das selbst",
+            "tokens": [
+                "Mädchens",
+                ".",
+                "Noch",
+                "nie",
+                "wurde",
+                "etwas",
+                "gepflanzt",
+                ",",
+                "das",
+                "selbst"
+            ]
         },
         "line.11": {
-            "text": "sein Wachstum bestimmte. Noch nie war die Erde so trocken,"
+            "text": "sein Wachstum bestimmte. Noch nie war die Erde so trocken,",
+            "tokens": [
+                "sein",
+                "Wachstum",
+                "bestimmte",
+                ".",
+                "Noch",
+                "nie",
+                "war",
+                "die",
+                "Erde",
+                "so",
+                "trocken",
+                ","
+            ]
         },
         "line.12": {
-            "text": "das Glitzern von Honig so schön. Gebet an das Warten."
+            "text": "das Glitzern von Honig so schön. Gebet an das Warten.",
+            "tokens": [
+                "das",
+                "Glitzern",
+                "von",
+                "Honig",
+                "so",
+                "schön",
+                ".",
+                "Gebet",
+                "an",
+                "das",
+                "Warten",
+                "."
+            ]
         },
         "line.13": {
-            "text": "Sie blickt in die Ferne, tut nichts. Sobald sich die Erde"
+            "text": "Sie blickt in die Ferne, tut nichts. Sobald sich die Erde",
+            "tokens": [
+                "Sie",
+                "blickt",
+                "in",
+                "die",
+                "Ferne",
+                ",",
+                "tut",
+                "nichts",
+                ".",
+                "Sobald",
+                "sich",
+                "die",
+                "Erde"
+            ]
         },
         "line.14": {
-            "text": "verschließt, wird sie handeln. Gebet an das Speichern"
+            "text": "verschließt, wird sie handeln. Gebet an das Speichern",
+            "tokens": [
+                "verschließt",
+                ",",
+                "wird",
+                "sie",
+                "handeln",
+                ".",
+                "Gebet",
+                "an",
+                "das",
+                "Speichern"
+            ]
         },
         "line.15": {
-            "text": "von Daten in Zellen, ihr Wachstum nach innen. Licht"
+            "text": "von Daten in Zellen, ihr Wachstum nach innen. Licht",
+            "tokens": [
+                "von",
+                "Daten",
+                "in",
+                "Zellen",
+                ",",
+                "ihr",
+                "Wachstum",
+                "nach",
+                "innen",
+                ".",
+                "Licht"
+            ]
         },
         "line.16": {
-            "text": "überträgt Wärme. Wärme überträgt Enge. Paläste zerbröseln"
+            "text": "überträgt Wärme. Wärme überträgt Enge. Paläste zerbröseln",
+            "tokens": [
+                "überträgt",
+                "Wärme",
+                ".",
+                "Wärme",
+                "überträgt",
+                "Enge",
+                ".",
+                "Paläste",
+                "zerbröseln"
+            ]
         },
         "line.17": {
-            "text": "wie Kreide. Sie kostet den Honig. Spannt ihre Zunge an,"
+            "text": "wie Kreide. Sie kostet den Honig. Spannt ihre Zunge an,",
+            "tokens": [
+                "wie",
+                "Kreide",
+                ".",
+                "Sie",
+                "kostet",
+                "den",
+                "Honig",
+                ".",
+                "Spannt",
+                "ihre",
+                "Zunge",
+                "an",
+                ","
+            ]
         },
         "line.18": {
-            "text": "schluckt ihn herunter. Die Ferne verschwimmt mit dem"
+            "text": "schluckt ihn herunter. Die Ferne verschwimmt mit dem",
+            "tokens": [
+                "schluckt",
+                "ihn",
+                "herunter",
+                ".",
+                "Die",
+                "Ferne",
+                "verschwimmt",
+                "mit",
+                "dem"
+            ]
         },
         "line.19": {
-            "text": "Himmel. Insekten rufen mit Stimme der Mutter. Noch nie"
+            "text": "Himmel. Insekten rufen mit Stimme der Mutter. Noch nie",
+            "tokens": [
+                "Himmel",
+                ".",
+                "Insekten",
+                "rufen",
+                "mit",
+                "Stimme",
+                "der",
+                "Mutter",
+                ".",
+                "Noch",
+                "nie"
+            ]
         },
         "line.20": {
-            "text": "hat der Honig so deutlich nach Abschied geschmeckt."
+            "text": "hat der Honig so deutlich nach Abschied geschmeckt.",
+            "tokens": [
+                "hat",
+                "der",
+                "Honig",
+                "so",
+                "deutlich",
+                "nach",
+                "Abschied",
+                "geschmeckt",
+                "."
+            ]
         }
     }
 }

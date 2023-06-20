@@ -4,70 +4,237 @@
     "author": "Anja Kampmann",
     "poem": {
         "line.1": {
-            "text": "eine landschaft die daliegt"
+            "text": "eine landschaft die daliegt",
+            "tokens": [
+                "eine",
+                "landschaft",
+                "die",
+                "daliegt"
+            ]
         },
         "line.2": {
-            "text": "als wartete sie auf eine brandung"
+            "text": "als wartete sie auf eine brandung",
+            "tokens": [
+                "als",
+                "wartete",
+                "sie",
+                "auf",
+                "eine",
+                "brandung"
+            ]
         },
         "line.3": {
-            "text": "die ihr etwas leben einhaucht"
+            "text": "die ihr etwas leben einhaucht",
+            "tokens": [
+                "die",
+                "ihr",
+                "etwas",
+                "leben",
+                "einhaucht"
+            ]
         },
         "line.4": {
-            "text": "wer über den flächen deutet den wind"
+            "text": "wer über den flächen deutet den wind",
+            "tokens": [
+                "wer",
+                "über",
+                "den",
+                "flächen",
+                "deutet",
+                "den",
+                "wind"
+            ]
         },
         "line.5": {
-            "text": "all die gewundenen alten geschichten"
+            "text": "all die gewundenen alten geschichten",
+            "tokens": [
+                "all",
+                "die",
+                "gewundenen",
+                "alten",
+                "geschichten"
+            ]
         },
         "line.6": {
-            "text": "zeichnen sich in den himmel"
+            "text": "zeichnen sich in den himmel",
+            "tokens": [
+                "zeichnen",
+                "sich",
+                "in",
+                "den",
+                "himmel"
+            ]
         },
         "line.7": {
-            "text": "nur als umriss nur als linie des winters"
+            "text": "nur als umriss nur als linie des winters",
+            "tokens": [
+                "nur",
+                "als",
+                "umriss",
+                "nur",
+                "als",
+                "linie",
+                "des",
+                "winters"
+            ]
         },
         "line.8": {
-            "text": "der schweigt niemand gibt"
+            "text": "der schweigt niemand gibt",
+            "tokens": [
+                "der",
+                "schweigt",
+                "niemand",
+                "gibt"
+            ]
         },
         "line.9": {
-            "text": "den dörfern die schuld"
+            "text": "den dörfern die schuld",
+            "tokens": [
+                "den",
+                "dörfern",
+                "die",
+                "schuld"
+            ]
         },
         "line.10": {
-            "text": "die sich flach an den horizont pressen"
+            "text": "die sich flach an den horizont pressen",
+            "tokens": [
+                "die",
+                "sich",
+                "flach",
+                "an",
+                "den",
+                "horizont",
+                "pressen"
+            ]
         },
         "line.11": {
-            "text": "was ist es (sagen die wolken) was euch hält?"
+            "text": "was ist es (sagen die wolken) was euch hält?",
+            "tokens": [
+                "was",
+                "ist",
+                "es",
+                "(",
+                "sagen",
+                "die",
+                "wolken",
+                ")",
+                "was",
+                "euch",
+                "hält",
+                "?"
+            ]
         },
         "line.12": {
-            "text": "der krumme buckel der welt"
+            "text": "der krumme buckel der welt",
+            "tokens": [
+                "der",
+                "krumme",
+                "buckel",
+                "der",
+                "welt"
+            ]
         },
         "line.13": {
-            "text": "späht längst ins all"
+            "text": "späht längst ins all",
+            "tokens": [
+                "späht",
+                "längst",
+                "ins",
+                "all"
+            ]
         },
         "line.14": {
-            "text": "und nachts nehmen sie"
+            "text": "und nachts nehmen sie",
+            "tokens": [
+                "und",
+                "nachts",
+                "nehmen",
+                "sie"
+            ]
         },
         "line.15": {
-            "text": "mit geschliffenen linsen maß"
+            "text": "mit geschliffenen linsen maß",
+            "tokens": [
+                "mit",
+                "geschliffenen",
+                "linsen",
+                "maß"
+            ]
         },
         "line.16": {
-            "text": "die entfernung zur nacht"
+            "text": "die entfernung zur nacht",
+            "tokens": [
+                "die",
+                "entfernung",
+                "zur",
+                "nacht"
+            ]
         },
         "line.17": {
-            "text": "ist gering"
+            "text": "ist gering",
+            "tokens": [
+                "ist",
+                "gering"
+            ]
         },
         "line.18": {
-            "text": "in den liedern wartet ein unruhiger mond"
+            "text": "in den liedern wartet ein unruhiger mond",
+            "tokens": [
+                "in",
+                "den",
+                "liedern",
+                "wartet",
+                "ein",
+                "unruhiger",
+                "mond"
+            ]
         },
         "line.19": {
-            "text": "auf den tag was ist es was er hier sieht"
+            "text": "auf den tag was ist es was er hier sieht",
+            "tokens": [
+                "auf",
+                "den",
+                "tag",
+                "was",
+                "ist",
+                "es",
+                "was",
+                "er",
+                "hier",
+                "sieht"
+            ]
         },
         "line.20": {
-            "text": "geschichte der pfluglinien"
+            "text": "geschichte der pfluglinien",
+            "tokens": [
+                "geschichte",
+                "der",
+                "pfluglinien"
+            ]
         },
         "line.21": {
-            "text": "die liebe zu einem haus"
+            "text": "die liebe zu einem haus",
+            "tokens": [
+                "die",
+                "liebe",
+                "zu",
+                "einem",
+                "haus"
+            ]
         },
         "line.22": {
-            "text": "in dem wir es warm haben sollen."
+            "text": "in dem wir es warm haben sollen.",
+            "tokens": [
+                "in",
+                "dem",
+                "wir",
+                "es",
+                "warm",
+                "haben",
+                "sollen",
+                "."
+            ]
         }
     }
 }

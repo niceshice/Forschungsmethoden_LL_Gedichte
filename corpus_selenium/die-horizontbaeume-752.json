@@ -4,55 +4,142 @@
     "author": "Mirko Bonné",
     "poem": {
         "line.1": {
-            "text": "Geh"
+            "text": "Geh",
+            "tokens": [
+                "Geh"
+            ]
         },
         "line.2": {
-            "text": "sonderbar"
+            "text": "sonderbar",
+            "tokens": [
+                "sonderbar"
+            ]
         },
         "line.3": {
-            "text": "ohne etwas zu verlassen zu erreichen"
+            "text": "ohne etwas zu verlassen zu erreichen",
+            "tokens": [
+                "ohne",
+                "etwas",
+                "zu",
+                "verlassen",
+                "zu",
+                "erreichen"
+            ]
         },
         "line.4": {
-            "text": "von Schwelle zu Schwelle"
+            "text": "von Schwelle zu Schwelle",
+            "tokens": [
+                "von",
+                "Schwelle",
+                "zu",
+                "Schwelle"
+            ]
         },
         "line.5": {
-            "text": "ein vorgefertigter Spross wächst"
+            "text": "ein vorgefertigter Spross wächst",
+            "tokens": [
+                "ein",
+                "vorgefertigter",
+                "Spross",
+                "wächst"
+            ]
         },
         "line.6": {
-            "text": "unter dem Armbanduhrglas"
+            "text": "unter dem Armbanduhrglas",
+            "tokens": [
+                "unter",
+                "dem",
+                "Armbanduhrglas"
+            ]
         },
         "line.7": {
-            "text": "Bäume von Stunden"
+            "text": "Bäume von Stunden",
+            "tokens": [
+                "Bäume",
+                "von",
+                "Stunden"
+            ]
         },
         "line.8": {
-            "text": "durch Immergleiches marschiert"
+            "text": "durch Immergleiches marschiert",
+            "tokens": [
+                "durch",
+                "Immergleiches",
+                "marschiert"
+            ]
         },
         "line.9": {
-            "text": "mit anhaltendem Atem"
+            "text": "mit anhaltendem Atem",
+            "tokens": [
+                "mit",
+                "anhaltendem",
+                "Atem"
+            ]
         },
         "line.10": {
-            "text": "die Frau an der Leine gesteht"
+            "text": "die Frau an der Leine gesteht",
+            "tokens": [
+                "die",
+                "Frau",
+                "an",
+                "der",
+                "Leine",
+                "gesteht"
+            ]
         },
         "line.11": {
-            "text": "die schief zusammengenähten"
+            "text": "die schief zusammengenähten",
+            "tokens": [
+                "die",
+                "schief",
+                "zusammengenähten"
+            ]
         },
         "line.12": {
-            "text": "Kleider der Nachbarin als körpergewordene"
+            "text": "Kleider der Nachbarin als körpergewordene",
+            "tokens": [
+                "Kleider",
+                "der",
+                "Nachbarin",
+                "als",
+                "körpergewordene"
+            ]
         },
         "line.13": {
-            "text": "Idee ihres Wahnsinns ein"
+            "text": "Idee ihres Wahnsinns ein",
+            "tokens": [
+                "Idee",
+                "ihres",
+                "Wahnsinns",
+                "ein"
+            ]
         },
         "line.14": {
-            "text": "geh"
+            "text": "geh",
+            "tokens": [
+                "geh"
+            ]
         },
         "line.15": {
-            "text": "so"
+            "text": "so",
+            "tokens": [
+                "so"
+            ]
         },
         "line.16": {
-            "text": "hängen"
+            "text": "hängen",
+            "tokens": [
+                "hängen"
+            ]
         },
         "line.17": {
-            "text": "die Bäume im Horizont"
+            "text": "die Bäume im Horizont",
+            "tokens": [
+                "die",
+                "Bäume",
+                "im",
+                "Horizont"
+            ]
         }
     }
 }

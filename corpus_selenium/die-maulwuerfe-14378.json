@@ -4,193 +4,786 @@
     "author": "Erich Kästner",
     "poem": {
         "line.1": {
-            "text": "I"
+            "text": "I",
+            "tokens": [
+                "I"
+            ]
         },
         "line.2": {
-            "text": "Als sie, krank von den letzten Kriegen,"
+            "text": "Als sie, krank von den letzten Kriegen,",
+            "tokens": [
+                "Als",
+                "sie",
+                ",",
+                "krank",
+                "von",
+                "den",
+                "letzten",
+                "Kriegen",
+                ","
+            ]
         },
         "line.3": {
-            "text": "tief in die Erde hinunterstiegen,"
+            "text": "tief in die Erde hinunterstiegen,",
+            "tokens": [
+                "tief",
+                "in",
+                "die",
+                "Erde",
+                "hinunterstiegen",
+                ","
+            ]
         },
         "line.4": {
-            "text": "in die Kellerstädte, die drunten liegen,"
+            "text": "in die Kellerstädte, die drunten liegen,",
+            "tokens": [
+                "in",
+                "die",
+                "Kellerstädte",
+                ",",
+                "die",
+                "drunten",
+                "liegen",
+                ","
+            ]
         },
         "line.5": {
-            "text": "war noch keinem der Völker klar,"
+            "text": "war noch keinem der Völker klar,",
+            "tokens": [
+                "war",
+                "noch",
+                "keinem",
+                "der",
+                "Völker",
+                "klar",
+                ","
+            ]
         },
         "line.6": {
-            "text": "daß es ein Abschied für immer war."
+            "text": "daß es ein Abschied für immer war.",
+            "tokens": [
+                "daß",
+                "es",
+                "ein",
+                "Abschied",
+                "für",
+                "immer",
+                "war",
+                "."
+            ]
         },
         "line.7": {
-            "text": "Sie stauten sich vor den Türen der Schächte"
+            "text": "Sie stauten sich vor den Türen der Schächte",
+            "tokens": [
+                "Sie",
+                "stauten",
+                "sich",
+                "vor",
+                "den",
+                "Türen",
+                "der",
+                "Schächte"
+            ]
         },
         "line.8": {
-            "text": "mit Nähmaschinen und Akten und Vieh,"
+            "text": "mit Nähmaschinen und Akten und Vieh,",
+            "tokens": [
+                "mit",
+                "Nähmaschinen",
+                "und",
+                "Akten",
+                "und",
+                "Vieh",
+                ","
+            ]
         },
         "line.9": {
-            "text": "daß man sie endlich nach unten brächte,"
+            "text": "daß man sie endlich nach unten brächte,",
+            "tokens": [
+                "daß",
+                "man",
+                "sie",
+                "endlich",
+                "nach",
+                "unten",
+                "brächte",
+                ","
+            ]
         },
         "line.10": {
-            "text": "hinab in die künstlichen Tage und Nächte."
+            "text": "hinab in die künstlichen Tage und Nächte.",
+            "tokens": [
+                "hinab",
+                "in",
+                "die",
+                "künstlichen",
+                "Tage",
+                "und",
+                "Nächte",
+                "."
+            ]
         },
         "line.11": {
-            "text": "Und sie erbrachen, wenn einer schrie."
+            "text": "Und sie erbrachen, wenn einer schrie.",
+            "tokens": [
+                "Und",
+                "sie",
+                "erbrachen",
+                ",",
+                "wenn",
+                "einer",
+                "schrie",
+                "."
+            ]
         },
         "line.12": {
-            "text": "Ach, sie erschraken vor jeder Wolke!"
+            "text": "Ach, sie erschraken vor jeder Wolke!",
+            "tokens": [
+                "Ach",
+                ",",
+                "sie",
+                "erschraken",
+                "vor",
+                "jeder",
+                "Wolke",
+                "!"
+            ]
         },
         "line.13": {
-            "text": "War´s Hexerei oder war´s noch Natur?"
+            "text": "War´s Hexerei oder war´s noch Natur?",
+            "tokens": [
+                "War�",
+                "�",
+                "s",
+                "Hexerei",
+                "oder",
+                "war�",
+                "�",
+                "s",
+                "noch",
+                "Natur",
+                "?"
+            ]
         },
         "line.14": {
-            "text": "Brachte sie Regen für Flüsse und Flur?"
+            "text": "Brachte sie Regen für Flüsse und Flur?",
+            "tokens": [
+                "Brachte",
+                "sie",
+                "Regen",
+                "für",
+                "Flüsse",
+                "und",
+                "Flur",
+                "?"
+            ]
         },
         "line.15": {
-            "text": "Oder hing Gift überm wartenden Volke,"
+            "text": "Oder hing Gift überm wartenden Volke,",
+            "tokens": [
+                "Oder",
+                "hing",
+                "Gift",
+                "überm",
+                "wartenden",
+                "Volke",
+                ","
+            ]
         },
         "line.16": {
-            "text": "das verstört in die Tiefe fuhr."
+            "text": "das verstört in die Tiefe fuhr.",
+            "tokens": [
+                "das",
+                "verstört",
+                "in",
+                "die",
+                "Tiefe",
+                "fuhr",
+                "."
+            ]
         },
         "line.17": {
-            "text": "Sie flohen aus Gottes guter Stube."
+            "text": "Sie flohen aus Gottes guter Stube.",
+            "tokens": [
+                "Sie",
+                "flohen",
+                "aus",
+                "Gottes",
+                "guter",
+                "Stube",
+                "."
+            ]
         },
         "line.18": {
-            "text": "Sie ließen die Wiesen, die Häuser, das Wehr,"
+            "text": "Sie ließen die Wiesen, die Häuser, das Wehr,",
+            "tokens": [
+                "Sie",
+                "ließen",
+                "die",
+                "Wiesen",
+                ",",
+                "die",
+                "Häuser",
+                ",",
+                "das",
+                "Wehr",
+                ","
+            ]
         },
         "line.19": {
-            "text": "den Hügelwind und den Wald und das Meer."
+            "text": "den Hügelwind und den Wald und das Meer.",
+            "tokens": [
+                "den",
+                "Hügelwind",
+                "und",
+                "den",
+                "Wald",
+                "und",
+                "das",
+                "Meer",
+                "."
+            ]
         },
         "line.20": {
-            "text": "Sie fuhren mit Fahrstühlen in die Grube."
+            "text": "Sie fuhren mit Fahrstühlen in die Grube.",
+            "tokens": [
+                "Sie",
+                "fuhren",
+                "mit",
+                "Fahrstühlen",
+                "in",
+                "die",
+                "Grube",
+                "."
+            ]
         },
         "line.21": {
-            "text": "Und die Erde ward wüst und leer."
+            "text": "Und die Erde ward wüst und leer.",
+            "tokens": [
+                "Und",
+                "die",
+                "Erde",
+                "ward",
+                "wüst",
+                "und",
+                "leer",
+                "."
+            ]
         },
         "line.22": {
-            "text": "II"
+            "text": "II",
+            "tokens": [
+                "II"
+            ]
         },
         "line.23": {
-            "text": "Drunten in den versunkenen Städten,"
+            "text": "Drunten in den versunkenen Städten,",
+            "tokens": [
+                "Drunten",
+                "in",
+                "den",
+                "versunkenen",
+                "Städten",
+                ","
+            ]
         },
         "line.24": {
-            "text": "versunken, wie einst Vineta versank,"
+            "text": "versunken, wie einst Vineta versank,",
+            "tokens": [
+                "versunken",
+                ",",
+                "wie",
+                "einst",
+                "Vineta",
+                "versank",
+                ","
+            ]
         },
         "line.25": {
-            "text": "lebten sie weiter, hörten Motetten,"
+            "text": "lebten sie weiter, hörten Motetten,",
+            "tokens": [
+                "lebten",
+                "sie",
+                "weiter",
+                ",",
+                "hörten",
+                "Motetten",
+                ","
+            ]
         },
         "line.26": {
-            "text": "teilten Atome, lasen Gazetten,"
+            "text": "teilten Atome, lasen Gazetten,",
+            "tokens": [
+                "teilten",
+                "Atome",
+                ",",
+                "lasen",
+                "Gazetten",
+                ","
+            ]
         },
         "line.27": {
-            "text": "lagen in Betten und hielten die Bank."
+            "text": "lagen in Betten und hielten die Bank.",
+            "tokens": [
+                "lagen",
+                "in",
+                "Betten",
+                "und",
+                "hielten",
+                "die",
+                "Bank",
+                "."
+            ]
         },
         "line.28": {
-            "text": "Ihre Neue Welt glich gekachelten Träumen."
+            "text": "Ihre Neue Welt glich gekachelten Träumen.",
+            "tokens": [
+                "Ihre",
+                "Neue",
+                "Welt",
+                "glich",
+                "gekachelten",
+                "Träumen",
+                "."
+            ]
         },
         "line.29": {
-            "text": "Der Horizont war aus blauem Glas."
+            "text": "Der Horizont war aus blauem Glas.",
+            "tokens": [
+                "Der",
+                "Horizont",
+                "war",
+                "aus",
+                "blauem",
+                "Glas",
+                "."
+            ]
         },
         "line.30": {
-            "text": "Die Angst schlief ein. Und die Menschheit vergaß."
+            "text": "Die Angst schlief ein. Und die Menschheit vergaß.",
+            "tokens": [
+                "Die",
+                "Angst",
+                "schlief",
+                "ein",
+                ".",
+                "Und",
+                "die",
+                "Menschheit",
+                "vergaß",
+                "."
+            ]
         },
         "line.31": {
-            "text": "Nur manchmal erzählten die Mütter von Bäumen"
+            "text": "Nur manchmal erzählten die Mütter von Bäumen",
+            "tokens": [
+                "Nur",
+                "manchmal",
+                "erzählten",
+                "die",
+                "Mütter",
+                "von",
+                "Bäumen"
+            ]
         },
         "line.32": {
-            "text": "und die Märchen vom Veilchen, vom Mond und vom Gras."
+            "text": "und die Märchen vom Veilchen, vom Mond und vom Gras.",
+            "tokens": [
+                "und",
+                "die",
+                "Märchen",
+                "vom",
+                "Veilchen",
+                ",",
+                "vom",
+                "Mond",
+                "und",
+                "vom",
+                "Gras",
+                "."
+            ]
         },
         "line.33": {
-            "text": "Himmel und Erde wurden zur Fabel."
+            "text": "Himmel und Erde wurden zur Fabel.",
+            "tokens": [
+                "Himmel",
+                "und",
+                "Erde",
+                "wurden",
+                "zur",
+                "Fabel",
+                "."
+            ]
         },
         "line.34": {
-            "text": "Das Gewesene klang wie ein altes Gedicht."
+            "text": "Das Gewesene klang wie ein altes Gedicht.",
+            "tokens": [
+                "Das",
+                "Gewesene",
+                "klang",
+                "wie",
+                "ein",
+                "altes",
+                "Gedicht",
+                "."
+            ]
         },
         "line.35": {
-            "text": "Man wußte nichts mehr vom Turmbau zu Babel."
+            "text": "Man wußte nichts mehr vom Turmbau zu Babel.",
+            "tokens": [
+                "Man",
+                "wußte",
+                "nichts",
+                "mehr",
+                "vom",
+                "Turmbau",
+                "zu",
+                "Babel",
+                "."
+            ]
         },
         "line.36": {
-            "text": "man wußte nichts mehr von Kain und Abel."
+            "text": "man wußte nichts mehr von Kain und Abel.",
+            "tokens": [
+                "man",
+                "wußte",
+                "nichts",
+                "mehr",
+                "von",
+                "Kain",
+                "und",
+                "Abel",
+                "."
+            ]
         },
         "line.37": {
-            "text": "Und auf die Gräber schien Neonlicht."
+            "text": "Und auf die Gräber schien Neonlicht.",
+            "tokens": [
+                "Und",
+                "auf",
+                "die",
+                "Gräber",
+                "schien",
+                "Neonlicht",
+                "."
+            ]
         },
         "line.38": {
-            "text": "Fachleute saßen an blanken, bequemen"
+            "text": "Fachleute saßen an blanken, bequemen",
+            "tokens": [
+                "Fachleute",
+                "saßen",
+                "an",
+                "blanken",
+                ",",
+                "bequemen"
+            ]
         },
         "line.39": {
-            "text": "Geräten und trieben Spiegelmagie."
+            "text": "Geräten und trieben Spiegelmagie.",
+            "tokens": [
+                "Geräten",
+                "und",
+                "trieben",
+                "Spiegelmagie",
+                "."
+            ]
         },
         "line.40": {
-            "text": "An Periskopen hantierten sie"
+            "text": "An Periskopen hantierten sie",
+            "tokens": [
+                "An",
+                "Periskopen",
+                "hantierten",
+                "sie"
+            ]
         },
         "line.41": {
-            "text": "und gaben acht, ob die anderen kämen."
+            "text": "und gaben acht, ob die anderen kämen.",
+            "tokens": [
+                "und",
+                "gaben",
+                "acht",
+                ",",
+                "ob",
+                "die",
+                "anderen",
+                "kämen",
+                "."
+            ]
         },
         "line.42": {
-            "text": "Aber die anderen kamen nie."
+            "text": "Aber die anderen kamen nie.",
+            "tokens": [
+                "Aber",
+                "die",
+                "anderen",
+                "kamen",
+                "nie",
+                "."
+            ]
         },
         "line.43": {
-            "text": "III"
+            "text": "III",
+            "tokens": [
+                "III"
+            ]
         },
         "line.44": {
-            "text": "Droben zerfielen inzwischen die Städte."
+            "text": "Droben zerfielen inzwischen die Städte.",
+            "tokens": [
+                "Droben",
+                "zerfielen",
+                "inzwischen",
+                "die",
+                "Städte",
+                "."
+            ]
         },
         "line.45": {
-            "text": "Brücken und Bahnhöfe stürzten ein."
+            "text": "Brücken und Bahnhöfe stürzten ein.",
+            "tokens": [
+                "Brücken",
+                "und",
+                "Bahnhöfe",
+                "stürzten",
+                "ein",
+                "."
+            ]
         },
         "line.46": {
-            "text": "Die Fabriken sahn aus wie verrenkte Skelette."
+            "text": "Die Fabriken sahn aus wie verrenkte Skelette.",
+            "tokens": [
+                "Die",
+                "Fabriken",
+                "sahn",
+                "aus",
+                "wie",
+                "verrenkte",
+                "Skelette",
+                "."
+            ]
         },
         "line.47": {
-            "text": "Die Menschheit hatte die große Wette"
+            "text": "Die Menschheit hatte die große Wette",
+            "tokens": [
+                "Die",
+                "Menschheit",
+                "hatte",
+                "die",
+                "große",
+                "Wette"
+            ]
         },
         "line.48": {
-            "text": "verloren, und Pan war wieder allein."
+            "text": "verloren, und Pan war wieder allein.",
+            "tokens": [
+                "verloren",
+                ",",
+                "und",
+                "Pan",
+                "war",
+                "wieder",
+                "allein",
+                "."
+            ]
         },
         "line.49": {
-            "text": "Der Wald rückte näher, überfiel die Ruinen,"
+            "text": "Der Wald rückte näher, überfiel die Ruinen,",
+            "tokens": [
+                "Der",
+                "Wald",
+                "rückte",
+                "näher",
+                ",",
+                "überfiel",
+                "die",
+                "Ruinen",
+                ","
+            ]
         },
         "line.50": {
-            "text": "stieg durch die Fenster, zertrat die Maschinen,"
+            "text": "stieg durch die Fenster, zertrat die Maschinen,",
+            "tokens": [
+                "stieg",
+                "durch",
+                "die",
+                "Fenster",
+                ",",
+                "zertrat",
+                "die",
+                "Maschinen",
+                ","
+            ]
         },
         "line.51": {
-            "text": "steckte sich Türme ins grüne Haar,"
+            "text": "steckte sich Türme ins grüne Haar,",
+            "tokens": [
+                "steckte",
+                "sich",
+                "Türme",
+                "ins",
+                "grüne",
+                "Haar",
+                ","
+            ]
         },
         "line.52": {
-            "text": "griff Lokomotiven, spielte mit ihnen"
+            "text": "griff Lokomotiven, spielte mit ihnen",
+            "tokens": [
+                "griff",
+                "Lokomotiven",
+                ",",
+                "spielte",
+                "mit",
+                "ihnen"
+            ]
         },
         "line.53": {
-            "text": "und holte Christus vom Hochaltar."
+            "text": "und holte Christus vom Hochaltar.",
+            "tokens": [
+                "und",
+                "holte",
+                "Christus",
+                "vom",
+                "Hochaltar",
+                "."
+            ]
         },
         "line.54": {
-            "text": "Nun galten wieder die ewigen Regeln."
+            "text": "Nun galten wieder die ewigen Regeln.",
+            "tokens": [
+                "Nun",
+                "galten",
+                "wieder",
+                "die",
+                "ewigen",
+                "Regeln",
+                "."
+            ]
         },
         "line.55": {
-            "text": "Die Gesetzestafeln zerbrach keiner mehr."
+            "text": "Die Gesetzestafeln zerbrach keiner mehr.",
+            "tokens": [
+                "Die",
+                "Gesetzestafeln",
+                "zerbrach",
+                "keiner",
+                "mehr",
+                "."
+            ]
         },
         "line.56": {
-            "text": "Es gehorchten die Rose, der Schnee und der Bär."
+            "text": "Es gehorchten die Rose, der Schnee und der Bär.",
+            "tokens": [
+                "Es",
+                "gehorchten",
+                "die",
+                "Rose",
+                ",",
+                "der",
+                "Schnee",
+                "und",
+                "der",
+                "Bär",
+                "."
+            ]
         },
         "line.57": {
-            "text": "Der Himmel gehörte wieder den Vögeln"
+            "text": "Der Himmel gehörte wieder den Vögeln",
+            "tokens": [
+                "Der",
+                "Himmel",
+                "gehörte",
+                "wieder",
+                "den",
+                "Vögeln"
+            ]
         },
         "line.58": {
-            "text": "und den kleinen und großen Fischen das Meer."
+            "text": "und den kleinen und großen Fischen das Meer.",
+            "tokens": [
+                "und",
+                "den",
+                "kleinen",
+                "und",
+                "großen",
+                "Fischen",
+                "das",
+                "Meer",
+                "."
+            ]
         },
         "line.59": {
-            "text": "Nur einmal, im Frühling, durchquerten das Schweigen"
+            "text": "Nur einmal, im Frühling, durchquerten das Schweigen",
+            "tokens": [
+                "Nur",
+                "einmal",
+                ",",
+                "im",
+                "Frühling",
+                ",",
+                "durchquerten",
+                "das",
+                "Schweigen"
+            ]
         },
         "line.60": {
-            "text": "rollende Panzer, als ging´s in die Schlacht."
+            "text": "rollende Panzer, als ging´s in die Schlacht.",
+            "tokens": [
+                "rollende",
+                "Panzer",
+                ",",
+                "als",
+                "ging�",
+                "�",
+                "s",
+                "in",
+                "die",
+                "Schlacht",
+                "."
+            ]
         },
         "line.61": {
-            "text": "Sie kehrten, beladen mit Kirschblütenzweigen,"
+            "text": "Sie kehrten, beladen mit Kirschblütenzweigen,",
+            "tokens": [
+                "Sie",
+                "kehrten",
+                ",",
+                "beladen",
+                "mit",
+                "Kirschblütenzweigen",
+                ","
+            ]
         },
         "line.62": {
-            "text": "zurück, um sie drunten den Kindern zu zeigen."
+            "text": "zurück, um sie drunten den Kindern zu zeigen.",
+            "tokens": [
+                "zurück",
+                ",",
+                "um",
+                "sie",
+                "drunten",
+                "den",
+                "Kindern",
+                "zu",
+                "zeigen",
+                "."
+            ]
         },
         "line.63": {
-            "text": "Dann schlossen sich wieder die Türen zum Schacht."
+            "text": "Dann schlossen sich wieder die Türen zum Schacht.",
+            "tokens": [
+                "Dann",
+                "schlossen",
+                "sich",
+                "wieder",
+                "die",
+                "Türen",
+                "zum",
+                "Schacht",
+                "."
+            ]
         }
     }
 }

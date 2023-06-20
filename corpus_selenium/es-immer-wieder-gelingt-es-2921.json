@@ -4,70 +4,187 @@
     "author": "Eugen  Gomringer",
     "poem": {
         "line.1": {
-            "text": "frühling"
+            "text": "frühling",
+            "tokens": [
+                "frühling"
+            ]
         },
         "line.2": {
-            "text": "immer wieder gelingt es"
+            "text": "immer wieder gelingt es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "gelingt",
+                "es"
+            ]
         },
         "line.3": {
-            "text": "immer wieder dringt es"
+            "text": "immer wieder dringt es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "dringt",
+                "es"
+            ]
         },
         "line.4": {
-            "text": "immer wieder treibt es"
+            "text": "immer wieder treibt es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "treibt",
+                "es"
+            ]
         },
         "line.5": {
-            "text": "immer wieder lockt es"
+            "text": "immer wieder lockt es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "lockt",
+                "es"
+            ]
         },
         "line.6": {
-            "text": "immer wieder berührt es"
+            "text": "immer wieder berührt es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "berührt",
+                "es"
+            ]
         },
         "line.7": {
-            "text": "immer wieder verführt es"
+            "text": "immer wieder verführt es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "verführt",
+                "es"
+            ]
         },
         "line.8": {
-            "text": "immer wieder schreibt es"
+            "text": "immer wieder schreibt es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "schreibt",
+                "es"
+            ]
         },
         "line.9": {
-            "text": "sommer"
+            "text": "sommer",
+            "tokens": [
+                "sommer"
+            ]
         },
         "line.10": {
-            "text": "immer wieder stockt es"
+            "text": "immer wieder stockt es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "stockt",
+                "es"
+            ]
         },
         "line.11": {
-            "text": "immer wieder schaut es"
+            "text": "immer wieder schaut es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "schaut",
+                "es"
+            ]
         },
         "line.12": {
-            "text": "immer wieder traut es"
+            "text": "immer wieder traut es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "traut",
+                "es"
+            ]
         },
         "line.13": {
-            "text": "immer wieder greift es"
+            "text": "immer wieder greift es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "greift",
+                "es"
+            ]
         },
         "line.14": {
-            "text": "immer wieder füllt es"
+            "text": "immer wieder füllt es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "füllt",
+                "es"
+            ]
         },
         "line.15": {
-            "text": "herbst"
+            "text": "herbst",
+            "tokens": [
+                "herbst"
+            ]
         },
         "line.16": {
-            "text": "immer wieder reift es"
+            "text": "immer wieder reift es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "reift",
+                "es"
+            ]
         },
         "line.17": {
-            "text": "immer wieder hüllt es"
+            "text": "immer wieder hüllt es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "hüllt",
+                "es"
+            ]
         },
         "line.18": {
-            "text": "immer wieder reicht es"
+            "text": "immer wieder reicht es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "reicht",
+                "es"
+            ]
         },
         "line.19": {
-            "text": "winter"
+            "text": "winter",
+            "tokens": [
+                "winter"
+            ]
         },
         "line.20": {
-            "text": "immer wieder gleicht es"
+            "text": "immer wieder gleicht es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "gleicht",
+                "es"
+            ]
         },
         "line.21": {
-            "text": "frühling"
+            "text": "frühling",
+            "tokens": [
+                "frühling"
+            ]
         },
         "line.22": {
-            "text": "immer wieder gelingt es"
+            "text": "immer wieder gelingt es",
+            "tokens": [
+                "immer",
+                "wieder",
+                "gelingt",
+                "es"
+            ]
         }
     }
 }

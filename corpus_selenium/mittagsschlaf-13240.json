@@ -4,34 +4,118 @@
     "author": "Mirko Bonné",
     "poem": {
         "line.1": {
-            "text": "Zeit war es, dass es Zeit war?"
+            "text": "Zeit war es, dass es Zeit war?",
+            "tokens": [
+                "Zeit",
+                "war",
+                "es",
+                ",",
+                "dass",
+                "es",
+                "Zeit",
+                "war",
+                "?"
+            ]
         },
         "line.2": {
-            "text": "Nie war's Zeit gewesen, nie"
+            "text": "Nie war's Zeit gewesen, nie",
+            "tokens": [
+                "Nie",
+                "war's",
+                "Zeit",
+                "gewesen",
+                ",",
+                "nie"
+            ]
         },
         "line.3": {
-            "text": "würde es Zeit werden. Es war"
+            "text": "würde es Zeit werden. Es war",
+            "tokens": [
+                "würde",
+                "es",
+                "Zeit",
+                "werden",
+                ".",
+                "Es",
+                "war"
+            ]
         },
         "line.4": {
-            "text": "die Zeit der Spinne, der Schlange."
+            "text": "die Zeit der Spinne, der Schlange.",
+            "tokens": [
+                "die",
+                "Zeit",
+                "der",
+                "Spinne",
+                ",",
+                "der",
+                "Schlange",
+                "."
+            ]
         },
         "line.5": {
-            "text": "Sie waren Mauereidechsensekunden,"
+            "text": "Sie waren Mauereidechsensekunden,",
+            "tokens": [
+                "Sie",
+                "waren",
+                "Mauereidechsensekunden",
+                ","
+            ]
         },
         "line.6": {
-            "text": "diese Minuten des Hundertfüßlers, und"
+            "text": "diese Minuten des Hundertfüßlers, und",
+            "tokens": [
+                "diese",
+                "Minuten",
+                "des",
+                "Hundertfüßlers",
+                ",",
+                "und"
+            ]
         },
         "line.7": {
-            "text": "wurden endlich zur Heuschreckenstunde,"
+            "text": "wurden endlich zur Heuschreckenstunde,",
+            "tokens": [
+                "wurden",
+                "endlich",
+                "zur",
+                "Heuschreckenstunde",
+                ","
+            ]
         },
         "line.8": {
-            "text": "zu den Zikadentagen. Im Jahr der Agave"
+            "text": "zu den Zikadentagen. Im Jahr der Agave",
+            "tokens": [
+                "zu",
+                "den",
+                "Zikadentagen",
+                ".",
+                "Im",
+                "Jahr",
+                "der",
+                "Agave"
+            ]
         },
         "line.9": {
-            "text": "lehnten wir schlafend in der Macchia"
+            "text": "lehnten wir schlafend in der Macchia",
+            "tokens": [
+                "lehnten",
+                "wir",
+                "schlafend",
+                "in",
+                "der",
+                "Macchia"
+            ]
         },
         "line.10": {
-            "text": "an einem entzweigegangenen Boot."
+            "text": "an einem entzweigegangenen Boot.",
+            "tokens": [
+                "an",
+                "einem",
+                "entzweigegangenen",
+                "Boot",
+                "."
+            ]
         }
     }
 }

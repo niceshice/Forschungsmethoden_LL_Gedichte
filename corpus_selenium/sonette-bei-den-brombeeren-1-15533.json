@@ -4,46 +4,198 @@
     "author": "Ralf Meyer",
     "poem": {
         "line.1": {
-            "text": "Wann Sommer ist? Wenn man nicht schlafen kann."
+            "text": "Wann Sommer ist? Wenn man nicht schlafen kann.",
+            "tokens": [
+                "Wann",
+                "Sommer",
+                "ist",
+                "?",
+                "Wenn",
+                "man",
+                "nicht",
+                "schlafen",
+                "kann",
+                "."
+            ]
         },
         "line.2": {
-            "text": "Du wälzt dich, wie auf Steinen, in den Laken."
+            "text": "Du wälzt dich, wie auf Steinen, in den Laken.",
+            "tokens": [
+                "Du",
+                "wälzt",
+                "dich",
+                ",",
+                "wie",
+                "auf",
+                "Steinen",
+                ",",
+                "in",
+                "den",
+                "Laken",
+                "."
+            ]
         },
         "line.3": {
-            "text": "Sie kühlen nicht. Es liegen Frau und Mann,"
+            "text": "Sie kühlen nicht. Es liegen Frau und Mann,",
+            "tokens": [
+                "Sie",
+                "kühlen",
+                "nicht",
+                ".",
+                "Es",
+                "liegen",
+                "Frau",
+                "und",
+                "Mann",
+                ","
+            ]
         },
         "line.4": {
-            "text": "Getrennt belästigt von den Schnaken."
+            "text": "Getrennt belästigt von den Schnaken.",
+            "tokens": [
+                "Getrennt",
+                "belästigt",
+                "von",
+                "den",
+                "Schnaken",
+                "."
+            ]
         },
         "line.5": {
-            "text": "Sag du nur „ich“. Stumm sind die Kreaturen."
+            "text": "Sag du nur „ich“. Stumm sind die Kreaturen.",
+            "tokens": [
+                "Sag",
+                "du",
+                "nur",
+                "„ich“",
+                ".",
+                "Stumm",
+                "sind",
+                "die",
+                "Kreaturen",
+                "."
+            ]
         },
         "line.6": {
-            "text": "Du schwitzt, während sie auf dich fliegen,"
+            "text": "Du schwitzt, während sie auf dich fliegen,",
+            "tokens": [
+                "Du",
+                "schwitzt",
+                ",",
+                "während",
+                "sie",
+                "auf",
+                "dich",
+                "fliegen",
+                ","
+            ]
         },
         "line.7": {
-            "text": "Es ticken kleine Geister in den Uhren,"
+            "text": "Es ticken kleine Geister in den Uhren,",
+            "tokens": [
+                "Es",
+                "ticken",
+                "kleine",
+                "Geister",
+                "in",
+                "den",
+                "Uhren",
+                ","
+            ]
         },
         "line.8": {
-            "text": "Wenn Mücken singen, um dich zu besiegen."
+            "text": "Wenn Mücken singen, um dich zu besiegen.",
+            "tokens": [
+                "Wenn",
+                "Mücken",
+                "singen",
+                ",",
+                "um",
+                "dich",
+                "zu",
+                "besiegen",
+                "."
+            ]
         },
         "line.9": {
-            "text": "Nur bei den Brombeerhecken ist es kühl geblieben,"
+            "text": "Nur bei den Brombeerhecken ist es kühl geblieben,",
+            "tokens": [
+                "Nur",
+                "bei",
+                "den",
+                "Brombeerhecken",
+                "ist",
+                "es",
+                "kühl",
+                "geblieben",
+                ","
+            ]
         },
         "line.10": {
-            "text": "Die Früchte reiften still zu voller Süße,"
+            "text": "Die Früchte reiften still zu voller Süße,",
+            "tokens": [
+                "Die",
+                "Früchte",
+                "reiften",
+                "still",
+                "zu",
+                "voller",
+                "Süße",
+                ","
+            ]
         },
         "line.11": {
-            "text": "Ihr dunkler Saft färbt Münder, Hände, Füße."
+            "text": "Ihr dunkler Saft färbt Münder, Hände, Füße.",
+            "tokens": [
+                "Ihr",
+                "dunkler",
+                "Saft",
+                "färbt",
+                "Münder",
+                ",",
+                "Hände",
+                ",",
+                "Füße",
+                "."
+            ]
         },
         "line.12": {
-            "text": "Wir haben lange am Gebüsch gesessen"
+            "text": "Wir haben lange am Gebüsch gesessen",
+            "tokens": [
+                "Wir",
+                "haben",
+                "lange",
+                "am",
+                "Gebüsch",
+                "gesessen"
+            ]
         },
         "line.13": {
-            "text": "Und reifen kaum, wenn wir uns lieben,"
+            "text": "Und reifen kaum, wenn wir uns lieben,",
+            "tokens": [
+                "Und",
+                "reifen",
+                "kaum",
+                ",",
+                "wenn",
+                "wir",
+                "uns",
+                "lieben",
+                ","
+            ]
         },
         "line.14": {
-            "text": "Indes, wir werden auch nicht aufgegessen."
+            "text": "Indes, wir werden auch nicht aufgegessen.",
+            "tokens": [
+                "Indes",
+                ",",
+                "wir",
+                "werden",
+                "auch",
+                "nicht",
+                "aufgegessen",
+                "."
+            ]
         }
     }
 }

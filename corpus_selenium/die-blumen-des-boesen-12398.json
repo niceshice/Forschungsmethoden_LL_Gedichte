@@ -4,31 +4,126 @@
     "author": "Nadja  Küchenmeister",
     "poem": {
         "line.1": {
-            "text": "nur ein schneerest, der noch leuchtet."
+            "text": "nur ein schneerest, der noch leuchtet.",
+            "tokens": [
+                "nur",
+                "ein",
+                "schneerest",
+                ",",
+                "der",
+                "noch",
+                "leuchtet",
+                "."
+            ]
         },
         "line.2": {
-            "text": "die reihe laternen kann nicht erhellen"
+            "text": "die reihe laternen kann nicht erhellen",
+            "tokens": [
+                "die",
+                "reihe",
+                "laternen",
+                "kann",
+                "nicht",
+                "erhellen"
+            ]
         },
         "line.3": {
-            "text": "was unter den füßen an boden verschwimmt."
+            "text": "was unter den füßen an boden verschwimmt.",
+            "tokens": [
+                "was",
+                "unter",
+                "den",
+                "füßen",
+                "an",
+                "boden",
+                "verschwimmt",
+                "."
+            ]
         },
         "line.4": {
-            "text": "wir sind erschöpft und kaum zu sehen"
+            "text": "wir sind erschöpft und kaum zu sehen",
+            "tokens": [
+                "wir",
+                "sind",
+                "erschöpft",
+                "und",
+                "kaum",
+                "zu",
+                "sehen"
+            ]
         },
         "line.5": {
-            "text": "und hängen einander am arm, stumm verzagt."
+            "text": "und hängen einander am arm, stumm verzagt.",
+            "tokens": [
+                "und",
+                "hängen",
+                "einander",
+                "am",
+                "arm",
+                ",",
+                "stumm",
+                "verzagt",
+                "."
+            ]
         },
         "line.6": {
-            "text": "es führen wohl wege von hier in die irre."
+            "text": "es führen wohl wege von hier in die irre.",
+            "tokens": [
+                "es",
+                "führen",
+                "wohl",
+                "wege",
+                "von",
+                "hier",
+                "in",
+                "die",
+                "irre",
+                "."
+            ]
         },
         "line.7": {
-            "text": "wir hören davon. wir fragen nicht nach. so"
+            "text": "wir hören davon. wir fragen nicht nach. so",
+            "tokens": [
+                "wir",
+                "hören",
+                "davon",
+                ".",
+                "wir",
+                "fragen",
+                "nicht",
+                "nach",
+                ".",
+                "so"
+            ]
         },
         "line.8": {
-            "text": "schmilzt auch die wolke im nächtlichen himmel"
+            "text": "schmilzt auch die wolke im nächtlichen himmel",
+            "tokens": [
+                "schmilzt",
+                "auch",
+                "die",
+                "wolke",
+                "im",
+                "nächtlichen",
+                "himmel"
+            ]
         },
         "line.9": {
-            "text": "und was wir uns sagen, da blüht schon der tag."
+            "text": "und was wir uns sagen, da blüht schon der tag.",
+            "tokens": [
+                "und",
+                "was",
+                "wir",
+                "uns",
+                "sagen",
+                ",",
+                "da",
+                "blüht",
+                "schon",
+                "der",
+                "tag",
+                "."
+            ]
         }
     }
 }

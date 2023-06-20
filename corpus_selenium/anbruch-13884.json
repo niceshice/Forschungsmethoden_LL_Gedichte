@@ -4,70 +4,205 @@
     "author": "Kerstin Becker",
     "poem": {
         "line.1": {
-            "text": "hinterm Hof hinterm Dorf"
+            "text": "hinterm Hof hinterm Dorf",
+            "tokens": [
+                "hinterm",
+                "Hof",
+                "hinterm",
+                "Dorf"
+            ]
         },
         "line.2": {
-            "text": "hinterm Feld hört die Welt"
+            "text": "hinterm Feld hört die Welt",
+            "tokens": [
+                "hinterm",
+                "Feld",
+                "hört",
+                "die",
+                "Welt"
+            ]
         },
         "line.3": {
-            "text": "auf im Wald bellt nichts"
+            "text": "auf im Wald bellt nichts",
+            "tokens": [
+                "auf",
+                "im",
+                "Wald",
+                "bellt",
+                "nichts"
+            ]
         },
         "line.4": {
-            "text": "als ferne Reh"
+            "text": "als ferne Reh",
+            "tokens": [
+                "als",
+                "ferne",
+                "Reh"
+            ]
         },
         "line.5": {
-            "text": "keckern die Füchse die Wanne"
+            "text": "keckern die Füchse die Wanne",
+            "tokens": [
+                "keckern",
+                "die",
+                "Füchse",
+                "die",
+                "Wanne"
+            ]
         },
         "line.6": {
-            "text": "aus blindem Übergangsmetall"
+            "text": "aus blindem Übergangsmetall",
+            "tokens": [
+                "aus",
+                "blindem",
+                "Übergangsmetall"
+            ]
         },
         "line.7": {
-            "text": "harrt unser"
+            "text": "harrt unser",
+            "tokens": [
+                "harrt",
+                "unser"
+            ]
         },
         "line.8": {
-            "text": "die wir nach Alter schmutzig in sie steigen"
+            "text": "die wir nach Alter schmutzig in sie steigen",
+            "tokens": [
+                "die",
+                "wir",
+                "nach",
+                "Alter",
+                "schmutzig",
+                "in",
+                "sie",
+                "steigen"
+            ]
         },
         "line.9": {
-            "text": "dampfend alle sieben Tage"
+            "text": "dampfend alle sieben Tage",
+            "tokens": [
+                "dampfend",
+                "alle",
+                "sieben",
+                "Tage"
+            ]
         },
         "line.10": {
-            "text": "im Gottesrhythmus"
+            "text": "im Gottesrhythmus",
+            "tokens": [
+                "im",
+                "Gottesrhythmus"
+            ]
         },
         "line.11": {
-            "text": "zur Dämmerung im Stall"
+            "text": "zur Dämmerung im Stall",
+            "tokens": [
+                "zur",
+                "Dämmerung",
+                "im",
+                "Stall"
+            ]
         },
         "line.12": {
-            "text": "am Lokus ist die Liebe eingesägt"
+            "text": "am Lokus ist die Liebe eingesägt",
+            "tokens": [
+                "am",
+                "Lokus",
+                "ist",
+                "die",
+                "Liebe",
+                "eingesägt"
+            ]
         },
         "line.13": {
-            "text": "ein Herz durch das die grünen"
+            "text": "ein Herz durch das die grünen",
+            "tokens": [
+                "ein",
+                "Herz",
+                "durch",
+                "das",
+                "die",
+                "grünen"
+            ]
         },
         "line.14": {
-            "text": "Fliegen schießen menschlicher"
+            "text": "Fliegen schießen menschlicher",
+            "tokens": [
+                "Fliegen",
+                "schießen",
+                "menschlicher"
+            ]
         },
         "line.15": {
-            "text": "Gestank"
+            "text": "Gestank",
+            "tokens": [
+                "Gestank"
+            ]
         },
         "line.16": {
-            "text": "der gelbe Roggen wogt"
+            "text": "der gelbe Roggen wogt",
+            "tokens": [
+                "der",
+                "gelbe",
+                "Roggen",
+                "wogt"
+            ]
         },
         "line.17": {
-            "text": "ohn Mutterkorn zum Horizont"
+            "text": "ohn Mutterkorn zum Horizont",
+            "tokens": [
+                "ohn",
+                "Mutterkorn",
+                "zum",
+                "Horizont"
+            ]
         },
         "line.18": {
-            "text": "die Kriebelkrankheit"
+            "text": "die Kriebelkrankheit",
+            "tokens": [
+                "die",
+                "Kriebelkrankheit"
+            ]
         },
         "line.19": {
-            "text": "rafft uns nicht der Hofhund jagt"
+            "text": "rafft uns nicht der Hofhund jagt",
+            "tokens": [
+                "rafft",
+                "uns",
+                "nicht",
+                "der",
+                "Hofhund",
+                "jagt"
+            ]
         },
         "line.20": {
-            "text": "sich selbst im Kreis er stammt"
+            "text": "sich selbst im Kreis er stammt",
+            "tokens": [
+                "sich",
+                "selbst",
+                "im",
+                "Kreis",
+                "er",
+                "stammt"
+            ]
         },
         "line.21": {
-            "text": "von wilden Wölfen ab wir sind"
+            "text": "von wilden Wölfen ab wir sind",
+            "tokens": [
+                "von",
+                "wilden",
+                "Wölfen",
+                "ab",
+                "wir",
+                "sind"
+            ]
         },
         "line.22": {
-            "text": "hier eingeborn"
+            "text": "hier eingeborn",
+            "tokens": [
+                "hier",
+                "eingeborn"
+            ]
         }
     }
 }

@@ -4,52 +4,168 @@
     "author": "André Schinkel",
     "poem": {
         "line.1": {
-            "text": "Im Frühjahr ziehen die Wolken,"
+            "text": "Im Frühjahr ziehen die Wolken,",
+            "tokens": [
+                "Im",
+                "Frühjahr",
+                "ziehen",
+                "die",
+                "Wolken",
+                ","
+            ]
         },
         "line.2": {
-            "text": "Rot-gelb vor blühender Lust,"
+            "text": "Rot-gelb vor blühender Lust,",
+            "tokens": [
+                "Rot-gelb",
+                "vor",
+                "blühender",
+                "Lust",
+                ","
+            ]
         },
         "line.3": {
-            "text": "Durch die Schatten, die grünen"
+            "text": "Durch die Schatten, die grünen",
+            "tokens": [
+                "Durch",
+                "die",
+                "Schatten",
+                ",",
+                "die",
+                "grünen"
+            ]
         },
         "line.4": {
-            "text": "Hyperbeln des Vorgebirges;"
+            "text": "Hyperbeln des Vorgebirges;",
+            "tokens": [
+                "Hyperbeln",
+                "des",
+                "Vorgebirges",
+                ";"
+            ]
         },
         "line.5": {
-            "text": "Die Amseln rufen vergeblich"
+            "text": "Die Amseln rufen vergeblich",
+            "tokens": [
+                "Die",
+                "Amseln",
+                "rufen",
+                "vergeblich"
+            ]
         },
         "line.6": {
-            "text": "Und plustern die Brüste"
+            "text": "Und plustern die Brüste",
+            "tokens": [
+                "Und",
+                "plustern",
+                "die",
+                "Brüste"
+            ]
         },
         "line.7": {
-            "text": "Gegen die Elstern, die strebsam"
+            "text": "Gegen die Elstern, die strebsam",
+            "tokens": [
+                "Gegen",
+                "die",
+                "Elstern",
+                ",",
+                "die",
+                "strebsam"
+            ]
         },
         "line.8": {
-            "text": "Die Nester leerräumen; und"
+            "text": "Die Nester leerräumen; und",
+            "tokens": [
+                "Die",
+                "Nester",
+                "leerräumen",
+                ";",
+                "und"
+            ]
         },
         "line.9": {
-            "text": "Der Pirol federt scheu den schwarz-"
+            "text": "Der Pirol federt scheu den schwarz-",
+            "tokens": [
+                "Der",
+                "Pirol",
+                "federt",
+                "scheu",
+                "den",
+                "schwarz-"
+            ]
         },
         "line.10": {
-            "text": "Gelben Stempel der Flucht"
+            "text": "Gelben Stempel der Flucht",
+            "tokens": [
+                "Gelben",
+                "Stempel",
+                "der",
+                "Flucht"
+            ]
         },
         "line.11": {
-            "text": "In die ausgelieferte Landschaft,"
+            "text": "In die ausgelieferte Landschaft,",
+            "tokens": [
+                "In",
+                "die",
+                "ausgelieferte",
+                "Landschaft",
+                ","
+            ]
         },
         "line.12": {
-            "text": "Wo Pollenflug herrscht; –"
+            "text": "Wo Pollenflug herrscht; –",
+            "tokens": [
+                "Wo",
+                "Pollenflug",
+                "herrscht",
+                ";",
+                "�",
+                "�"
+            ]
         },
         "line.13": {
-            "text": "Welch eine Gegend, denkst du,"
+            "text": "Welch eine Gegend, denkst du,",
+            "tokens": [
+                "Welch",
+                "eine",
+                "Gegend",
+                ",",
+                "denkst",
+                "du",
+                ","
+            ]
         },
         "line.14": {
-            "text": "Reist bedauernsvoll ab: im"
+            "text": "Reist bedauernsvoll ab: im",
+            "tokens": [
+                "Reist",
+                "bedauernsvoll",
+                "ab",
+                ":",
+                "im"
+            ]
         },
         "line.15": {
-            "text": "Rücken die Herden der Hügel,"
+            "text": "Rücken die Herden der Hügel,",
+            "tokens": [
+                "Rücken",
+                "die",
+                "Herden",
+                "der",
+                "Hügel",
+                ","
+            ]
         },
         "line.16": {
-            "text": "Die der Tränke zugehn."
+            "text": "Die der Tränke zugehn.",
+            "tokens": [
+                "Die",
+                "der",
+                "Tränke",
+                "zugehn",
+                "."
+            ]
         }
     }
 }

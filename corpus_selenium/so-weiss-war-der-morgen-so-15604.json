@@ -4,16 +4,50 @@
     "author": "Steffen  Mensching",
     "poem": {
         "line.1": {
-            "text": "So weiß war der Morgen so"
+            "text": "So weiß war der Morgen so",
+            "tokens": [
+                "So",
+                "weiß",
+                "war",
+                "der",
+                "Morgen",
+                "so"
+            ]
         },
         "line.2": {
-            "text": "Offensichtlich aus gutem Stoff, so blaß"
+            "text": "Offensichtlich aus gutem Stoff, so blaß",
+            "tokens": [
+                "Offensichtlich",
+                "aus",
+                "gutem",
+                "Stoff",
+                ",",
+                "so",
+                "blaß"
+            ]
         },
         "line.3": {
-            "text": "Und unnütz, daß ich dich fragte, was"
+            "text": "Und unnütz, daß ich dich fragte, was",
+            "tokens": [
+                "Und",
+                "unnütz",
+                ",",
+                "daß",
+                "ich",
+                "dich",
+                "fragte",
+                ",",
+                "was"
+            ]
         },
         "line.4": {
-            "text": "Haben sie dahinter versteckt"
+            "text": "Haben sie dahinter versteckt",
+            "tokens": [
+                "Haben",
+                "sie",
+                "dahinter",
+                "versteckt"
+            ]
         }
     }
 }

@@ -4,58 +4,219 @@
     "author": "Ulrich Koch",
     "poem": {
         "line.1": {
-            "text": "Was ich vergessen habe, hat mit Gras zu tun,"
+            "text": "Was ich vergessen habe, hat mit Gras zu tun,",
+            "tokens": [
+                "Was",
+                "ich",
+                "vergessen",
+                "habe",
+                ",",
+                "hat",
+                "mit",
+                "Gras",
+                "zu",
+                "tun",
+                ","
+            ]
         },
         "line.2": {
-            "text": "Brombeeren am Bahndamm, knisternden"
+            "text": "Brombeeren am Bahndamm, knisternden",
+            "tokens": [
+                "Brombeeren",
+                "am",
+                "Bahndamm",
+                ",",
+                "knisternden"
+            ]
         },
         "line.3": {
-            "text": "Sekunden, freihändigen Fahrrädern,"
+            "text": "Sekunden, freihändigen Fahrrädern,",
+            "tokens": [
+                "Sekunden",
+                ",",
+                "freihändigen",
+                "Fahrrädern",
+                ","
+            ]
         },
         "line.4": {
-            "text": "an Platanen angebunden auf einem Vorplatz,"
+            "text": "an Platanen angebunden auf einem Vorplatz,",
+            "tokens": [
+                "an",
+                "Platanen",
+                "angebunden",
+                "auf",
+                "einem",
+                "Vorplatz",
+                ","
+            ]
         },
         "line.5": {
-            "text": "Anfang August, einem mit Teerpappe"
+            "text": "Anfang August, einem mit Teerpappe",
+            "tokens": [
+                "Anfang",
+                "August",
+                ",",
+                "einem",
+                "mit",
+                "Teerpappe"
+            ]
         },
         "line.6": {
-            "text": "gedeckten Dach, auf dem der Abendregen"
+            "text": "gedeckten Dach, auf dem der Abendregen",
+            "tokens": [
+                "gedeckten",
+                "Dach",
+                ",",
+                "auf",
+                "dem",
+                "der",
+                "Abendregen"
+            ]
         },
         "line.7": {
-            "text": "dampfte nach seinem schnellen Ende,"
+            "text": "dampfte nach seinem schnellen Ende,",
+            "tokens": [
+                "dampfte",
+                "nach",
+                "seinem",
+                "schnellen",
+                "Ende",
+                ","
+            ]
         },
         "line.8": {
-            "text": "tropfenden Bäumen. Mehr nicht."
+            "text": "tropfenden Bäumen. Mehr nicht.",
+            "tokens": [
+                "tropfenden",
+                "Bäumen",
+                ".",
+                "Mehr",
+                "nicht",
+                "."
+            ]
         },
         "line.9": {
-            "text": "Scheinbar aufrecht gehend, weiß"
+            "text": "Scheinbar aufrecht gehend, weiß",
+            "tokens": [
+                "Scheinbar",
+                "aufrecht",
+                "gehend",
+                ",",
+                "weiß"
+            ]
         },
         "line.10": {
-            "text": "bis zum Rand des Wassers, der alles,"
+            "text": "bis zum Rand des Wassers, der alles,",
+            "tokens": [
+                "bis",
+                "zum",
+                "Rand",
+                "des",
+                "Wassers",
+                ",",
+                "der",
+                "alles",
+                ","
+            ]
         },
         "line.11": {
-            "text": "was den Augen gehört, in seinem Spiegel"
+            "text": "was den Augen gehört, in seinem Spiegel",
+            "tokens": [
+                "was",
+                "den",
+                "Augen",
+                "gehört",
+                ",",
+                "in",
+                "seinem",
+                "Spiegel"
+            ]
         },
         "line.12": {
-            "text": "bricht: Wie ein Schwan, hin"
+            "text": "bricht: Wie ein Schwan, hin",
+            "tokens": [
+                "bricht",
+                ":",
+                "Wie",
+                "ein",
+                "Schwan",
+                ",",
+                "hin"
+            ]
         },
         "line.13": {
-            "text": "und her gleitend auf einem Löschteich,"
+            "text": "und her gleitend auf einem Löschteich,",
+            "tokens": [
+                "und",
+                "her",
+                "gleitend",
+                "auf",
+                "einem",
+                "Löschteich",
+                ","
+            ]
         },
         "line.14": {
-            "text": "arbeitet mein Gedächtnis."
+            "text": "arbeitet mein Gedächtnis.",
+            "tokens": [
+                "arbeitet",
+                "mein",
+                "Gedächtnis",
+                "."
+            ]
         },
         "line.15": {
-            "text": "Ein Tier, das nicht vor mir floh,"
+            "text": "Ein Tier, das nicht vor mir floh,",
+            "tokens": [
+                "Ein",
+                "Tier",
+                ",",
+                "das",
+                "nicht",
+                "vor",
+                "mir",
+                "floh",
+                ","
+            ]
         },
         "line.16": {
-            "text": "sondern sich seiner Nacktheit schämte."
+            "text": "sondern sich seiner Nacktheit schämte.",
+            "tokens": [
+                "sondern",
+                "sich",
+                "seiner",
+                "Nacktheit",
+                "schämte",
+                "."
+            ]
         },
         "line.17": {
-            "text": "Denn ich will mich an nichts erinnern,"
+            "text": "Denn ich will mich an nichts erinnern,",
+            "tokens": [
+                "Denn",
+                "ich",
+                "will",
+                "mich",
+                "an",
+                "nichts",
+                "erinnern",
+                ","
+            ]
         },
         "line.18": {
-            "text": "es sei denn, ich kann es wiederholen."
+            "text": "es sei denn, ich kann es wiederholen.",
+            "tokens": [
+                "es",
+                "sei",
+                "denn",
+                ",",
+                "ich",
+                "kann",
+                "es",
+                "wiederholen",
+                "."
+            ]
         }
     }
 }

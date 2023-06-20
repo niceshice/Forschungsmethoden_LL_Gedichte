@@ -4,40 +4,117 @@
     "author": "Erika Burkart",
     "poem": {
         "line.1": {
-            "text": "Vor nachtgrünen Matten"
+            "text": "Vor nachtgrünen Matten",
+            "tokens": [
+                "Vor",
+                "nachtgrünen",
+                "Matten"
+            ]
         },
         "line.2": {
-            "text": "unterwegs zu Wörtern,"
+            "text": "unterwegs zu Wörtern,",
+            "tokens": [
+                "unterwegs",
+                "zu",
+                "Wörtern",
+                ","
+            ]
         },
         "line.3": {
-            "text": "Klartext zu einem"
+            "text": "Klartext zu einem",
+            "tokens": [
+                "Klartext",
+                "zu",
+                "einem"
+            ]
         },
         "line.4": {
-            "text": "dunklen Gedicht."
+            "text": "dunklen Gedicht.",
+            "tokens": [
+                "dunklen",
+                "Gedicht",
+                "."
+            ]
         },
         "line.5": {
-            "text": "Das innere und das äussere Land,"
+            "text": "Das innere und das äussere Land,",
+            "tokens": [
+                "Das",
+                "innere",
+                "und",
+                "das",
+                "äussere",
+                "Land",
+                ","
+            ]
         },
         "line.6": {
-            "text": "der Himmel flösst Gärten, Getrennte"
+            "text": "der Himmel flösst Gärten, Getrennte",
+            "tokens": [
+                "der",
+                "Himmel",
+                "flösst",
+                "Gärten",
+                ",",
+                "Getrennte"
+            ]
         },
         "line.7": {
-            "text": "gehen dort Hand in Hand."
+            "text": "gehen dort Hand in Hand.",
+            "tokens": [
+                "gehen",
+                "dort",
+                "Hand",
+                "in",
+                "Hand",
+                "."
+            ]
         },
         "line.8": {
-            "text": "In zeichenmächtiger Schwärze"
+            "text": "In zeichenmächtiger Schwärze",
+            "tokens": [
+                "In",
+                "zeichenmächtiger",
+                "Schwärze"
+            ]
         },
         "line.9": {
-            "text": "vom Dachrand flatternd ein Vogel,"
+            "text": "vom Dachrand flatternd ein Vogel,",
+            "tokens": [
+                "vom",
+                "Dachrand",
+                "flatternd",
+                "ein",
+                "Vogel",
+                ","
+            ]
         },
         "line.10": {
-            "text": "Gedanke, Engel in Fetzen,"
+            "text": "Gedanke, Engel in Fetzen,",
+            "tokens": [
+                "Gedanke",
+                ",",
+                "Engel",
+                "in",
+                "Fetzen",
+                ","
+            ]
         },
         "line.11": {
-            "text": "der im simmernden Grau-Licht"
+            "text": "der im simmernden Grau-Licht",
+            "tokens": [
+                "der",
+                "im",
+                "simmernden",
+                "Grau-Licht"
+            ]
         },
         "line.12": {
-            "text": "verschwand."
+            "text": "verschwand.",
+            "tokens": [
+                "verschwand",
+                "."
+            ]
         }
     }
 }

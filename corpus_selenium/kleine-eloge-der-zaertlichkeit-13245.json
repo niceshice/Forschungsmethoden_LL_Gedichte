@@ -4,100 +4,370 @@
     "author": "Ilma Rakusa",
     "poem": {
         "line.1": {
-            "text": "Mit der Fingerkuppe über eine Wange fahren,"
+            "text": "Mit der Fingerkuppe über eine Wange fahren,",
+            "tokens": [
+                "Mit",
+                "der",
+                "Fingerkuppe",
+                "über",
+                "eine",
+                "Wange",
+                "fahren",
+                ","
+            ]
         },
         "line.2": {
-            "text": "über ein Blütenblatt streichen,"
+            "text": "über ein Blütenblatt streichen,",
+            "tokens": [
+                "über",
+                "ein",
+                "Blütenblatt",
+                "streichen",
+                ","
+            ]
         },
         "line.3": {
-            "text": "die Borke eines Baumes berühren."
+            "text": "die Borke eines Baumes berühren.",
+            "tokens": [
+                "die",
+                "Borke",
+                "eines",
+                "Baumes",
+                "berühren",
+                "."
+            ]
         },
         "line.4": {
-            "text": "Wasser im Handteller sammeln und es"
+            "text": "Wasser im Handteller sammeln und es",
+            "tokens": [
+                "Wasser",
+                "im",
+                "Handteller",
+                "sammeln",
+                "und",
+                "es"
+            ]
         },
         "line.5": {
-            "text": "langsam zwischen den Fingern hindurchrinnen lassen."
+            "text": "langsam zwischen den Fingern hindurchrinnen lassen.",
+            "tokens": [
+                "langsam",
+                "zwischen",
+                "den",
+                "Fingern",
+                "hindurchrinnen",
+                "lassen",
+                "."
+            ]
         },
         "line.6": {
-            "text": "Den Finger in Eigelb tunken, damit vorsichtig einen Teig bestreichen."
+            "text": "Den Finger in Eigelb tunken, damit vorsichtig einen Teig bestreichen.",
+            "tokens": [
+                "Den",
+                "Finger",
+                "in",
+                "Eigelb",
+                "tunken",
+                ",",
+                "damit",
+                "vorsichtig",
+                "einen",
+                "Teig",
+                "bestreichen",
+                "."
+            ]
         },
         "line.7": {
-            "text": "Nase an Nase reiben, dazu den passenden Zauberspruch aufsagen."
+            "text": "Nase an Nase reiben, dazu den passenden Zauberspruch aufsagen.",
+            "tokens": [
+                "Nase",
+                "an",
+                "Nase",
+                "reiben",
+                ",",
+                "dazu",
+                "den",
+                "passenden",
+                "Zauberspruch",
+                "aufsagen",
+                "."
+            ]
         },
         "line.8": {
-            "text": "Den Nacken des Kindes streicheln, seinen feinen Haaransatz."
+            "text": "Den Nacken des Kindes streicheln, seinen feinen Haaransatz.",
+            "tokens": [
+                "Den",
+                "Nacken",
+                "des",
+                "Kindes",
+                "streicheln",
+                ",",
+                "seinen",
+                "feinen",
+                "Haaransatz",
+                "."
+            ]
         },
         "line.9": {
-            "text": "Barfuss über einen Seidenteppich gehen."
+            "text": "Barfuss über einen Seidenteppich gehen.",
+            "tokens": [
+                "Barfuss",
+                "über",
+                "einen",
+                "Seidenteppich",
+                "gehen",
+                "."
+            ]
         },
         "line.10": {
-            "text": "Das Fell des alten Hundes kraulen."
+            "text": "Das Fell des alten Hundes kraulen.",
+            "tokens": [
+                "Das",
+                "Fell",
+                "des",
+                "alten",
+                "Hundes",
+                "kraulen",
+                "."
+            ]
         },
         "line.11": {
-            "text": "Die chinesische Porzellantasse küssen."
+            "text": "Die chinesische Porzellantasse küssen.",
+            "tokens": [
+                "Die",
+                "chinesische",
+                "Porzellantasse",
+                "küssen",
+                "."
+            ]
         },
         "line.12": {
-            "text": "Sich nackt ins Moosbett legen."
+            "text": "Sich nackt ins Moosbett legen.",
+            "tokens": [
+                "Sich",
+                "nackt",
+                "ins",
+                "Moosbett",
+                "legen",
+                "."
+            ]
         },
         "line.13": {
-            "text": "Zerknittertes Seidenpapier glattstreichen."
+            "text": "Zerknittertes Seidenpapier glattstreichen.",
+            "tokens": [
+                "Zerknittertes",
+                "Seidenpapier",
+                "glattstreichen",
+                "."
+            ]
         },
         "line.14": {
-            "text": "Auf dem Klavier leise einen C-Dur-Akkord anschlagen."
+            "text": "Auf dem Klavier leise einen C-Dur-Akkord anschlagen.",
+            "tokens": [
+                "Auf",
+                "dem",
+                "Klavier",
+                "leise",
+                "einen",
+                "C-Dur-Akkord",
+                "anschlagen",
+                "."
+            ]
         },
         "line.15": {
-            "text": "Die Rosen häufeln."
+            "text": "Die Rosen häufeln.",
+            "tokens": [
+                "Die",
+                "Rosen",
+                "häufeln",
+                "."
+            ]
         },
         "line.16": {
-            "text": "Mit dem Zeh die Kniehkehle des Freundes kitzeln."
+            "text": "Mit dem Zeh die Kniehkehle des Freundes kitzeln.",
+            "tokens": [
+                "Mit",
+                "dem",
+                "Zeh",
+                "die",
+                "Kniehkehle",
+                "des",
+                "Freundes",
+                "kitzeln",
+                "."
+            ]
         },
         "line.17": {
-            "text": "Seinen Rücken massieren."
+            "text": "Seinen Rücken massieren.",
+            "tokens": [
+                "Seinen",
+                "Rücken",
+                "massieren",
+                "."
+            ]
         },
         "line.18": {
-            "text": "Zuckerwatte schlecken."
+            "text": "Zuckerwatte schlecken.",
+            "tokens": [
+                "Zuckerwatte",
+                "schlecken",
+                "."
+            ]
         },
         "line.19": {
-            "text": "Bartstoppeln betasten."
+            "text": "Bartstoppeln betasten.",
+            "tokens": [
+                "Bartstoppeln",
+                "betasten",
+                "."
+            ]
         },
         "line.20": {
-            "text": "Die kleine Fingerwunde sauberlecken."
+            "text": "Die kleine Fingerwunde sauberlecken.",
+            "tokens": [
+                "Die",
+                "kleine",
+                "Fingerwunde",
+                "sauberlecken",
+                "."
+            ]
         },
         "line.21": {
-            "text": "Schuppen von Mutters Mantelkragen abschnippen."
+            "text": "Schuppen von Mutters Mantelkragen abschnippen.",
+            "tokens": [
+                "Schuppen",
+                "von",
+                "Mutters",
+                "Mantelkragen",
+                "abschnippen",
+                "."
+            ]
         },
         "line.22": {
-            "text": "Den flaumigen Pfirsich liebkosen."
+            "text": "Den flaumigen Pfirsich liebkosen.",
+            "tokens": [
+                "Den",
+                "flaumigen",
+                "Pfirsich",
+                "liebkosen",
+                "."
+            ]
         },
         "line.23": {
-            "text": "Die Sichel der Nagelkuppe ins Mehl drücken."
+            "text": "Die Sichel der Nagelkuppe ins Mehl drücken.",
+            "tokens": [
+                "Die",
+                "Sichel",
+                "der",
+                "Nagelkuppe",
+                "ins",
+                "Mehl",
+                "drücken",
+                "."
+            ]
         },
         "line.24": {
-            "text": "Winzige Muscheln aus dem Sand klauben. Sie blankreiben."
+            "text": "Winzige Muscheln aus dem Sand klauben. Sie blankreiben.",
+            "tokens": [
+                "Winzige",
+                "Muscheln",
+                "aus",
+                "dem",
+                "Sand",
+                "klauben",
+                ".",
+                "Sie",
+                "blankreiben",
+                "."
+            ]
         },
         "line.25": {
-            "text": "Das Perserkissen tätscheln."
+            "text": "Das Perserkissen tätscheln.",
+            "tokens": [
+                "Das",
+                "Perserkissen",
+                "tätscheln",
+                "."
+            ]
         },
         "line.26": {
-            "text": "Eine Blume auf die beschlagene Scheibe zeichnen."
+            "text": "Eine Blume auf die beschlagene Scheibe zeichnen.",
+            "tokens": [
+                "Eine",
+                "Blume",
+                "auf",
+                "die",
+                "beschlagene",
+                "Scheibe",
+                "zeichnen",
+                "."
+            ]
         },
         "line.27": {
-            "text": "Aus heissem Kerzenwachs Kugeln kneten."
+            "text": "Aus heissem Kerzenwachs Kugeln kneten.",
+            "tokens": [
+                "Aus",
+                "heissem",
+                "Kerzenwachs",
+                "Kugeln",
+                "kneten",
+                "."
+            ]
         },
         "line.28": {
-            "text": "Den fremden Alten an der Hand über die Strasse geleiten."
+            "text": "Den fremden Alten an der Hand über die Strasse geleiten.",
+            "tokens": [
+                "Den",
+                "fremden",
+                "Alten",
+                "an",
+                "der",
+                "Hand",
+                "über",
+                "die",
+                "Strasse",
+                "geleiten",
+                "."
+            ]
         },
         "line.29": {
-            "text": "Vogelfutter streuen."
+            "text": "Vogelfutter streuen.",
+            "tokens": [
+                "Vogelfutter",
+                "streuen",
+                "."
+            ]
         },
         "line.30": {
-            "text": "Die Schneeflocken auf dem Gesicht zergehen lassen."
+            "text": "Die Schneeflocken auf dem Gesicht zergehen lassen.",
+            "tokens": [
+                "Die",
+                "Schneeflocken",
+                "auf",
+                "dem",
+                "Gesicht",
+                "zergehen",
+                "lassen",
+                "."
+            ]
         },
         "line.31": {
-            "text": "Lichthasen fangen."
+            "text": "Lichthasen fangen.",
+            "tokens": [
+                "Lichthasen",
+                "fangen",
+                "."
+            ]
         },
         "line.32": {
-            "text": "Den japanischen Pinsel zausen."
+            "text": "Den japanischen Pinsel zausen.",
+            "tokens": [
+                "Den",
+                "japanischen",
+                "Pinsel",
+                "zausen",
+                "."
+            ]
         }
     }
 }

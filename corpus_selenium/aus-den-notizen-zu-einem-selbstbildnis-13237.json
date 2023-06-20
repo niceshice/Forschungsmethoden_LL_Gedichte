@@ -4,52 +4,204 @@
     "author": "Mirko Bonné",
     "poem": {
         "line.1": {
-            "text": "Haare aufsammeln, rotbraunes Schimmern,"
+            "text": "Haare aufsammeln, rotbraunes Schimmern,",
+            "tokens": [
+                "Haare",
+                "aufsammeln",
+                ",",
+                "rotbraunes",
+                "Schimmern",
+                ","
+            ]
         },
         "line.2": {
-            "text": "aus Ordnungswut, einer Liebe und der Angst,"
+            "text": "aus Ordnungswut, einer Liebe und der Angst,",
+            "tokens": [
+                "aus",
+                "Ordnungswut",
+                ",",
+                "einer",
+                "Liebe",
+                "und",
+                "der",
+                "Angst",
+                ","
+            ]
         },
         "line.3": {
-            "text": "um alles, was von ihr stirbt, zu bewahren"
+            "text": "um alles, was von ihr stirbt, zu bewahren",
+            "tokens": [
+                "um",
+                "alles",
+                ",",
+                "was",
+                "von",
+                "ihr",
+                "stirbt",
+                ",",
+                "zu",
+                "bewahren"
+            ]
         },
         "line.4": {
-            "text": "vorm Hygienewahn der Hinfälligkeit."
+            "text": "vorm Hygienewahn der Hinfälligkeit.",
+            "tokens": [
+                "vorm",
+                "Hygienewahn",
+                "der",
+                "Hinfälligkeit",
+                "."
+            ]
         },
         "line.5": {
-            "text": "Romantische Bekümmerung, klar."
+            "text": "Romantische Bekümmerung, klar.",
+            "tokens": [
+                "Romantische",
+                "Bekümmerung",
+                ",",
+                "klar",
+                "."
+            ]
         },
         "line.6": {
-            "text": "Bahndammschotter, Wacholderdrosseln,"
+            "text": "Bahndammschotter, Wacholderdrosseln,",
+            "tokens": [
+                "Bahndammschotter",
+                ",",
+                "Wacholderdrosseln",
+                ","
+            ]
         },
         "line.7": {
-            "text": "unbändiges Gras. Wenn schon, denn schon"
+            "text": "unbändiges Gras. Wenn schon, denn schon",
+            "tokens": [
+                "unbändiges",
+                "Gras",
+                ".",
+                "Wenn",
+                "schon",
+                ",",
+                "denn",
+                "schon"
+            ]
         },
         "line.8": {
-            "text": "Begehren, Aufbegehren, Zweifel ganz und gar."
+            "text": "Begehren, Aufbegehren, Zweifel ganz und gar.",
+            "tokens": [
+                "Begehren",
+                ",",
+                "Aufbegehren",
+                ",",
+                "Zweifel",
+                "ganz",
+                "und",
+                "gar",
+                "."
+            ]
         },
         "line.9": {
-            "text": "Zu Tränen gerührt vom Rauschen der Eschen"
+            "text": "Zu Tränen gerührt vom Rauschen der Eschen",
+            "tokens": [
+                "Zu",
+                "Tränen",
+                "gerührt",
+                "vom",
+                "Rauschen",
+                "der",
+                "Eschen"
+            ]
         },
         "line.10": {
-            "text": "und ins Knie brechen in Eisenbahnergärten,"
+            "text": "und ins Knie brechen in Eisenbahnergärten,",
+            "tokens": [
+                "und",
+                "ins",
+                "Knie",
+                "brechen",
+                "in",
+                "Eisenbahnergärten",
+                ","
+            ]
         },
         "line.11": {
-            "text": "ich mit meinen Besserwisserallüren und"
+            "text": "ich mit meinen Besserwisserallüren und",
+            "tokens": [
+                "ich",
+                "mit",
+                "meinen",
+                "Besserwisserallüren",
+                "und"
+            ]
         },
         "line.12": {
-            "text": "innigen Wünschen für jeden Dreck."
+            "text": "innigen Wünschen für jeden Dreck.",
+            "tokens": [
+                "innigen",
+                "Wünschen",
+                "für",
+                "jeden",
+                "Dreck",
+                "."
+            ]
         },
         "line.13": {
-            "text": "Die tot sind, gaukeln, die leben, träumen."
+            "text": "Die tot sind, gaukeln, die leben, träumen.",
+            "tokens": [
+                "Die",
+                "tot",
+                "sind",
+                ",",
+                "gaukeln",
+                ",",
+                "die",
+                "leben",
+                ",",
+                "träumen",
+                "."
+            ]
         },
         "line.14": {
-            "text": "Also bin ich gestorben und lebe, wann ich mag!"
+            "text": "Also bin ich gestorben und lebe, wann ich mag!",
+            "tokens": [
+                "Also",
+                "bin",
+                "ich",
+                "gestorben",
+                "und",
+                "lebe",
+                ",",
+                "wann",
+                "ich",
+                "mag",
+                "!"
+            ]
         },
         "line.15": {
-            "text": "Ich verlange zu lieben, fliege durchs Versäumen"
+            "text": "Ich verlange zu lieben, fliege durchs Versäumen",
+            "tokens": [
+                "Ich",
+                "verlange",
+                "zu",
+                "lieben",
+                ",",
+                "fliege",
+                "durchs",
+                "Versäumen"
+            ]
         },
         "line.16": {
-            "text": "in Jahren, Sommern, an einem Nachmittag."
+            "text": "in Jahren, Sommern, an einem Nachmittag.",
+            "tokens": [
+                "in",
+                "Jahren",
+                ",",
+                "Sommern",
+                ",",
+                "an",
+                "einem",
+                "Nachmittag",
+                "."
+            ]
         }
     }
 }

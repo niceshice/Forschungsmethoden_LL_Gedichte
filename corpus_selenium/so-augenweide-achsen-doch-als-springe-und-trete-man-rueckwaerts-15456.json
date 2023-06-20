@@ -4,34 +4,163 @@
     "author": "Sandra Burkhardt",
     "poem": {
         "line.1": {
-            "text": "Doch als springe und trete man rückwärts, wird verhüllt,"
+            "text": "Doch als springe und trete man rückwärts, wird verhüllt,",
+            "tokens": [
+                "Doch",
+                "als",
+                "springe",
+                "und",
+                "trete",
+                "man",
+                "rückwärts",
+                ",",
+                "wird",
+                "verhüllt",
+                ","
+            ]
         },
         "line.2": {
-            "text": "was sich nähert: Die Fassade eines schmalen Häuschens"
+            "text": "was sich nähert: Die Fassade eines schmalen Häuschens",
+            "tokens": [
+                "was",
+                "sich",
+                "nähert",
+                ":",
+                "Die",
+                "Fassade",
+                "eines",
+                "schmalen",
+                "Häuschens"
+            ]
         },
         "line.3": {
-            "text": "zeigt aus der Ferne all ihre Details bis in die kleinste"
+            "text": "zeigt aus der Ferne all ihre Details bis in die kleinste",
+            "tokens": [
+                "zeigt",
+                "aus",
+                "der",
+                "Ferne",
+                "all",
+                "ihre",
+                "Details",
+                "bis",
+                "in",
+                "die",
+                "kleinste"
+            ]
         },
         "line.4": {
-            "text": "Einzelheit. Ranken und Gestrüpp mit Äffchen zwischen"
+            "text": "Einzelheit. Ranken und Gestrüpp mit Äffchen zwischen",
+            "tokens": [
+                "Einzelheit",
+                ".",
+                "Ranken",
+                "und",
+                "Gestrüpp",
+                "mit",
+                "�",
+                "�",
+                "ffchen",
+                "zwischen"
+            ]
         },
         "line.5": {
-            "text": "Zweigen und Ästen werden zu rhythmisierten Arabesken"
+            "text": "Zweigen und Ästen werden zu rhythmisierten Arabesken",
+            "tokens": [
+                "Zweigen",
+                "und",
+                "�",
+                "�",
+                "sten",
+                "werden",
+                "zu",
+                "rhythmisierten",
+                "Arabesken"
+            ]
         },
         "line.6": {
-            "text": "bei mittlerer Distanz. Man fasst sich an zahlreiche Augen:"
+            "text": "bei mittlerer Distanz. Man fasst sich an zahlreiche Augen:",
+            "tokens": [
+                "bei",
+                "mittlerer",
+                "Distanz",
+                ".",
+                "Man",
+                "fasst",
+                "sich",
+                "an",
+                "zahlreiche",
+                "Augen",
+                ":"
+            ]
         },
         "line.7": {
-            "text": "Ist da ein Knick in der Optik? Rückt man mit Pflück"
+            "text": "Ist da ein Knick in der Optik? Rückt man mit Pflück",
+            "tokens": [
+                "Ist",
+                "da",
+                "ein",
+                "Knick",
+                "in",
+                "der",
+                "Optik",
+                "?",
+                "Rückt",
+                "man",
+                "mit",
+                "Pflück"
+            ]
         },
         "line.8": {
-            "text": "und Pflug an die Pflanzen heran, je weiter man geht?"
+            "text": "und Pflug an die Pflanzen heran, je weiter man geht?",
+            "tokens": [
+                "und",
+                "Pflug",
+                "an",
+                "die",
+                "Pflanzen",
+                "heran",
+                ",",
+                "je",
+                "weiter",
+                "man",
+                "geht",
+                "?"
+            ]
         },
         "line.9": {
-            "text": "Denn als man an der Wand steht, ist nichts geblieben als"
+            "text": "Denn als man an der Wand steht, ist nichts geblieben als",
+            "tokens": [
+                "Denn",
+                "als",
+                "man",
+                "an",
+                "der",
+                "Wand",
+                "steht",
+                ",",
+                "ist",
+                "nichts",
+                "geblieben",
+                "als"
+            ]
         },
         "line.10": {
-            "text": "klare Zick-Zacks, die aus dem Garten ragen wie riesige Zäune."
+            "text": "klare Zick-Zacks, die aus dem Garten ragen wie riesige Zäune.",
+            "tokens": [
+                "klare",
+                "Zick-Zacks",
+                ",",
+                "die",
+                "aus",
+                "dem",
+                "Garten",
+                "ragen",
+                "wie",
+                "riesige",
+                "Zäune",
+                "."
+            ]
         }
     }
 }

@@ -4,118 +4,467 @@
     "author": "Steffen  Mensching",
     "poem": {
         "line.1": {
-            "text": "Für Herbert, Matthias und Micha"
+            "text": "Für Herbert, Matthias und Micha",
+            "tokens": [
+                "Für",
+                "Herbert",
+                ",",
+                "Matthias",
+                "und",
+                "Micha"
+            ]
         },
         "line.2": {
-            "text": "Mit Ruten, Rollen, Blinkern, Pilkern,"
+            "text": "Mit Ruten, Rollen, Blinkern, Pilkern,",
+            "tokens": [
+                "Mit",
+                "Ruten",
+                ",",
+                "Rollen",
+                ",",
+                "Blinkern",
+                ",",
+                "Pilkern",
+                ","
+            ]
         },
         "line.3": {
-            "text": "Wobblern und Würmern, Haken"
+            "text": "Wobblern und Würmern, Haken",
+            "tokens": [
+                "Wobblern",
+                "und",
+                "Würmern",
+                ",",
+                "Haken"
+            ]
         },
         "line.4": {
-            "text": "und Ösen, die Salmoniden im Sund"
+            "text": "und Ösen, die Salmoniden im Sund",
+            "tokens": [
+                "und",
+                "Ösen",
+                ",",
+                "die",
+                "Salmoniden",
+                "im",
+                "Sund"
+            ]
         },
         "line.5": {
-            "text": "das Fürchten zu lehren, zogen wir,"
+            "text": "das Fürchten zu lehren, zogen wir,",
+            "tokens": [
+                "das",
+                "Fürchten",
+                "zu",
+                "lehren",
+                ",",
+                "zogen",
+                "wir",
+                ","
+            ]
         },
         "line.6": {
-            "text": "an Scheren vorbei, in Richtung"
+            "text": "an Scheren vorbei, in Richtung",
+            "tokens": [
+                "an",
+                "Scheren",
+                "vorbei",
+                ",",
+                "in",
+                "Richtung"
+            ]
         },
         "line.7": {
-            "text": "der Sonne, hinaus auf offene See,"
+            "text": "der Sonne, hinaus auf offene See,",
+            "tokens": [
+                "der",
+                "Sonne",
+                ",",
+                "hinaus",
+                "auf",
+                "offene",
+                "See",
+                ","
+            ]
         },
         "line.8": {
-            "text": "am Abend, in Richtung der Sonne,"
+            "text": "am Abend, in Richtung der Sonne,",
+            "tokens": [
+                "am",
+                "Abend",
+                ",",
+                "in",
+                "Richtung",
+                "der",
+                "Sonne",
+                ","
+            ]
         },
         "line.9": {
-            "text": "ans Ufer zurück, fünf Tage, voll"
+            "text": "ans Ufer zurück, fünf Tage, voll",
+            "tokens": [
+                "ans",
+                "Ufer",
+                "zurück",
+                ",",
+                "fünf",
+                "Tage",
+                ",",
+                "voll"
+            ]
         },
         "line.10": {
-            "text": "Sehnsucht auf Fang, die Hand"
+            "text": "Sehnsucht auf Fang, die Hand",
+            "tokens": [
+                "Sehnsucht",
+                "auf",
+                "Fang",
+                ",",
+                "die",
+                "Hand"
+            ]
         },
         "line.11": {
-            "text": "in den Sehnen, umsonst. Kein Lachs,"
+            "text": "in den Sehnen, umsonst. Kein Lachs,",
+            "tokens": [
+                "in",
+                "den",
+                "Sehnen",
+                ",",
+                "umsonst",
+                ".",
+                "Kein",
+                "Lachs",
+                ","
+            ]
         },
         "line.12": {
-            "text": "Dorsch, weder Forelle noch Flunder,"
+            "text": "Dorsch, weder Forelle noch Flunder,",
+            "tokens": [
+                "Dorsch",
+                ",",
+                "weder",
+                "Forelle",
+                "noch",
+                "Flunder",
+                ","
+            ]
         },
         "line.13": {
-            "text": "Aal, Hecht oder Barsch (nicht mal"
+            "text": "Aal, Hecht oder Barsch (nicht mal",
+            "tokens": [
+                "Aal",
+                ",",
+                "Hecht",
+                "oder",
+                "Barsch",
+                "(",
+                "nicht",
+                "mal"
+            ]
         },
         "line.14": {
-            "text": "Kaulbarsch) biß an, das Echolot"
+            "text": "Kaulbarsch) biß an, das Echolot",
+            "tokens": [
+                "Kaulbarsch",
+                ")",
+                "biß",
+                "an",
+                ",",
+                "das",
+                "Echolot"
+            ]
         },
         "line.15": {
-            "text": "(Hightech, verfluchte) zeigte, Schwärme"
+            "text": "(Hightech, verfluchte) zeigte, Schwärme",
+            "tokens": [
+                "(",
+                "Hightech",
+                ",",
+                "verfluchte",
+                ")",
+                "zeigte",
+                ",",
+                "Schwärme"
+            ]
         },
         "line.16": {
-            "text": "schwammen gemächlich ums Boot, wir"
+            "text": "schwammen gemächlich ums Boot, wir",
+            "tokens": [
+                "schwammen",
+                "gemächlich",
+                "ums",
+                "Boot",
+                ",",
+                "wir"
+            ]
         },
         "line.17": {
-            "text": "schwitzten, drillten, rollten,"
+            "text": "schwitzten, drillten, rollten,",
+            "tokens": [
+                "schwitzten",
+                ",",
+                "drillten",
+                ",",
+                "rollten",
+                ","
+            ]
         },
         "line.18": {
-            "text": "trollten, zupften, lupften"
+            "text": "trollten, zupften, lupften",
+            "tokens": [
+                "trollten",
+                ",",
+                "zupften",
+                ",",
+                "lupften"
+            ]
         },
         "line.19": {
-            "text": "die Schnüre mit Geschick und dem Mut"
+            "text": "die Schnüre mit Geschick und dem Mut",
+            "tokens": [
+                "die",
+                "Schnüre",
+                "mit",
+                "Geschick",
+                "und",
+                "dem",
+                "Mut"
+            ]
         },
         "line.20": {
-            "text": "verzweifelter Männer, ab und zu"
+            "text": "verzweifelter Männer, ab und zu",
+            "tokens": [
+                "verzweifelter",
+                "Männer",
+                ",",
+                "ab",
+                "und",
+                "zu"
+            ]
         },
         "line.21": {
-            "text": "gewahrte einer, wie aus Versehn,"
+            "text": "gewahrte einer, wie aus Versehn,",
+            "tokens": [
+                "gewahrte",
+                "einer",
+                ",",
+                "wie",
+                "aus",
+                "Versehn",
+                ","
+            ]
         },
         "line.22": {
-            "text": "des weichen Lichts über den Inseln,"
+            "text": "des weichen Lichts über den Inseln,",
+            "tokens": [
+                "des",
+                "weichen",
+                "Lichts",
+                "über",
+                "den",
+                "Inseln",
+                ","
+            ]
         },
         "line.23": {
-            "text": "der Wacholderbäume und Gänse, während"
+            "text": "der Wacholderbäume und Gänse, während",
+            "tokens": [
+                "der",
+                "Wacholderbäume",
+                "und",
+                "Gänse",
+                ",",
+                "während"
+            ]
         },
         "line.24": {
-            "text": "ein anderer, abwesend, Schlick hakend,"
+            "text": "ein anderer, abwesend, Schlick hakend,",
+            "tokens": [
+                "ein",
+                "anderer",
+                ",",
+                "abwesend",
+                ",",
+                "Schlick",
+                "hakend",
+                ","
+            ]
         },
         "line.25": {
-            "text": "sagte (zum tausendsten Mal): Ich"
+            "text": "sagte (zum tausendsten Mal): Ich",
+            "tokens": [
+                "sagte",
+                "(",
+                "zum",
+                "tausendsten",
+                "Mal",
+                "):",
+                "Ich"
+            ]
         },
         "line.26": {
-            "text": "begreifs nicht. Hinterm Motor,"
+            "text": "begreifs nicht. Hinterm Motor,",
+            "tokens": [
+                "begreifs",
+                "nicht",
+                ".",
+                "Hinterm",
+                "Motor",
+                ","
+            ]
         },
         "line.27": {
-            "text": "der Steuermann, rügte: Der Köder"
+            "text": "der Steuermann, rügte: Der Köder",
+            "tokens": [
+                "der",
+                "Steuermann",
+                ",",
+                "rügte",
+                ":",
+                "Der",
+                "Köder"
+            ]
         },
         "line.28": {
-            "text": "ist falsch, der am Bug sprach:"
+            "text": "ist falsch, der am Bug sprach:",
+            "tokens": [
+                "ist",
+                "falsch",
+                ",",
+                "der",
+                "am",
+                "Bug",
+                "sprach",
+                ":"
+            ]
         },
         "line.29": {
-            "text": "das Wetter, der Echolotse: Die Stelle."
+            "text": "das Wetter, der Echolotse: Die Stelle.",
+            "tokens": [
+                "das",
+                "Wetter",
+                ",",
+                "der",
+                "Echolotse",
+                ":",
+                "Die",
+                "Stelle",
+                "."
+            ]
         },
         "line.30": {
-            "text": "Die falschen Männer, meinte der Mann"
+            "text": "Die falschen Männer, meinte der Mann",
+            "tokens": [
+                "Die",
+                "falschen",
+                "Männer",
+                ",",
+                "meinte",
+                "der",
+                "Mann"
+            ]
         },
         "line.31": {
-            "text": "mit dem ewigen Fitz. Die Fische"
+            "text": "mit dem ewigen Fitz. Die Fische",
+            "tokens": [
+                "mit",
+                "dem",
+                "ewigen",
+                "Fitz",
+                ".",
+                "Die",
+                "Fische"
+            ]
         },
         "line.32": {
-            "text": "lachten uns aus, wir, in Krämpfen,"
+            "text": "lachten uns aus, wir, in Krämpfen,",
+            "tokens": [
+                "lachten",
+                "uns",
+                "aus",
+                ",",
+                "wir",
+                ",",
+                "in",
+                "Krämpfen",
+                ","
+            ]
         },
         "line.33": {
-            "text": "über Bord hangend, hip oder high,"
+            "text": "über Bord hangend, hip oder high,",
+            "tokens": [
+                "über",
+                "Bord",
+                "hangend",
+                ",",
+                "hip",
+                "oder",
+                "high",
+                ","
+            ]
         },
         "line.34": {
-            "text": "lachten mit ihnen im Chor Tränen"
+            "text": "lachten mit ihnen im Chor Tränen",
+            "tokens": [
+                "lachten",
+                "mit",
+                "ihnen",
+                "im",
+                "Chor",
+                "Tränen"
+            ]
         },
         "line.35": {
-            "text": "ins salzige Wasser, was für ein Gaudi,"
+            "text": "ins salzige Wasser, was für ein Gaudi,",
+            "tokens": [
+                "ins",
+                "salzige",
+                "Wasser",
+                ",",
+                "was",
+                "für",
+                "ein",
+                "Gaudi",
+                ","
+            ]
         },
         "line.36": {
-            "text": "auf ganzer Linie zu scheitern, Freunde,"
+            "text": "auf ganzer Linie zu scheitern, Freunde,",
+            "tokens": [
+                "auf",
+                "ganzer",
+                "Linie",
+                "zu",
+                "scheitern",
+                ",",
+                "Freunde",
+                ","
+            ]
         },
         "line.37": {
-            "text": "nichts töten zu können, was"
+            "text": "nichts töten zu können, was",
+            "tokens": [
+                "nichts",
+                "töten",
+                "zu",
+                "können",
+                ",",
+                "was"
+            ]
         },
         "line.38": {
-            "text": "für ein Elend, welch ein Mordsspaß."
+            "text": "für ein Elend, welch ein Mordsspaß.",
+            "tokens": [
+                "für",
+                "ein",
+                "Elend",
+                ",",
+                "welch",
+                "ein",
+                "Mordsspaß",
+                "."
+            ]
         }
     }
 }

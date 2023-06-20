@@ -4,49 +4,201 @@
     "author": "André Schinkel",
     "poem": {
         "line.1": {
-            "text": "Auf dich, Schmetterling, habe ich den ganzen"
+            "text": "Auf dich, Schmetterling, habe ich den ganzen",
+            "tokens": [
+                "Auf",
+                "dich",
+                ",",
+                "Schmetterling",
+                ",",
+                "habe",
+                "ich",
+                "den",
+                "ganzen"
+            ]
         },
         "line.2": {
-            "text": "Tag schon gewartet, deine meerblauen"
+            "text": "Tag schon gewartet, deine meerblauen",
+            "tokens": [
+                "Tag",
+                "schon",
+                "gewartet",
+                ",",
+                "deine",
+                "meerblauen"
+            ]
         },
         "line.3": {
-            "text": "Schwingen. Unruhig durchlief ich die Nacht,"
+            "text": "Schwingen. Unruhig durchlief ich die Nacht,",
+            "tokens": [
+                "Schwingen",
+                ".",
+                "Unruhig",
+                "durchlief",
+                "ich",
+                "die",
+                "Nacht",
+                ","
+            ]
         },
         "line.4": {
-            "text": "Am frühen Morgen begann ich zu trinken,"
+            "text": "Am frühen Morgen begann ich zu trinken,",
+            "tokens": [
+                "Am",
+                "frühen",
+                "Morgen",
+                "begann",
+                "ich",
+                "zu",
+                "trinken",
+                ","
+            ]
         },
         "line.5": {
-            "text": "Weil: ich hielt die Erwartung nicht aus. Und nun"
+            "text": "Weil: ich hielt die Erwartung nicht aus. Und nun",
+            "tokens": [
+                "Weil",
+                ":",
+                "ich",
+                "hielt",
+                "die",
+                "Erwartung",
+                "nicht",
+                "aus",
+                ".",
+                "Und",
+                "nun"
+            ]
         },
         "line.6": {
-            "text": "Wieder Nacht, und mein Kopf voller Wein,"
+            "text": "Wieder Nacht, und mein Kopf voller Wein,",
+            "tokens": [
+                "Wieder",
+                "Nacht",
+                ",",
+                "und",
+                "mein",
+                "Kopf",
+                "voller",
+                "Wein",
+                ","
+            ]
         },
         "line.7": {
-            "text": "Und der Schlaf kommt nicht, bevor du nicht"
+            "text": "Und der Schlaf kommt nicht, bevor du nicht",
+            "tokens": [
+                "Und",
+                "der",
+                "Schlaf",
+                "kommt",
+                "nicht",
+                ",",
+                "bevor",
+                "du",
+                "nicht"
+            ]
         },
         "line.8": {
-            "text": "Kommst. Weithin dein Flug, von der"
+            "text": "Kommst. Weithin dein Flug, von der",
+            "tokens": [
+                "Kommst",
+                ".",
+                "Weithin",
+                "dein",
+                "Flug",
+                ",",
+                "von",
+                "der"
+            ]
         },
         "line.9": {
-            "text": "Baltischen See her, und immer zu mir, auf der"
+            "text": "Baltischen See her, und immer zu mir, auf der",
+            "tokens": [
+                "Baltischen",
+                "See",
+                "her",
+                ",",
+                "und",
+                "immer",
+                "zu",
+                "mir",
+                ",",
+                "auf",
+                "der"
+            ]
         },
         "line.10": {
-            "text": "Flucht vor den Krähen, die aus Norwegen"
+            "text": "Flucht vor den Krähen, die aus Norwegen",
+            "tokens": [
+                "Flucht",
+                "vor",
+                "den",
+                "Krähen",
+                ",",
+                "die",
+                "aus",
+                "Norwegen"
+            ]
         },
         "line.11": {
-            "text": "Sind. Dein Blick - süd-skandinavisches Licht"
+            "text": "Sind. Dein Blick - süd-skandinavisches Licht",
+            "tokens": [
+                "Sind",
+                ".",
+                "Dein",
+                "Blick",
+                "-",
+                "süd-skandinavisches",
+                "Licht"
+            ]
         },
         "line.12": {
-            "text": "Unter der gleichmäßigen Schwinge,"
+            "text": "Unter der gleichmäßigen Schwinge,",
+            "tokens": [
+                "Unter",
+                "der",
+                "gleichmäßigen",
+                "Schwinge",
+                ","
+            ]
         },
         "line.13": {
-            "text": "Wenn du in den heimischen Schlag kehrst,"
+            "text": "Wenn du in den heimischen Schlag kehrst,",
+            "tokens": [
+                "Wenn",
+                "du",
+                "in",
+                "den",
+                "heimischen",
+                "Schlag",
+                "kehrst",
+                ","
+            ]
         },
         "line.14": {
-            "text": "Nektarperlen im Pelz und Blütenstaubduft: Auf"
+            "text": "Nektarperlen im Pelz und Blütenstaubduft: Auf",
+            "tokens": [
+                "Nektarperlen",
+                "im",
+                "Pelz",
+                "und",
+                "Blütenstaubduft",
+                ":",
+                "Auf"
+            ]
         },
         "line.15": {
-            "text": "Dich habe ich den ganzen Sommer gewartet."
+            "text": "Dich habe ich den ganzen Sommer gewartet.",
+            "tokens": [
+                "Dich",
+                "habe",
+                "ich",
+                "den",
+                "ganzen",
+                "Sommer",
+                "gewartet",
+                "."
+            ]
         }
     }
 }

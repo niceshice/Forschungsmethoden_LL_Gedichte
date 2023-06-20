@@ -4,394 +4,1560 @@
     "author": "Sonja vom Brocke",
     "poem": {
         "line.1": {
-            "text": "."
+            "text": ".",
+            "tokens": [
+                "."
+            ]
         },
         "line.2": {
-            "text": "."
+            "text": ".",
+            "tokens": [
+                "."
+            ]
         },
         "line.3": {
-            "text": "."
+            "text": ".",
+            "tokens": [
+                "."
+            ]
         },
         "line.4": {
-            "text": "."
+            "text": ".",
+            "tokens": [
+                "."
+            ]
         },
         "line.5": {
-            "text": "zur RotblÃ¼tlerin."
+            "text": "zur RotblÃ¼tlerin.",
+            "tokens": [
+                "zur",
+                "RotblÃ¼tlerin",
+                "."
+            ]
         },
         "line.6": {
-            "text": "Guckt auf und klappt zu."
+            "text": "Guckt auf und klappt zu.",
+            "tokens": [
+                "Guckt",
+                "auf",
+                "und",
+                "klappt",
+                "zu",
+                "."
+            ]
         },
         "line.7": {
-            "text": "BestÃ¤ubt deine Augen mit feuriger Arznei."
+            "text": "BestÃ¤ubt deine Augen mit feuriger Arznei.",
+            "tokens": [
+                "BestÃ¤ubt",
+                "deine",
+                "Augen",
+                "mit",
+                "feuriger",
+                "Arznei",
+                "."
+            ]
         },
         "line.8": {
-            "text": "Wo warst gâ€™wesen?"
+            "text": "Wo warst gâ€™wesen?",
+            "tokens": [
+                "Wo",
+                "warst",
+                "gâ€",
+                "™",
+                "wesen",
+                "?"
+            ]
         },
         "line.9": {
-            "text": "Kommst aus Vitrine?"
+            "text": "Kommst aus Vitrine?",
+            "tokens": [
+                "Kommst",
+                "aus",
+                "Vitrine",
+                "?"
+            ]
         },
         "line.10": {
-            "text": "Reibst."
+            "text": "Reibst.",
+            "tokens": [
+                "Reibst",
+                "."
+            ]
         },
         "line.11": {
-            "text": "Reibst"
+            "text": "Reibst",
+            "tokens": [
+                "Reibst"
+            ]
         },
         "line.12": {
-            "text": "und"
+            "text": "und",
+            "tokens": [
+                "und"
+            ]
         },
         "line.13": {
-            "text": "reibst"
+            "text": "reibst",
+            "tokens": [
+                "reibst"
+            ]
         },
         "line.14": {
-            "text": "."
+            "text": ".",
+            "tokens": [
+                "."
+            ]
         },
         "line.15": {
-            "text": "."
+            "text": ".",
+            "tokens": [
+                "."
+            ]
         },
         "line.16": {
-            "text": "bist die RotblÃ¼tlerin."
+            "text": "bist die RotblÃ¼tlerin.",
+            "tokens": [
+                "bist",
+                "die",
+                "RotblÃ¼tlerin",
+                "."
+            ]
         },
         "line.17": {
-            "text": "Lebst intim, aber furchtlos zugleich."
+            "text": "Lebst intim, aber furchtlos zugleich.",
+            "tokens": [
+                "Lebst",
+                "intim",
+                ",",
+                "aber",
+                "furchtlos",
+                "zugleich",
+                "."
+            ]
         },
         "line.18": {
-            "text": "Kannst mit der Sonne blÃ¶deln. Sie ist"
+            "text": "Kannst mit der Sonne blÃ¶deln. Sie ist",
+            "tokens": [
+                "Kannst",
+                "mit",
+                "der",
+                "Sonne",
+                "blÃ¶deln",
+                ".",
+                "Sie",
+                "ist"
+            ]
         },
         "line.19": {
-            "text": "eine OmalÃ¶win, bereit, triftige Kraft"
+            "text": "eine OmalÃ¶win, bereit, triftige Kraft",
+            "tokens": [
+                "eine",
+                "OmalÃ¶win",
+                ",",
+                "bereit",
+                ",",
+                "triftige",
+                "Kraft"
+            ]
         },
         "line.20": {
-            "text": "zu spendieren: Sie hat keine Wahl."
+            "text": "zu spendieren: Sie hat keine Wahl.",
+            "tokens": [
+                "zu",
+                "spendieren",
+                ":",
+                "Sie",
+                "hat",
+                "keine",
+                "Wahl",
+                "."
+            ]
         },
         "line.21": {
-            "text": "Aber stimmt dem schon zu, denn was"
+            "text": "Aber stimmt dem schon zu, denn was",
+            "tokens": [
+                "Aber",
+                "stimmt",
+                "dem",
+                "schon",
+                "zu",
+                ",",
+                "denn",
+                "was"
+            ]
         },
         "line.22": {
-            "text": "soll sie auch tun, sie hat keinen Strick, nur"
+            "text": "soll sie auch tun, sie hat keinen Strick, nur",
+            "tokens": [
+                "soll",
+                "sie",
+                "auch",
+                "tun",
+                ",",
+                "sie",
+                "hat",
+                "keinen",
+                "Strick",
+                ",",
+                "nur"
+            ]
         },
         "line.23": {
-            "text": "Irrstern. Propere grÃ¼ne Flammen ihr Wald,"
+            "text": "Irrstern. Propere grÃ¼ne Flammen ihr Wald,",
+            "tokens": [
+                "Irrstern",
+                ".",
+                "Propere",
+                "grÃ¼ne",
+                "Flammen",
+                "ihr",
+                "Wald",
+                ","
+            ]
         },
         "line.24": {
-            "text": "erquickte Zehen: das Meer; zwittrige"
+            "text": "erquickte Zehen: das Meer; zwittrige",
+            "tokens": [
+                "erquickte",
+                "Zehen",
+                ":",
+                "das",
+                "Meer",
+                ";",
+                "zwittrige"
+            ]
         },
         "line.25": {
-            "text": "Spiegelspielchen im See, SÃ¤ugling Gobi"
+            "text": "Spiegelspielchen im See, SÃ¤ugling Gobi",
+            "tokens": [
+                "Spiegelspielchen",
+                "im",
+                "See",
+                ",",
+                "SÃ¤ugling",
+                "Gobi"
+            ]
         },
         "line.26": {
-            "text": "und Luftgeister Schnee, der Bogen im"
+            "text": "und Luftgeister Schnee, der Bogen im",
+            "tokens": [
+                "und",
+                "Luftgeister",
+                "Schnee",
+                ",",
+                "der",
+                "Bogen",
+                "im"
+            ]
         },
         "line.27": {
-            "text": "Regen ihr Kummer; denn Kummer ist"
+            "text": "Regen ihr Kummer; denn Kummer ist",
+            "tokens": [
+                "Regen",
+                "ihr",
+                "Kummer",
+                ";",
+                "denn",
+                "Kummer",
+                "ist"
+            ]
         },
         "line.28": {
-            "text": "manchmal auch schÃ¶n.* Keine Statistik"
+            "text": "manchmal auch schÃ¶n.* Keine Statistik",
+            "tokens": [
+                "manchmal",
+                "auch",
+                "schÃ¶n",
+                ".",
+                "*",
+                "Keine",
+                "Statistik"
+            ]
         },
         "line.29": {
-            "text": "bekriegt dich, du kragst aus verflimmertem"
+            "text": "bekriegt dich, du kragst aus verflimmertem",
+            "tokens": [
+                "bekriegt",
+                "dich",
+                ",",
+                "du",
+                "kragst",
+                "aus",
+                "verflimmertem"
+            ]
         },
         "line.30": {
-            "text": "Stiel; Same und Stachel verlangst du nicht,"
+            "text": "Stiel; Same und Stachel verlangst du nicht,",
+            "tokens": [
+                "Stiel",
+                ";",
+                "Same",
+                "und",
+                "Stachel",
+                "verlangst",
+                "du",
+                "nicht",
+                ","
+            ]
         },
         "line.31": {
-            "text": "wie Korallen? Koralle dein Lieblingstier!"
+            "text": "wie Korallen? Koralle dein Lieblingstier!",
+            "tokens": [
+                "wie",
+                "Korallen",
+                "?",
+                "Koralle",
+                "dein",
+                "Lieblingstier",
+                "!"
+            ]
         },
         "line.32": {
-            "text": "Hast FÃ¼hlertraube in Stempel operiert:"
+            "text": "Hast FÃ¼hlertraube in Stempel operiert:",
+            "tokens": [
+                "Hast",
+                "FÃ¼hlertraube",
+                "in",
+                "Stempel",
+                "operiert",
+                ":"
+            ]
         },
         "line.33": {
-            "text": "kluge RotblÃ¼tlerin; auch zum Schmusen;"
+            "text": "kluge RotblÃ¼tlerin; auch zum Schmusen;",
+            "tokens": [
+                "kluge",
+                "RotblÃ¼tlerin",
+                ";",
+                "auch",
+                "zum",
+                "Schmusen",
+                ";"
+            ]
         },
         "line.34": {
-            "text": "koppelst Fibern und Knollwurz findig los;"
+            "text": "koppelst Fibern und Knollwurz findig los;",
+            "tokens": [
+                "koppelst",
+                "Fibern",
+                "und",
+                "Knollwurz",
+                "findig",
+                "los",
+                ";"
+            ]
         },
         "line.35": {
-            "text": "ziehst auf Plane; Plane Luxkorb Luxkorb"
+            "text": "ziehst auf Plane; Plane Luxkorb Luxkorb",
+            "tokens": [
+                "ziehst",
+                "auf",
+                "Plane",
+                ";",
+                "Plane",
+                "Luxkorb",
+                "Luxkorb"
+            ]
         },
         "line.36": {
-            "text": "Vessel Vessel schraubt, Manti staunt:"
+            "text": "Vessel Vessel schraubt, Manti staunt:",
+            "tokens": [
+                "Vessel",
+                "Vessel",
+                "schraubt",
+                ",",
+                "Manti",
+                "staunt",
+                ":"
+            ]
         },
         "line.37": {
-            "text": "Schraubt die RotblÃ¼tlerin sich im Vessel"
+            "text": "Schraubt die RotblÃ¼tlerin sich im Vessel",
+            "tokens": [
+                "Schraubt",
+                "die",
+                "RotblÃ¼tlerin",
+                "sich",
+                "im",
+                "Vessel"
+            ]
         },
         "line.38": {
-            "text": "durch das Kraut! Mission Erdwurm;"
+            "text": "durch das Kraut! Mission Erdwurm;",
+            "tokens": [
+                "durch",
+                "das",
+                "Kraut",
+                "!",
+                "Mission",
+                "Erdwurm",
+                ";"
+            ]
         },
         "line.39": {
-            "text": "Mission Detox; Mission Lauch; Mission"
+            "text": "Mission Detox; Mission Lauch; Mission",
+            "tokens": [
+                "Mission",
+                "Detox",
+                ";",
+                "Mission",
+                "Lauch",
+                ";",
+                "Mission"
+            ]
         },
         "line.40": {
-            "text": "Haselmaus; Mission Assel; Harke; Schlauch;"
+            "text": "Haselmaus; Mission Assel; Harke; Schlauch;",
+            "tokens": [
+                "Haselmaus",
+                ";",
+                "Mission",
+                "Assel",
+                ";",
+                "Harke",
+                ";",
+                "Schlauch",
+                ";"
+            ]
         },
         "line.41": {
-            "text": "Mission Wasser; Larve; Laub; Mission"
+            "text": "Mission Wasser; Larve; Laub; Mission",
+            "tokens": [
+                "Mission",
+                "Wasser",
+                ";",
+                "Larve",
+                ";",
+                "Laub",
+                ";",
+                "Mission"
+            ]
         },
         "line.42": {
-            "text": "Allen-voller-Bauch; Mission Amselhaus;"
+            "text": "Allen-voller-Bauch; Mission Amselhaus;",
+            "tokens": [
+                "Allen-voller-Bauch",
+                ";",
+                "Mission",
+                "Amselhaus",
+                ";"
+            ]
         },
         "line.43": {
-            "text": "Mission Kompost; Love und Torf; Mission"
+            "text": "Mission Kompost; Love und Torf; Mission",
+            "tokens": [
+                "Mission",
+                "Kompost",
+                ";",
+                "Love",
+                "und",
+                "Torf",
+                ";",
+                "Mission"
+            ]
         },
         "line.44": {
-            "text": "Eisen; MolybdÃ¤n; Mission Schippe; Mission"
+            "text": "Eisen; MolybdÃ¤n; Mission Schippe; Mission",
+            "tokens": [
+                "Eisen",
+                ";",
+                "MolybdÃ¤n",
+                ";",
+                "Mission",
+                "Schippe",
+                ";",
+                "Mission"
+            ]
         },
         "line.45": {
-            "text": "Asche; Mission Nix-stammt-aus-der-Rippe;"
+            "text": "Asche; Mission Nix-stammt-aus-der-Rippe;",
+            "tokens": [
+                "Asche",
+                ";",
+                "Mission",
+                "Nix-stammt-aus-der-Rippe",
+                ";"
+            ]
         },
         "line.46": {
-            "text": "Mission Donner; Mission Zecke; Birn- und"
+            "text": "Mission Donner; Mission Zecke; Birn- und",
+            "tokens": [
+                "Mission",
+                "Donner",
+                ";",
+                "Mission",
+                "Zecke",
+                ";",
+                "Birn-",
+                "und"
+            ]
         },
         "line.47": {
-            "text": "Faunbaum; Mission Lunge; Mission Zitrus;"
+            "text": "Faunbaum; Mission Lunge; Mission Zitrus;",
+            "tokens": [
+                "Faunbaum",
+                ";",
+                "Mission",
+                "Lunge",
+                ";",
+                "Mission",
+                "Zitrus",
+                ";"
+            ]
         },
         "line.48": {
-            "text": "Mission Lava; Mission Hummel; Mission"
+            "text": "Mission Lava; Mission Hummel; Mission",
+            "tokens": [
+                "Mission",
+                "Lava",
+                ";",
+                "Mission",
+                "Hummel",
+                ";",
+                "Mission"
+            ]
         },
         "line.49": {
-            "text": "Rose; Mond und Rauch; Mission Salbei;"
+            "text": "Rose; Mond und Rauch; Mission Salbei;",
+            "tokens": [
+                "Rose",
+                ";",
+                "Mond",
+                "und",
+                "Rauch",
+                ";",
+                "Mission",
+                "Salbei",
+                ";"
+            ]
         },
         "line.50": {
-            "text": "Mission Wirsing; Mission Labsal; auch"
+            "text": "Mission Wirsing; Mission Labsal; auch",
+            "tokens": [
+                "Mission",
+                "Wirsing",
+                ";",
+                "Mission",
+                "Labsal",
+                ";",
+                "auch"
+            ]
         },
         "line.51": {
-            "text": "Libelle; Fungi; Schrecke; All-Parzelle;"
+            "text": "Libelle; Fungi; Schrecke; All-Parzelle;",
+            "tokens": [
+                "Libelle",
+                ";",
+                "Fungi",
+                ";",
+                "Schrecke",
+                ";",
+                "All-Parzelle",
+                ";"
+            ]
         },
         "line.52": {
-            "text": "Mission Lattich; Mission Bohne; Mission"
+            "text": "Mission Lattich; Mission Bohne; Mission",
+            "tokens": [
+                "Mission",
+                "Lattich",
+                ";",
+                "Mission",
+                "Bohne",
+                ";",
+                "Mission"
+            ]
         },
         "line.53": {
-            "text": "Mitlife-Edaphon; Mission Mitlife-Migration;"
+            "text": "Mitlife-Edaphon; Mission Mitlife-Migration;",
+            "tokens": [
+                "Mitlife-Edaphon",
+                ";",
+                "Mission",
+                "Mitlife-Migration",
+                ";"
+            ]
         },
         "line.54": {
-            "text": "Mission Distel; Mission Bulgur; Mission"
+            "text": "Mission Distel; Mission Bulgur; Mission",
+            "tokens": [
+                "Mission",
+                "Distel",
+                ";",
+                "Mission",
+                "Bulgur",
+                ";",
+                "Mission"
+            ]
         },
         "line.55": {
-            "text": "Windbraut; Mission Flunder; Mission"
+            "text": "Windbraut; Mission Flunder; Mission",
+            "tokens": [
+                "Windbraut",
+                ";",
+                "Mission",
+                "Flunder",
+                ";",
+                "Mission"
+            ]
         },
         "line.56": {
-            "text": "Blitz und Wolke(nfloh); Mission Nelke;"
+            "text": "Blitz und Wolke(nfloh); Mission Nelke;",
+            "tokens": [
+                "Blitz",
+                "und",
+                "Wolke",
+                "(",
+                "nfloh",
+                ")",
+                ";",
+                "Mission",
+                "Nelke",
+                ";"
+            ]
         },
         "line.57": {
-            "text": "Harlekin; O2; Spinnweb; Baldachin;"
+            "text": "Harlekin; O2; Spinnweb; Baldachin;",
+            "tokens": [
+                "Harlekin",
+                ";",
+                "O2",
+                ";",
+                "Spinnweb",
+                ";",
+                "Baldachin",
+                ";"
+            ]
         },
         "line.58": {
-            "text": "Mission Zwiebel; Mission Fibel, Mission"
+            "text": "Mission Zwiebel; Mission Fibel, Mission",
+            "tokens": [
+                "Mission",
+                "Zwiebel",
+                ";",
+                "Mission",
+                "Fibel",
+                ",",
+                "Mission"
+            ]
         },
         "line.59": {
-            "text": "Supi Antifibel; Mission Grille; Mission"
+            "text": "Supi Antifibel; Mission Grille; Mission",
+            "tokens": [
+                "Supi",
+                "Antifibel",
+                ";",
+                "Mission",
+                "Grille",
+                ";",
+                "Mission"
+            ]
         },
         "line.60": {
-            "text": "Magma; Mission Klo; KI und Schnodder;"
+            "text": "Magma; Mission Klo; KI und Schnodder;",
+            "tokens": [
+                "Magma",
+                ";",
+                "Mission",
+                "Klo",
+                ";",
+                "KI",
+                "und",
+                "Schnodder",
+                ";"
+            ]
         },
         "line.61": {
-            "text": "Mission FÃ¼llhorn; Dusel; Wiesel; Mission"
+            "text": "Mission FÃ¼llhorn; Dusel; Wiesel; Mission",
+            "tokens": [
+                "Mission",
+                "FÃ¼llhorn",
+                ";",
+                "Dusel",
+                ";",
+                "Wiesel",
+                ";",
+                "Mission"
+            ]
         },
         "line.62": {
-            "text": "Yggdrasil und Kiesel; Mission WaschbÃ¤r;"
+            "text": "Yggdrasil und Kiesel; Mission WaschbÃ¤r;",
+            "tokens": [
+                "Yggdrasil",
+                "und",
+                "Kiesel",
+                ";",
+                "Mission",
+                "WaschbÃ¤r",
+                ";"
+            ]
         },
         "line.63": {
-            "text": "Mission Frosch; Mission Yak; Ying; Yang;"
+            "text": "Mission Frosch; Mission Yak; Ying; Yang;",
+            "tokens": [
+                "Mission",
+                "Frosch",
+                ";",
+                "Mission",
+                "Yak",
+                ";",
+                "Ying",
+                ";",
+                "Yang",
+                ";"
+            ]
         },
         "line.64": {
-            "text": "Sym; Log; Mission Alp; Luchs und Kamille;"
+            "text": "Sym; Log; Mission Alp; Luchs und Kamille;",
+            "tokens": [
+                "Sym",
+                ";",
+                "Log",
+                ";",
+                "Mission",
+                "Alp",
+                ";",
+                "Luchs",
+                "und",
+                "Kamille",
+                ";"
+            ]
         },
         "line.65": {
-            "text": "Mission Himbeer; BlÃ¼tenstaub; Mission"
+            "text": "Mission Himbeer; BlÃ¼tenstaub; Mission",
+            "tokens": [
+                "Mission",
+                "Himbeer",
+                ";",
+                "BlÃ¼tenstaub",
+                ";",
+                "Mission"
+            ]
         },
         "line.66": {
-            "text": "Gnu; Nuss und Zucchini; Mission Drohne;"
+            "text": "Gnu; Nuss und Zucchini; Mission Drohne;",
+            "tokens": [
+                "Gnu",
+                ";",
+                "Nuss",
+                "und",
+                "Zucchini",
+                ";",
+                "Mission",
+                "Drohne",
+                ";"
+            ]
         },
         "line.67": {
-            "text": "Ã„hre; Lilie; Mission Tulpe; Mission Erbse;"
+            "text": "Ã„hre; Lilie; Mission Tulpe; Mission Erbse;",
+            "tokens": [
+                "Ã",
+                "„",
+                "hre",
+                ";",
+                "Lilie",
+                ";",
+                "Mission",
+                "Tulpe",
+                ";",
+                "Mission",
+                "Erbse",
+                ";"
+            ]
         },
         "line.68": {
-            "text": "Mission Raupe; Mission ZÃ¤hre; Mission"
+            "text": "Mission Raupe; Mission ZÃ¤hre; Mission",
+            "tokens": [
+                "Mission",
+                "Raupe",
+                ";",
+                "Mission",
+                "ZÃ¤hre",
+                ";",
+                "Mission"
+            ]
         },
         "line.69": {
-            "text": "Lerche; MÃ¼cke; Sex; Mission Gecko;"
+            "text": "Lerche; MÃ¼cke; Sex; Mission Gecko;",
+            "tokens": [
+                "Lerche",
+                ";",
+                "MÃ¼cke",
+                ";",
+                "Sex",
+                ";",
+                "Mission",
+                "Gecko",
+                ";"
+            ]
         },
         "line.70": {
-            "text": "Mission KÃ¼mmel; Mission Cilie; Organelle;"
+            "text": "Mission KÃ¼mmel; Mission Cilie; Organelle;",
+            "tokens": [
+                "Mission",
+                "KÃ¼mmel",
+                ";",
+                "Mission",
+                "Cilie",
+                ";",
+                "Organelle",
+                ";"
+            ]
         },
         "line.71": {
-            "text": "Mission Finkelfunkelstein; Mission Laus;"
+            "text": "Mission Finkelfunkelstein; Mission Laus;",
+            "tokens": [
+                "Mission",
+                "Finkelfunkelstein",
+                ";",
+                "Mission",
+                "Laus",
+                ";"
+            ]
         },
         "line.72": {
-            "text": "Tropf und Vanille; Mission Tukan; Mission"
+            "text": "Tropf und Vanille; Mission Tukan; Mission",
+            "tokens": [
+                "Tropf",
+                "und",
+                "Vanille",
+                ";",
+                "Mission",
+                "Tukan",
+                ";",
+                "Mission"
+            ]
         },
         "line.73": {
-            "text": "Schwamm; Mission Kokos; Mission Topas;"
+            "text": "Schwamm; Mission Kokos; Mission Topas;",
+            "tokens": [
+                "Schwamm",
+                ";",
+                "Mission",
+                "Kokos",
+                ";",
+                "Mission",
+                "Topas",
+                ";"
+            ]
         },
         "line.74": {
-            "text": "Mission Vogelbrust; Banane; Petersilie;"
+            "text": "Mission Vogelbrust; Banane; Petersilie;",
+            "tokens": [
+                "Mission",
+                "Vogelbrust",
+                ";",
+                "Banane",
+                ";",
+                "Petersilie",
+                ";"
+            ]
         },
         "line.75": {
-            "text": "Zuchtplatane; Mission Tropicana Nights;"
+            "text": "Zuchtplatane; Mission Tropicana Nights;",
+            "tokens": [
+                "Zuchtplatane",
+                ";",
+                "Mission",
+                "Tropicana",
+                "Nights",
+                ";"
+            ]
         },
         "line.76": {
-            "text": "Mission RÃ¼be; Kupfer; Biene; Mission"
+            "text": "Mission RÃ¼be; Kupfer; Biene; Mission",
+            "tokens": [
+                "Mission",
+                "RÃ¼be",
+                ";",
+                "Kupfer",
+                ";",
+                "Biene",
+                ";",
+                "Mission"
+            ]
         },
         "line.77": {
-            "text": "Viper; Dotterblume; Mission Stickstoff;"
+            "text": "Viper; Dotterblume; Mission Stickstoff;",
+            "tokens": [
+                "Viper",
+                ";",
+                "Dotterblume",
+                ";",
+                "Mission",
+                "Stickstoff",
+                ";"
+            ]
         },
         "line.78": {
-            "text": "Mission Lurch; Mission Mus; Salat; Tarantel;"
+            "text": "Mission Lurch; Mission Mus; Salat; Tarantel;",
+            "tokens": [
+                "Mission",
+                "Lurch",
+                ";",
+                "Mission",
+                "Mus",
+                ";",
+                "Salat",
+                ";",
+                "Tarantel",
+                ";"
+            ]
         },
         "line.79": {
-            "text": "Mission Schwein; Chitin; Jux; Nacktmull;"
+            "text": "Mission Schwein; Chitin; Jux; Nacktmull;",
+            "tokens": [
+                "Mission",
+                "Schwein",
+                ";",
+                "Chitin",
+                ";",
+                "Jux",
+                ";",
+                "Nacktmull",
+                ";"
+            ]
         },
         "line.80": {
-            "text": "Mission Bison; Mission Spatz; Mission"
+            "text": "Mission Bison; Mission Spatz; Mission",
+            "tokens": [
+                "Mission",
+                "Bison",
+                ";",
+                "Mission",
+                "Spatz",
+                ";",
+                "Mission"
+            ]
         },
         "line.81": {
-            "text": "Brom; Courage; Sequoia; Mission Obhut;"
+            "text": "Brom; Courage; Sequoia; Mission Obhut;",
+            "tokens": [
+                "Brom",
+                ";",
+                "Courage",
+                ";",
+                "Sequoia",
+                ";",
+                "Mission",
+                "Obhut",
+                ";"
+            ]
         },
         "line.82": {
-            "text": "Haut; Ekstase; Mission Hagel; Kalk und"
+            "text": "Haut; Ekstase; Mission Hagel; Kalk und",
+            "tokens": [
+                "Haut",
+                ";",
+                "Ekstase",
+                ";",
+                "Mission",
+                "Hagel",
+                ";",
+                "Kalk",
+                "und"
+            ]
         },
         "line.83": {
-            "text": "Tod; Mission Alpdruck; Trommel; Moder;"
+            "text": "Tod; Mission Alpdruck; Trommel; Moder;",
+            "tokens": [
+                "Tod",
+                ";",
+                "Mission",
+                "Alpdruck",
+                ";",
+                "Trommel",
+                ";",
+                "Moder",
+                ";"
+            ]
         },
         "line.84": {
-            "text": "Queer-durch-Hadeswogen-Rudern; Mission"
+            "text": "Queer-durch-Hadeswogen-Rudern; Mission",
+            "tokens": [
+                "Queer-durch-Hadeswogen-Rudern",
+                ";",
+                "Mission"
+            ]
         },
         "line.85": {
-            "text": "Widder und Tomate; Mission Knolle;"
+            "text": "Widder und Tomate; Mission Knolle;",
+            "tokens": [
+                "Widder",
+                "und",
+                "Tomate",
+                ";",
+                "Mission",
+                "Knolle",
+                ";"
+            ]
         },
         "line.86": {
-            "text": "Mission Schnake; Mission Licht und"
+            "text": "Mission Schnake; Mission Licht und",
+            "tokens": [
+                "Mission",
+                "Schnake",
+                ";",
+                "Mission",
+                "Licht",
+                "und"
+            ]
         },
         "line.87": {
-            "text": "Luft fÃ¼r Zicke; Mission Schlitzeschutz"
+            "text": "Luft fÃ¼r Zicke; Mission Schlitzeschutz",
+            "tokens": [
+                "Luft",
+                "fÃ¼r",
+                "Zicke",
+                ";",
+                "Mission",
+                "Schlitzeschutz"
+            ]
         },
         "line.88": {
-            "text": "fÃ¼r Quitte; Mission Gabe~"
+            "text": "fÃ¼r Quitte; Mission Gabe~",
+            "tokens": [
+                "fÃ¼r",
+                "Quitte",
+                ";",
+                "Mission",
+                "Gabe~"
+            ]
         },
         "line.89": {
-            "text": "Mission Salbe; auch als Beihilfe ins"
+            "text": "Mission Salbe; auch als Beihilfe ins",
+            "tokens": [
+                "Mission",
+                "Salbe",
+                ";",
+                "auch",
+                "als",
+                "Beihilfe",
+                "ins"
+            ]
         },
         "line.90": {
-            "text": "Grab; Mission Taube; Mission Ahorn;"
+            "text": "Grab; Mission Taube; Mission Ahorn;",
+            "tokens": [
+                "Grab",
+                ";",
+                "Mission",
+                "Taube",
+                ";",
+                "Mission",
+                "Ahorn",
+                ";"
+            ]
         },
         "line.91": {
-            "text": "Mission Schaf; Mission Orange; Mission"
+            "text": "Mission Schaf; Mission Orange; Mission",
+            "tokens": [
+                "Mission",
+                "Schaf",
+                ";",
+                "Mission",
+                "Orange",
+                ";",
+                "Mission"
+            ]
         },
         "line.92": {
-            "text": "Frischling; Mission Bocksklee; Mission"
+            "text": "Frischling; Mission Bocksklee; Mission",
+            "tokens": [
+                "Frischling",
+                ";",
+                "Mission",
+                "Bocksklee",
+                ";",
+                "Mission"
+            ]
         },
         "line.93": {
-            "text": "Sahne; Mission Grizzly; Mission Rotbarsch;"
+            "text": "Sahne; Mission Grizzly; Mission Rotbarsch;",
+            "tokens": [
+                "Sahne",
+                ";",
+                "Mission",
+                "Grizzly",
+                ";",
+                "Mission",
+                "Rotbarsch",
+                ";"
+            ]
         },
         "line.94": {
-            "text": "Mission Ulme; Mission Ghost-Aal; Mission"
+            "text": "Mission Ulme; Mission Ghost-Aal; Mission",
+            "tokens": [
+                "Mission",
+                "Ulme",
+                ";",
+                "Mission",
+                "Ghost-Aal",
+                ";",
+                "Mission"
+            ]
         },
         "line.95": {
-            "text": "Qualle; Mission Gans; Mission Mikrobe;"
+            "text": "Qualle; Mission Gans; Mission Mikrobe;",
+            "tokens": [
+                "Qualle",
+                ";",
+                "Mission",
+                "Gans",
+                ";",
+                "Mission",
+                "Mikrobe",
+                ";"
+            ]
         },
         "line.96": {
-            "text": "Mission Dachs; Mission Garnele; Mission"
+            "text": "Mission Dachs; Mission Garnele; Mission",
+            "tokens": [
+                "Mission",
+                "Dachs",
+                ";",
+                "Mission",
+                "Garnele",
+                ";",
+                "Mission"
+            ]
         },
         "line.97": {
-            "text": "Sate; Stachelbeere; Mission Efeu; Mission"
+            "text": "Sate; Stachelbeere; Mission Efeu; Mission",
+            "tokens": [
+                "Sate",
+                ";",
+                "Stachelbeere",
+                ";",
+                "Mission",
+                "Efeu",
+                ";",
+                "Mission"
+            ]
         },
         "line.98": {
-            "text": "Manta; Mission Ceres; Koi; Eulâ€™; Flughund;"
+            "text": "Manta; Mission Ceres; Koi; Eulâ€™; Flughund;",
+            "tokens": [
+                "Manta",
+                ";",
+                "Mission",
+                "Ceres",
+                ";",
+                "Koi",
+                ";",
+                "Eulâ€",
+                "™",
+                ";",
+                "Flughund",
+                ";"
+            ]
         },
         "line.99": {
-            "text": "Mission Zinziver und KrÃ¶te; Mission"
+            "text": "Mission Zinziver und KrÃ¶te; Mission",
+            "tokens": [
+                "Mission",
+                "Zinziver",
+                "und",
+                "KrÃ¶te",
+                ";",
+                "Mission"
+            ]
         },
         "line.100": {
-            "text": "Kuckuck; Antilope; Mission Ammonit und"
+            "text": "Kuckuck; Antilope; Mission Ammonit und",
+            "tokens": [
+                "Kuckuck",
+                ";",
+                "Antilope",
+                ";",
+                "Mission",
+                "Ammonit",
+                "und"
+            ]
         },
         "line.101": {
-            "text": "Meise; Mission Amaranth und ScheiÃŸe;"
+            "text": "Meise; Mission Amaranth und ScheiÃŸe;",
+            "tokens": [
+                "Meise",
+                ";",
+                "Mission",
+                "Amaranth",
+                "und",
+                "ScheiÃŸe",
+                ";"
+            ]
         },
         "line.102": {
-            "text": "Mission Menschenkind; Mission Hai;"
+            "text": "Mission Menschenkind; Mission Hai;",
+            "tokens": [
+                "Mission",
+                "Menschenkind",
+                ";",
+                "Mission",
+                "Hai",
+                ";"
+            ]
         },
         "line.103": {
-            "text": "Mission Fink; Rum; Mission Alge; Mission"
+            "text": "Mission Fink; Rum; Mission Alge; Mission",
+            "tokens": [
+                "Mission",
+                "Fink",
+                ";",
+                "Rum",
+                ";",
+                "Mission",
+                "Alge",
+                ";",
+                "Mission"
+            ]
         },
         "line.104": {
-            "text": "Ara; Mission Vulva; Mission Aas; Alpaka;"
+            "text": "Ara; Mission Vulva; Mission Aas; Alpaka;",
+            "tokens": [
+                "Ara",
+                ";",
+                "Mission",
+                "Vulva",
+                ";",
+                "Mission",
+                "Aas",
+                ";",
+                "Alpaka",
+                ";"
+            ]
         },
         "line.105": {
-            "text": "Ameis; Mission Anger; Mission Kleie;"
+            "text": "Ameis; Mission Anger; Mission Kleie;",
+            "tokens": [
+                "Ameis",
+                ";",
+                "Mission",
+                "Anger",
+                ";",
+                "Mission",
+                "Kleie",
+                ";"
+            ]
         },
         "line.106": {
-            "text": "Mission Alb; HyÃ¤ne; Morchel; Mission"
+            "text": "Mission Alb; HyÃ¤ne; Morchel; Mission",
+            "tokens": [
+                "Mission",
+                "Alb",
+                ";",
+                "HyÃ¤ne",
+                ";",
+                "Morchel",
+                ";",
+                "Mission"
+            ]
         },
         "line.107": {
-            "text": "Hirse und Termite; Mission Rotkohl;"
+            "text": "Hirse und Termite; Mission Rotkohl;",
+            "tokens": [
+                "Hirse",
+                "und",
+                "Termite",
+                ";",
+                "Mission",
+                "Rotkohl",
+                ";"
+            ]
         },
         "line.108": {
-            "text": "Margarite; Mission Habicht und Kartoffel;"
+            "text": "Margarite; Mission Habicht und Kartoffel;",
+            "tokens": [
+                "Margarite",
+                ";",
+                "Mission",
+                "Habicht",
+                "und",
+                "Kartoffel",
+                ";"
+            ]
         },
         "line.109": {
-            "text": "Mission Clownfisch; Mission Maulwurf;"
+            "text": "Mission Clownfisch; Mission Maulwurf;",
+            "tokens": [
+                "Mission",
+                "Clownfisch",
+                ";",
+                "Mission",
+                "Maulwurf",
+                ";"
+            ]
         },
         "line.110": {
-            "text": "Mission Otter; Anemone; Mission Rogge;"
+            "text": "Mission Otter; Anemone; Mission Rogge;",
+            "tokens": [
+                "Mission",
+                "Otter",
+                ";",
+                "Anemone",
+                ";",
+                "Mission",
+                "Rogge",
+                ";"
+            ]
         },
         "line.111": {
-            "text": "Pelikan;Â Â Â  MissionÂ Â Â Â Â Â  Kojote~"
+            "text": "Pelikan;Â Â Â  MissionÂ Â Â Â Â Â  Kojote~",
+            "tokens": [
+                "Pelikan;Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                "  ",
+                "MissionÂ",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                "  ",
+                "Kojote~"
+            ]
         },
         "line.112": {
-            "text": "softe Technik;Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  ohne Kohle"
+            "text": "softe Technik;Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  ohne Kohle",
+            "tokens": [
+                "softe",
+                "Technik;Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                "  ",
+                "ohne",
+                "Kohle"
+            ]
         },
         "line.113": {
-            "text": "~"
+            "text": "~",
+            "tokens": [
+                "~"
+            ]
         },
         "line.114": {
-            "text": "matschiâ€™ CyborgÂ  ;"
+            "text": "matschiâ€™ CyborgÂ  ;",
+            "tokens": [
+                "matschiâ€",
+                "™",
+                "CyborgÂ",
+                "  ",
+                ";"
+            ]
         },
         "line.115": {
-            "text": "kesse Bot*in~"
+            "text": "kesse Bot*in~",
+            "tokens": [
+                "kesse",
+                "Bot*in~"
+            ]
         },
         "line.116": {
-            "text": "Saftgrasrinder"
+            "text": "Saftgrasrinder",
+            "tokens": [
+                "Saftgrasrinder"
+            ]
         },
         "line.117": {
-            "text": "Faszienfinder Â  ;Â Â Â  jetzt kurz"
+            "text": "Faszienfinder Â  ;Â Â Â  jetzt kurz",
+            "tokens": [
+                "Faszienfinder",
+                "Â",
+                "  ",
+                ";",
+                "Â",
+                " ",
+                "Â",
+                " ",
+                "Â",
+                "  ",
+                "jetzt",
+                "kurz"
+            ]
         },
         "line.118": {
-            "text": "Schlaf"
+            "text": "Schlaf",
+            "tokens": [
+                "Schlaf"
+            ]
         },
         "line.119": {
-            "text": "_____"
+            "text": "_____",
+            "tokens": [
+                "_",
+                "_",
+                "_",
+                "_",
+                "_"
+            ]
         },
         "line.120": {
-            "text": "*Binse:"
+            "text": "*Binse:",
+            "tokens": [
+                "*",
+                "Binse",
+                ":"
+            ]
         },
         "line.121": {
-            "text": "Â»Und wenn auch die Sonne nicht grÃ¼belt,"
+            "text": "Â»Und wenn auch die Sonne nicht grÃ¼belt,",
+            "tokens": [
+                "Â",
+                "»",
+                "Und",
+                "wenn",
+                "auch",
+                "die",
+                "Sonne",
+                "nicht",
+                "grÃ¼belt",
+                ","
+            ]
         },
         "line.122": {
-            "text": "sie keiner Versuchung standhalten muss,"
+            "text": "sie keiner Versuchung standhalten muss,",
+            "tokens": [
+                "sie",
+                "keiner",
+                "Versuchung",
+                "standhalten",
+                "muss",
+                ","
+            ]
         },
         "line.123": {
-            "text": "dich wahllos neckt, wÃ¤rmt, trÃ¶stet,"
+            "text": "dich wahllos neckt, wÃ¤rmt, trÃ¶stet,",
+            "tokens": [
+                "dich",
+                "wahllos",
+                "neckt",
+                ",",
+                "wÃ¤rmt",
+                ",",
+                "trÃ¶stet",
+                ","
+            ]
         },
         "line.124": {
-            "text": "schmelzt, kickt oder labt"
+            "text": "schmelzt, kickt oder labt",
+            "tokens": [
+                "schmelzt",
+                ",",
+                "kickt",
+                "oder",
+                "labt"
+            ]
         },
         "line.125": {
-            "text": "und das heftig promisk â€“ oder"
+            "text": "und das heftig promisk â€“ oder",
+            "tokens": [
+                "und",
+                "das",
+                "heftig",
+                "promisk",
+                "â€",
+                "“",
+                "oder"
+            ]
         },
         "line.126": {
-            "text": "im Urlaub too much auf deiner Liege"
+            "text": "im Urlaub too much auf deiner Liege",
+            "tokens": [
+                "im",
+                "Urlaub",
+                "too",
+                "much",
+                "auf",
+                "deiner",
+                "Liege"
+            ]
         },
         "line.127": {
-            "text": "und die Preppy-Sonnenbrille"
+            "text": "und die Preppy-Sonnenbrille",
+            "tokens": [
+                "und",
+                "die",
+                "Preppy-Sonnenbrille"
+            ]
         },
         "line.128": {
-            "text": "kein erklecklicher Schutz:"
+            "text": "kein erklecklicher Schutz:",
+            "tokens": [
+                "kein",
+                "erklecklicher",
+                "Schutz",
+                ":"
+            ]
         },
         "line.129": {
-            "text": "Du brauchst das Vitamin D."
+            "text": "Du brauchst das Vitamin D.",
+            "tokens": [
+                "Du",
+                "brauchst",
+                "das",
+                "Vitamin",
+                "D."
+            ]
         },
         "line.130": {
-            "text": "Ja. Du brauchst sie.Â«"
+            "text": "Ja. Du brauchst sie.Â«",
+            "tokens": [
+                "Ja",
+                ".",
+                "Du",
+                "brauchst",
+                "sie",
+                ".",
+                "Â",
+                "«"
+            ]
         }
     }
 }

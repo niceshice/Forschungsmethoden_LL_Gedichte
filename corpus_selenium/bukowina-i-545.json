@@ -4,58 +4,134 @@
     "author": "Rose Ausländer",
     "poem": {
         "line.1": {
-            "text": "Grüne Mutter"
+            "text": "Grüne Mutter",
+            "tokens": [
+                "Grüne",
+                "Mutter"
+            ]
         },
         "line.2": {
-            "text": "Bukowina"
+            "text": "Bukowina",
+            "tokens": [
+                "Bukowina"
+            ]
         },
         "line.3": {
-            "text": "Schmetterlinge im Haar"
+            "text": "Schmetterlinge im Haar",
+            "tokens": [
+                "Schmetterlinge",
+                "im",
+                "Haar"
+            ]
         },
         "line.4": {
-            "text": "Trink"
+            "text": "Trink",
+            "tokens": [
+                "Trink"
+            ]
         },
         "line.5": {
-            "text": "sagt die Sonne"
+            "text": "sagt die Sonne",
+            "tokens": [
+                "sagt",
+                "die",
+                "Sonne"
+            ]
         },
         "line.6": {
-            "text": "rote Melonenmilch"
+            "text": "rote Melonenmilch",
+            "tokens": [
+                "rote",
+                "Melonenmilch"
+            ]
         },
         "line.7": {
-            "text": "weiße Kukuruzmilch"
+            "text": "weiße Kukuruzmilch",
+            "tokens": [
+                "weiße",
+                "Kukuruzmilch"
+            ]
         },
         "line.8": {
-            "text": "ich machte sie süß"
+            "text": "ich machte sie süß",
+            "tokens": [
+                "ich",
+                "machte",
+                "sie",
+                "süß"
+            ]
         },
         "line.9": {
-            "text": "Violette Föhrenzapfen"
+            "text": "Violette Föhrenzapfen",
+            "tokens": [
+                "Violette",
+                "Föhrenzapfen"
+            ]
         },
         "line.10": {
-            "text": "Luftflügel Vögel und Laub"
+            "text": "Luftflügel Vögel und Laub",
+            "tokens": [
+                "Luftflügel",
+                "Vögel",
+                "und",
+                "Laub"
+            ]
         },
         "line.11": {
-            "text": "Der Karpatenrücken"
+            "text": "Der Karpatenrücken",
+            "tokens": [
+                "Der",
+                "Karpatenrücken"
+            ]
         },
         "line.12": {
-            "text": "väterlich"
+            "text": "väterlich",
+            "tokens": [
+                "väterlich"
+            ]
         },
         "line.13": {
-            "text": "lädt dich ein"
+            "text": "lädt dich ein",
+            "tokens": [
+                "lädt",
+                "dich",
+                "ein"
+            ]
         },
         "line.14": {
-            "text": "dich zu tragen"
+            "text": "dich zu tragen",
+            "tokens": [
+                "dich",
+                "zu",
+                "tragen"
+            ]
         },
         "line.15": {
-            "text": "Vier Sprachen"
+            "text": "Vier Sprachen",
+            "tokens": [
+                "Vier",
+                "Sprachen"
+            ]
         },
         "line.16": {
-            "text": "Viersprachenlieder"
+            "text": "Viersprachenlieder",
+            "tokens": [
+                "Viersprachenlieder"
+            ]
         },
         "line.17": {
-            "text": "Menschen"
+            "text": "Menschen",
+            "tokens": [
+                "Menschen"
+            ]
         },
         "line.18": {
-            "text": "die sich verstehn"
+            "text": "die sich verstehn",
+            "tokens": [
+                "die",
+                "sich",
+                "verstehn"
+            ]
         }
     }
 }

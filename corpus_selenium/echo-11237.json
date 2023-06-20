@@ -4,16 +4,54 @@
     "author": "Thomas Rosenlöcher",
     "poem": {
         "line.1": {
-            "text": "Wo ich bin knarren die Föhren."
+            "text": "Wo ich bin knarren die Föhren.",
+            "tokens": [
+                "Wo",
+                "ich",
+                "bin",
+                "knarren",
+                "die",
+                "Föhren",
+                "."
+            ]
         },
         "line.2": {
-            "text": "Wo nicht rauscht in ihnen das Meer."
+            "text": "Wo nicht rauscht in ihnen das Meer.",
+            "tokens": [
+                "Wo",
+                "nicht",
+                "rauscht",
+                "in",
+                "ihnen",
+                "das",
+                "Meer",
+                "."
+            ]
         },
         "line.3": {
-            "text": "Folg ich dem Rauschen kommt Knarren."
+            "text": "Folg ich dem Rauschen kommt Knarren.",
+            "tokens": [
+                "Folg",
+                "ich",
+                "dem",
+                "Rauschen",
+                "kommt",
+                "Knarren",
+                "."
+            ]
         },
         "line.4": {
-            "text": "Dort wo es rauscht kam ich her."
+            "text": "Dort wo es rauscht kam ich her.",
+            "tokens": [
+                "Dort",
+                "wo",
+                "es",
+                "rauscht",
+                "kam",
+                "ich",
+                "her",
+                "."
+            ]
         }
     }
 }

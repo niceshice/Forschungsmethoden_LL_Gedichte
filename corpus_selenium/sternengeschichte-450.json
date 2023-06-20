@@ -4,94 +4,316 @@
     "author": "Jutta Richter",
     "poem": {
         "line.1": {
-            "text": "Die Sterne über einer Stadt"
+            "text": "Die Sterne über einer Stadt",
+            "tokens": [
+                "Die",
+                "Sterne",
+                "über",
+                "einer",
+                "Stadt"
+            ]
         },
         "line.2": {
-            "text": "die hielten großen Sternenrat."
+            "text": "die hielten großen Sternenrat.",
+            "tokens": [
+                "die",
+                "hielten",
+                "großen",
+                "Sternenrat",
+                "."
+            ]
         },
         "line.3": {
-            "text": "Sie waren’s leid."
+            "text": "Sie waren’s leid.",
+            "tokens": [
+                "Sie",
+                "waren�",
+                "�",
+                "s",
+                "leid",
+                "."
+            ]
         },
         "line.4": {
-            "text": "Die Menschen in der hellen Stadt"
+            "text": "Die Menschen in der hellen Stadt",
+            "tokens": [
+                "Die",
+                "Menschen",
+                "in",
+                "der",
+                "hellen",
+                "Stadt"
+            ]
         },
         "line.5": {
-            "text": "die hatten nämlich Sterne satt"
+            "text": "die hatten nämlich Sterne satt",
+            "tokens": [
+                "die",
+                "hatten",
+                "nämlich",
+                "Sterne",
+                "satt"
+            ]
         },
         "line.6": {
-            "text": "und keine Zeit."
+            "text": "und keine Zeit.",
+            "tokens": [
+                "und",
+                "keine",
+                "Zeit",
+                "."
+            ]
         },
         "line.7": {
-            "text": "Und so beschloß der Sternenrat,"
+            "text": "Und so beschloß der Sternenrat,",
+            "tokens": [
+                "Und",
+                "so",
+                "beschloß",
+                "der",
+                "Sternenrat",
+                ","
+            ]
         },
         "line.8": {
-            "text": "daß alle Sterne dieser Stadt"
+            "text": "daß alle Sterne dieser Stadt",
+            "tokens": [
+                "daß",
+                "alle",
+                "Sterne",
+                "dieser",
+                "Stadt"
+            ]
         },
         "line.9": {
-            "text": "in Urlaub gehn."
+            "text": "in Urlaub gehn.",
+            "tokens": [
+                "in",
+                "Urlaub",
+                "gehn",
+                "."
+            ]
         },
         "line.10": {
-            "text": "Und es geschah, wie man gesagt,"
+            "text": "Und es geschah, wie man gesagt,",
+            "tokens": [
+                "Und",
+                "es",
+                "geschah",
+                ",",
+                "wie",
+                "man",
+                "gesagt",
+                ","
+            ]
         },
         "line.11": {
-            "text": "die nächste Nacht wurde vertagt,"
+            "text": "die nächste Nacht wurde vertagt,",
+            "tokens": [
+                "die",
+                "nächste",
+                "Nacht",
+                "wurde",
+                "vertagt",
+                ","
+            ]
         },
         "line.12": {
-            "text": "kein Stern zu sehn."
+            "text": "kein Stern zu sehn.",
+            "tokens": [
+                "kein",
+                "Stern",
+                "zu",
+                "sehn",
+                "."
+            ]
         },
         "line.13": {
-            "text": "Die Menschen wunderten sich sehr."
+            "text": "Die Menschen wunderten sich sehr.",
+            "tokens": [
+                "Die",
+                "Menschen",
+                "wunderten",
+                "sich",
+                "sehr",
+                "."
+            ]
         },
         "line.14": {
-            "text": "Sie liefen unruhig hin und her"
+            "text": "Sie liefen unruhig hin und her",
+            "tokens": [
+                "Sie",
+                "liefen",
+                "unruhig",
+                "hin",
+                "und",
+                "her"
+            ]
         },
         "line.15": {
-            "text": "auf Sternenwacht."
+            "text": "auf Sternenwacht.",
+            "tokens": [
+                "auf",
+                "Sternenwacht",
+                "."
+            ]
         },
         "line.16": {
-            "text": "Die ganz Gescheiten meinten gar,"
+            "text": "Die ganz Gescheiten meinten gar,",
+            "tokens": [
+                "Die",
+                "ganz",
+                "Gescheiten",
+                "meinten",
+                "gar",
+                ","
+            ]
         },
         "line.17": {
-            "text": "der jüngste Tag sei ziemlich nah."
+            "text": "der jüngste Tag sei ziemlich nah.",
+            "tokens": [
+                "der",
+                "jüngste",
+                "Tag",
+                "sei",
+                "ziemlich",
+                "nah",
+                "."
+            ]
         },
         "line.18": {
-            "text": "Er käm’ bei Nacht."
+            "text": "Er käm’ bei Nacht.",
+            "tokens": [
+                "Er",
+                "käm�",
+                "�",
+                "bei",
+                "Nacht",
+                "."
+            ]
         },
         "line.19": {
-            "text": "Es war am zweiten Donnerstag,"
+            "text": "Es war am zweiten Donnerstag,",
+            "tokens": [
+                "Es",
+                "war",
+                "am",
+                "zweiten",
+                "Donnerstag",
+                ","
+            ]
         },
         "line.20": {
-            "text": "als sich ein kleiner Stern erschrak,"
+            "text": "als sich ein kleiner Stern erschrak,",
+            "tokens": [
+                "als",
+                "sich",
+                "ein",
+                "kleiner",
+                "Stern",
+                "erschrak",
+                ","
+            ]
         },
         "line.21": {
-            "text": "den Halt verlor."
+            "text": "den Halt verlor.",
+            "tokens": [
+                "den",
+                "Halt",
+                "verlor",
+                "."
+            ]
         },
         "line.22": {
-            "text": "Er fiel an jener Stadt vorbei,"
+            "text": "Er fiel an jener Stadt vorbei,",
+            "tokens": [
+                "Er",
+                "fiel",
+                "an",
+                "jener",
+                "Stadt",
+                "vorbei",
+                ","
+            ]
         },
         "line.23": {
-            "text": "man hörte einen lauten Schrei"
+            "text": "man hörte einen lauten Schrei",
+            "tokens": [
+                "man",
+                "hörte",
+                "einen",
+                "lauten",
+                "Schrei"
+            ]
         },
         "line.24": {
-            "text": "am Rathaustor."
+            "text": "am Rathaustor.",
+            "tokens": [
+                "am",
+                "Rathaustor",
+                "."
+            ]
         },
         "line.25": {
-            "text": "Ein Kind hatte den Stern entdeckt"
+            "text": "Ein Kind hatte den Stern entdeckt",
+            "tokens": [
+                "Ein",
+                "Kind",
+                "hatte",
+                "den",
+                "Stern",
+                "entdeckt"
+            ]
         },
         "line.26": {
-            "text": "und seine Eltern schnell geweckt."
+            "text": "und seine Eltern schnell geweckt.",
+            "tokens": [
+                "und",
+                "seine",
+                "Eltern",
+                "schnell",
+                "geweckt",
+                "."
+            ]
         },
         "line.27": {
-            "text": "O welches Glück."
+            "text": "O welches Glück.",
+            "tokens": [
+                "O",
+                "welches",
+                "Glück",
+                "."
+            ]
         },
         "line.28": {
-            "text": "Die Leute haben sich umarmt."
+            "text": "Die Leute haben sich umarmt.",
+            "tokens": [
+                "Die",
+                "Leute",
+                "haben",
+                "sich",
+                "umarmt",
+                "."
+            ]
         },
         "line.29": {
-            "text": "Die Sterne haben sich erbarmt,"
+            "text": "Die Sterne haben sich erbarmt,",
+            "tokens": [
+                "Die",
+                "Sterne",
+                "haben",
+                "sich",
+                "erbarmt",
+                ","
+            ]
         },
         "line.30": {
-            "text": "kamen zurück."
+            "text": "kamen zurück.",
+            "tokens": [
+                "kamen",
+                "zurück",
+                "."
+            ]
         }
     }
 }

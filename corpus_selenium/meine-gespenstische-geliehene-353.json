@@ -4,34 +4,95 @@
     "author": "Kurt  Aebli",
     "poem": {
         "line.1": {
-            "text": "M"
+            "text": "M",
+            "tokens": [
+                "M"
+            ]
         },
         "line.2": {
-            "text": "eine gespenstische geliehene"
+            "text": "eine gespenstische geliehene",
+            "tokens": [
+                "eine",
+                "gespenstische",
+                "geliehene"
+            ]
         },
         "line.3": {
-            "text": "Zunge Kontraktion des Augenblicks"
+            "text": "Zunge Kontraktion des Augenblicks",
+            "tokens": [
+                "Zunge",
+                "Kontraktion",
+                "des",
+                "Augenblicks"
+            ]
         },
         "line.4": {
-            "text": "Illusion bleibt die bittere Ernte traumlos"
+            "text": "Illusion bleibt die bittere Ernte traumlos",
+            "tokens": [
+                "Illusion",
+                "bleibt",
+                "die",
+                "bittere",
+                "Ernte",
+                "traumlos"
+            ]
         },
         "line.5": {
-            "text": "fertiggemalt er beschrieb mit den"
+            "text": "fertiggemalt er beschrieb mit den",
+            "tokens": [
+                "fertiggemalt",
+                "er",
+                "beschrieb",
+                "mit",
+                "den"
+            ]
         },
         "line.6": {
-            "text": "Händen eine Art Geflüster jetzt"
+            "text": "Händen eine Art Geflüster jetzt",
+            "tokens": [
+                "Händen",
+                "eine",
+                "Art",
+                "Geflüster",
+                "jetzt"
+            ]
         },
         "line.7": {
-            "text": "gibt es keine Leere mehr und alles"
+            "text": "gibt es keine Leere mehr und alles",
+            "tokens": [
+                "gibt",
+                "es",
+                "keine",
+                "Leere",
+                "mehr",
+                "und",
+                "alles"
+            ]
         },
         "line.8": {
-            "text": "was uns trennt hat jemand"
+            "text": "was uns trennt hat jemand",
+            "tokens": [
+                "was",
+                "uns",
+                "trennt",
+                "hat",
+                "jemand"
+            ]
         },
         "line.9": {
-            "text": "respektlos in eine Zeitung"
+            "text": "respektlos in eine Zeitung",
+            "tokens": [
+                "respektlos",
+                "in",
+                "eine",
+                "Zeitung"
+            ]
         },
         "line.10": {
-            "text": "gewickelt"
+            "text": "gewickelt",
+            "tokens": [
+                "gewickelt"
+            ]
         }
     }
 }

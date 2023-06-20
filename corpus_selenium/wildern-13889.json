@@ -4,58 +4,155 @@
     "author": "Kerstin Becker",
     "poem": {
         "line.1": {
-            "text": "wir taumeln"
+            "text": "wir taumeln",
+            "tokens": [
+                "wir",
+                "taumeln"
+            ]
         },
         "line.2": {
-            "text": "in Libellenwolken"
+            "text": "in Libellenwolken",
+            "tokens": [
+                "in",
+                "Libellenwolken"
+            ]
         },
         "line.3": {
-            "text": "mit unstabilem Körperkern"
+            "text": "mit unstabilem Körperkern",
+            "tokens": [
+                "mit",
+                "unstabilem",
+                "Körperkern"
+            ]
         },
         "line.4": {
-            "text": "durchs nabelhohe Gras"
+            "text": "durchs nabelhohe Gras",
+            "tokens": [
+                "durchs",
+                "nabelhohe",
+                "Gras"
+            ]
         },
         "line.5": {
-            "text": "Holzböcke harren"
+            "text": "Holzböcke harren",
+            "tokens": [
+                "Holzböcke",
+                "harren"
+            ]
         },
         "line.6": {
-            "text": "wie Engel eines warmen Tiers"
+            "text": "wie Engel eines warmen Tiers",
+            "tokens": [
+                "wie",
+                "Engel",
+                "eines",
+                "warmen",
+                "Tiers"
+            ]
         },
         "line.7": {
-            "text": "wir ziehn"
+            "text": "wir ziehn",
+            "tokens": [
+                "wir",
+                "ziehn"
+            ]
         },
         "line.8": {
-            "text": "auf hornhautlosen Sohlen"
+            "text": "auf hornhautlosen Sohlen",
+            "tokens": [
+                "auf",
+                "hornhautlosen",
+                "Sohlen"
+            ]
         },
         "line.9": {
-            "text": "die derbe Erde drückt"
+            "text": "die derbe Erde drückt",
+            "tokens": [
+                "die",
+                "derbe",
+                "Erde",
+                "drückt"
+            ]
         },
         "line.10": {
-            "text": "das glasge Wasser sticht"
+            "text": "das glasge Wasser sticht",
+            "tokens": [
+                "das",
+                "glasge",
+                "Wasser",
+                "sticht"
+            ]
         },
         "line.11": {
-            "text": "in einem Bächlein helle"
+            "text": "in einem Bächlein helle",
+            "tokens": [
+                "in",
+                "einem",
+                "Bächlein",
+                "helle"
+            ]
         },
         "line.12": {
-            "text": "am andern Ufer saften"
+            "text": "am andern Ufer saften",
+            "tokens": [
+                "am",
+                "andern",
+                "Ufer",
+                "saften"
+            ]
         },
         "line.13": {
-            "text": "Beeren deren Samen Laut"
+            "text": "Beeren deren Samen Laut",
+            "tokens": [
+                "Beeren",
+                "deren",
+                "Samen",
+                "Laut"
+            ]
         },
         "line.14": {
-            "text": "geben wenn wir kaun"
+            "text": "geben wenn wir kaun",
+            "tokens": [
+                "geben",
+                "wenn",
+                "wir",
+                "kaun"
+            ]
         },
         "line.15": {
-            "text": "im Tümpel bei den alten"
+            "text": "im Tümpel bei den alten",
+            "tokens": [
+                "im",
+                "Tümpel",
+                "bei",
+                "den",
+                "alten"
+            ]
         },
         "line.16": {
-            "text": "Kalkbrüchen treiben wir"
+            "text": "Kalkbrüchen treiben wir",
+            "tokens": [
+                "Kalkbrüchen",
+                "treiben",
+                "wir"
+            ]
         },
         "line.17": {
-            "text": "Köpfchen in das Wasser"
+            "text": "Köpfchen in das Wasser",
+            "tokens": [
+                "Köpfchen",
+                "in",
+                "das",
+                "Wasser"
+            ]
         },
         "line.18": {
-            "text": "in teufelsscharfem Kraut"
+            "text": "in teufelsscharfem Kraut",
+            "tokens": [
+                "in",
+                "teufelsscharfem",
+                "Kraut"
+            ]
         }
     }
 }

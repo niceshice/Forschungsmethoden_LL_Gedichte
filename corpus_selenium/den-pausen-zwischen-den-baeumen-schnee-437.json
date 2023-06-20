@@ -4,31 +4,114 @@
     "author": "Ilma Rakusa",
     "poem": {
         "line.1": {
-            "text": "In den Pausen zwischen den Bäumen: Schnee"
+            "text": "In den Pausen zwischen den Bäumen: Schnee",
+            "tokens": [
+                "In",
+                "den",
+                "Pausen",
+                "zwischen",
+                "den",
+                "Bäumen",
+                ":",
+                "Schnee"
+            ]
         },
         "line.2": {
-            "text": "in den Räumen zwischen den Worten: Schnee"
+            "text": "in den Räumen zwischen den Worten: Schnee",
+            "tokens": [
+                "in",
+                "den",
+                "Räumen",
+                "zwischen",
+                "den",
+                "Worten",
+                ":",
+                "Schnee"
+            ]
         },
         "line.3": {
-            "text": "in den Mulden zwischen den Häusern: Schnee"
+            "text": "in den Mulden zwischen den Häusern: Schnee",
+            "tokens": [
+                "in",
+                "den",
+                "Mulden",
+                "zwischen",
+                "den",
+                "Häusern",
+                ":",
+                "Schnee"
+            ]
         },
         "line.4": {
-            "text": "in den Gärten zwischen den Zäunen: Schnee"
+            "text": "in den Gärten zwischen den Zäunen: Schnee",
+            "tokens": [
+                "in",
+                "den",
+                "Gärten",
+                "zwischen",
+                "den",
+                "Zäunen",
+                ":",
+                "Schnee"
+            ]
         },
         "line.5": {
-            "text": "und kalt"
+            "text": "und kalt",
+            "tokens": [
+                "und",
+                "kalt"
+            ]
         },
         "line.6": {
-            "text": "in den Teichen zwischen den Kneipen: Schnee"
+            "text": "in den Teichen zwischen den Kneipen: Schnee",
+            "tokens": [
+                "in",
+                "den",
+                "Teichen",
+                "zwischen",
+                "den",
+                "Kneipen",
+                ":",
+                "Schnee"
+            ]
         },
         "line.7": {
-            "text": "in den Löchern zwischen den Eichen: Schnee"
+            "text": "in den Löchern zwischen den Eichen: Schnee",
+            "tokens": [
+                "in",
+                "den",
+                "Löchern",
+                "zwischen",
+                "den",
+                "Eichen",
+                ":",
+                "Schnee"
+            ]
         },
         "line.8": {
-            "text": "in den Träumen zwischen den Feldern: Schnee"
+            "text": "in den Träumen zwischen den Feldern: Schnee",
+            "tokens": [
+                "in",
+                "den",
+                "Träumen",
+                "zwischen",
+                "den",
+                "Feldern",
+                ":",
+                "Schnee"
+            ]
         },
         "line.9": {
-            "text": "in den Tellern und Falten: Schnee"
+            "text": "in den Tellern und Falten: Schnee",
+            "tokens": [
+                "in",
+                "den",
+                "Tellern",
+                "und",
+                "Falten",
+                ":",
+                "Schnee"
+            ]
         }
     }
 }

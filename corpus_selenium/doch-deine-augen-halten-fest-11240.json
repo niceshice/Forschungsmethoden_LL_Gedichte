@@ -4,88 +4,306 @@
     "author": "Thomas Rosenlöcher",
     "poem": {
         "line.1": {
-            "text": "Du gehst längs eines Felds, umflirrt"
+            "text": "Du gehst längs eines Felds, umflirrt",
+            "tokens": [
+                "Du",
+                "gehst",
+                "längs",
+                "eines",
+                "Felds",
+                ",",
+                "umflirrt"
+            ]
         },
         "line.2": {
-            "text": "von mohndurchschossnem Gelb,"
+            "text": "von mohndurchschossnem Gelb,",
+            "tokens": [
+                "von",
+                "mohndurchschossnem",
+                "Gelb",
+                ","
+            ]
         },
         "line.3": {
-            "text": "da eine Lerche hoch auf schwirrt,"
+            "text": "da eine Lerche hoch auf schwirrt,",
+            "tokens": [
+                "da",
+                "eine",
+                "Lerche",
+                "hoch",
+                "auf",
+                "schwirrt",
+                ","
+            ]
         },
         "line.4": {
-            "text": "als gälte es die Welt,"
+            "text": "als gälte es die Welt,",
+            "tokens": [
+                "als",
+                "gälte",
+                "es",
+                "die",
+                "Welt",
+                ","
+            ]
         },
         "line.5": {
-            "text": "die scharfgeschnittnen Hügel an."
+            "text": "die scharfgeschnittnen Hügel an.",
+            "tokens": [
+                "die",
+                "scharfgeschnittnen",
+                "Hügel",
+                "an",
+                "."
+            ]
         },
         "line.6": {
-            "text": "Und wirklich kommt zur Linken"
+            "text": "Und wirklich kommt zur Linken",
+            "tokens": [
+                "Und",
+                "wirklich",
+                "kommt",
+                "zur",
+                "Linken"
+            ]
         },
         "line.7": {
-            "text": "das Meer bis an das Dorf heran"
+            "text": "das Meer bis an das Dorf heran",
+            "tokens": [
+                "das",
+                "Meer",
+                "bis",
+                "an",
+                "das",
+                "Dorf",
+                "heran"
+            ]
         },
         "line.8": {
-            "text": "als krauses Kräuselblinken,"
+            "text": "als krauses Kräuselblinken,",
+            "tokens": [
+                "als",
+                "krauses",
+                "Kräuselblinken",
+                ","
+            ]
         },
         "line.9": {
-            "text": "da sich über den Hügelrand"
+            "text": "da sich über den Hügelrand",
+            "tokens": [
+                "da",
+                "sich",
+                "über",
+                "den",
+                "Hügelrand"
+            ]
         },
         "line.10": {
-            "text": "ein Riesengletscher schiebt,"
+            "text": "ein Riesengletscher schiebt,",
+            "tokens": [
+                "ein",
+                "Riesengletscher",
+                "schiebt",
+                ","
+            ]
         },
         "line.11": {
-            "text": "und du dastehst und unverwandt"
+            "text": "und du dastehst und unverwandt",
+            "tokens": [
+                "und",
+                "du",
+                "dastehst",
+                "und",
+                "unverwandt"
+            ]
         },
         "line.12": {
-            "text": "schaust: Daß es Wolken gibt."
+            "text": "schaust: Daß es Wolken gibt.",
+            "tokens": [
+                "schaust",
+                ":",
+                "Daß",
+                "es",
+                "Wolken",
+                "gibt",
+                "."
+            ]
         },
         "line.13": {
-            "text": "Hals über Kopf losläufst und schreist,"
+            "text": "Hals über Kopf losläufst und schreist,",
+            "tokens": [
+                "Hals",
+                "über",
+                "Kopf",
+                "losläufst",
+                "und",
+                "schreist",
+                ","
+            ]
         },
         "line.14": {
-            "text": "nicht weißt, wohin dich wenden."
+            "text": "nicht weißt, wohin dich wenden.",
+            "tokens": [
+                "nicht",
+                "weißt",
+                ",",
+                "wohin",
+                "dich",
+                "wenden",
+                "."
+            ]
         },
         "line.15": {
-            "text": "Das Meer, das links ein Zipfel war,"
+            "text": "Das Meer, das links ein Zipfel war,",
+            "tokens": [
+                "Das",
+                "Meer",
+                ",",
+                "das",
+                "links",
+                "ein",
+                "Zipfel",
+                "war",
+                ","
+            ]
         },
         "line.16": {
-            "text": "liegt nun an allen Enden."
+            "text": "liegt nun an allen Enden.",
+            "tokens": [
+                "liegt",
+                "nun",
+                "an",
+                "allen",
+                "Enden",
+                "."
+            ]
         },
         "line.17": {
-            "text": "Und dehnt sich aus rings um dich her"
+            "text": "Und dehnt sich aus rings um dich her",
+            "tokens": [
+                "Und",
+                "dehnt",
+                "sich",
+                "aus",
+                "rings",
+                "um",
+                "dich",
+                "her"
+            ]
         },
         "line.18": {
-            "text": "unnahbar nah im Bogen,"
+            "text": "unnahbar nah im Bogen,",
+            "tokens": [
+                "unnahbar",
+                "nah",
+                "im",
+                "Bogen",
+                ","
+            ]
         },
         "line.19": {
-            "text": "und hinter ihm ist noch ein Meer"
+            "text": "und hinter ihm ist noch ein Meer",
+            "tokens": [
+                "und",
+                "hinter",
+                "ihm",
+                "ist",
+                "noch",
+                "ein",
+                "Meer"
+            ]
         },
         "line.20": {
-            "text": "ergrauend aufgezogen."
+            "text": "ergrauend aufgezogen.",
+            "tokens": [
+                "ergrauend",
+                "aufgezogen",
+                "."
+            ]
         },
         "line.21": {
-            "text": "Da gehen Schiffe auf den Strich."
+            "text": "Da gehen Schiffe auf den Strich.",
+            "tokens": [
+                "Da",
+                "gehen",
+                "Schiffe",
+                "auf",
+                "den",
+                "Strich",
+                "."
+            ]
         },
         "line.22": {
-            "text": "Rotorenüberwunken."
+            "text": "Rotorenüberwunken.",
+            "tokens": [
+                "Rotorenüberwunken",
+                "."
+            ]
         },
         "line.23": {
-            "text": "Da ist im weißen Himmelsriß"
+            "text": "Da ist im weißen Himmelsriß",
+            "tokens": [
+                "Da",
+                "ist",
+                "im",
+                "weißen",
+                "Himmelsriß"
+            ]
         },
         "line.24": {
-            "text": "das dritte Meer versunken."
+            "text": "das dritte Meer versunken.",
+            "tokens": [
+                "das",
+                "dritte",
+                "Meer",
+                "versunken",
+                "."
+            ]
         },
         "line.25": {
-            "text": "Doch deine Augen halten fest,"
+            "text": "Doch deine Augen halten fest,",
+            "tokens": [
+                "Doch",
+                "deine",
+                "Augen",
+                "halten",
+                "fest",
+                ","
+            ]
         },
         "line.26": {
-            "text": "so schmal der Rest auch glänzt."
+            "text": "so schmal der Rest auch glänzt.",
+            "tokens": [
+                "so",
+                "schmal",
+                "der",
+                "Rest",
+                "auch",
+                "glänzt",
+                "."
+            ]
         },
         "line.27": {
-            "text": "Ob sich auf Wasser gehen läßt?"
+            "text": "Ob sich auf Wasser gehen läßt?",
+            "tokens": [
+                "Ob",
+                "sich",
+                "auf",
+                "Wasser",
+                "gehen",
+                "läßt",
+                "?"
+            ]
         },
         "line.28": {
-            "text": "Erwartet wirst du längst."
+            "text": "Erwartet wirst du längst.",
+            "tokens": [
+                "Erwartet",
+                "wirst",
+                "du",
+                "längst",
+                "."
+            ]
         }
     }
 }

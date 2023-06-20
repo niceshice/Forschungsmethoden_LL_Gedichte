@@ -4,52 +4,128 @@
     "author": "Franz Hohler",
     "poem": {
         "line.1": {
-            "text": "Oha"
+            "text": "Oha",
+            "tokens": [
+                "Oha"
+            ]
         },
         "line.2": {
-            "text": "dachte ich"
+            "text": "dachte ich",
+            "tokens": [
+                "dachte",
+                "ich"
+            ]
         },
         "line.3": {
-            "text": "als ich heimkam"
+            "text": "als ich heimkam",
+            "tokens": [
+                "als",
+                "ich",
+                "heimkam"
+            ]
         },
         "line.4": {
-            "text": "nachts"
+            "text": "nachts",
+            "tokens": [
+                "nachts"
+            ]
         },
         "line.5": {
-            "text": "und am Boden"
+            "text": "und am Boden",
+            "tokens": [
+                "und",
+                "am",
+                "Boden"
+            ]
         },
         "line.6": {
-            "text": "den hellen Flecken sah"
+            "text": "den hellen Flecken sah",
+            "tokens": [
+                "den",
+                "hellen",
+                "Flecken",
+                "sah"
+            ]
         },
         "line.7": {
-            "text": "da liegt"
+            "text": "da liegt",
+            "tokens": [
+                "da",
+                "liegt"
+            ]
         },
         "line.8": {
-            "text": "eine Nachricht für mich"
+            "text": "eine Nachricht für mich",
+            "tokens": [
+                "eine",
+                "Nachricht",
+                "für",
+                "mich"
+            ]
         },
         "line.9": {
-            "text": "auf der Treppe."
+            "text": "auf der Treppe.",
+            "tokens": [
+                "auf",
+                "der",
+                "Treppe",
+                "."
+            ]
         },
         "line.10": {
-            "text": "Doch sieh da"
+            "text": "Doch sieh da",
+            "tokens": [
+                "Doch",
+                "sieh",
+                "da"
+            ]
         },
         "line.11": {
-            "text": "es war nur"
+            "text": "es war nur",
+            "tokens": [
+                "es",
+                "war",
+                "nur"
+            ]
         },
         "line.12": {
-            "text": "das Mondlicht."
+            "text": "das Mondlicht.",
+            "tokens": [
+                "das",
+                "Mondlicht",
+                "."
+            ]
         },
         "line.13": {
-            "text": "Und"
+            "text": "Und",
+            "tokens": [
+                "Und"
+            ]
         },
         "line.14": {
-            "text": "fiel mir später ein"
+            "text": "fiel mir später ein",
+            "tokens": [
+                "fiel",
+                "mir",
+                "später",
+                "ein"
+            ]
         },
         "line.15": {
-            "text": "ist das etwa"
+            "text": "ist das etwa",
+            "tokens": [
+                "ist",
+                "das",
+                "etwa"
+            ]
         },
         "line.16": {
-            "text": "keine Nachricht?"
+            "text": "keine Nachricht?",
+            "tokens": [
+                "keine",
+                "Nachricht",
+                "?"
+            ]
         }
     }
 }

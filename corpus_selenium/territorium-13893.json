@@ -4,52 +4,146 @@
     "author": "Kerstin Becker",
     "poem": {
         "line.1": {
-            "text": "die Panzerstraße zwischen den Wäldern"
+            "text": "die Panzerstraße zwischen den Wäldern",
+            "tokens": [
+                "die",
+                "Panzerstraße",
+                "zwischen",
+                "den",
+                "Wäldern"
+            ]
         },
         "line.2": {
-            "text": "in denen wir Sommer für Sommer"
+            "text": "in denen wir Sommer für Sommer",
+            "tokens": [
+                "in",
+                "denen",
+                "wir",
+                "Sommer",
+                "für",
+                "Sommer"
+            ]
         },
         "line.3": {
-            "text": "mit Sprossenschmerzen"
+            "text": "mit Sprossenschmerzen",
+            "tokens": [
+                "mit",
+                "Sprossenschmerzen"
+            ]
         },
         "line.4": {
-            "text": "mit dicken Grinden"
+            "text": "mit dicken Grinden",
+            "tokens": [
+                "mit",
+                "dicken",
+                "Grinden"
+            ]
         },
         "line.5": {
-            "text": "mit schwarzen Fußsohlen"
+            "text": "mit schwarzen Fußsohlen",
+            "tokens": [
+                "mit",
+                "schwarzen",
+                "Fußsohlen"
+            ]
         },
         "line.6": {
-            "text": "aufgehen ist für die Ewigkeit"
+            "text": "aufgehen ist für die Ewigkeit",
+            "tokens": [
+                "aufgehen",
+                "ist",
+                "für",
+                "die",
+                "Ewigkeit"
+            ]
         },
         "line.7": {
-            "text": "Staubschleier grauen wir pesen"
+            "text": "Staubschleier grauen wir pesen",
+            "tokens": [
+                "Staubschleier",
+                "grauen",
+                "wir",
+                "pesen"
+            ]
         },
         "line.8": {
-            "text": "davon eingehüllt mit dem Ostwind aus"
+            "text": "davon eingehüllt mit dem Ostwind aus",
+            "tokens": [
+                "davon",
+                "eingehüllt",
+                "mit",
+                "dem",
+                "Ostwind",
+                "aus"
+            ]
         },
         "line.9": {
-            "text": "gediente Dachpappefetzen fliegen"
+            "text": "gediente Dachpappefetzen fliegen",
+            "tokens": [
+                "gediente",
+                "Dachpappefetzen",
+                "fliegen"
+            ]
         },
         "line.10": {
-            "text": "im süßlichen Simsongestank"
+            "text": "im süßlichen Simsongestank",
+            "tokens": [
+                "im",
+                "süßlichen",
+                "Simsongestank"
+            ]
         },
         "line.11": {
-            "text": "Rohre für lange Leitungen liegen"
+            "text": "Rohre für lange Leitungen liegen",
+            "tokens": [
+                "Rohre",
+                "für",
+                "lange",
+                "Leitungen",
+                "liegen"
+            ]
         },
         "line.12": {
-            "text": "brach wo die weißen Birken"
+            "text": "brach wo die weißen Birken",
+            "tokens": [
+                "brach",
+                "wo",
+                "die",
+                "weißen",
+                "Birken"
+            ]
         },
         "line.13": {
-            "text": "an Wegerichpisten schießen wir"
+            "text": "an Wegerichpisten schießen wir",
+            "tokens": [
+                "an",
+                "Wegerichpisten",
+                "schießen",
+                "wir"
+            ]
         },
         "line.14": {
-            "text": "fummeln wir suchen"
+            "text": "fummeln wir suchen",
+            "tokens": [
+                "fummeln",
+                "wir",
+                "suchen"
+            ]
         },
         "line.15": {
-            "text": "immer heftiger knutschend"
+            "text": "immer heftiger knutschend",
+            "tokens": [
+                "immer",
+                "heftiger",
+                "knutschend"
+            ]
         },
         "line.16": {
-            "text": "unsern Zusammenhang"
+            "text": "unsern Zusammenhang",
+            "tokens": [
+                "unsern",
+                "Zusammenhang"
+            ]
         }
     }
 }

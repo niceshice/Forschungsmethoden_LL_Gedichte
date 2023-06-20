@@ -4,52 +4,219 @@
     "author": "Marie T.  Martin",
     "poem": {
         "line.1": {
-            "text": "Die rasselnde Kette eines Raupenschleppers"
+            "text": "Die rasselnde Kette eines Raupenschleppers",
+            "tokens": [
+                "Die",
+                "rasselnde",
+                "Kette",
+                "eines",
+                "Raupenschleppers"
+            ]
         },
         "line.2": {
-            "text": "kommt vom Geräusch, das die Berge machen,"
+            "text": "kommt vom Geräusch, das die Berge machen,",
+            "tokens": [
+                "kommt",
+                "vom",
+                "Geräusch",
+                ",",
+                "das",
+                "die",
+                "Berge",
+                "machen",
+                ","
+            ]
         },
         "line.3": {
-            "text": "wenn sie sich verschieben, das Klappern der"
+            "text": "wenn sie sich verschieben, das Klappern der",
+            "tokens": [
+                "wenn",
+                "sie",
+                "sich",
+                "verschieben",
+                ",",
+                "das",
+                "Klappern",
+                "der"
+            ]
         },
         "line.4": {
-            "text": "Klarinette, der Schlange, die Tastatur deines"
+            "text": "Klarinette, der Schlange, die Tastatur deines",
+            "tokens": [
+                "Klarinette",
+                ",",
+                "der",
+                "Schlange",
+                ",",
+                "die",
+                "Tastatur",
+                "deines"
+            ]
         },
         "line.5": {
-            "text": "Laptops. Das Rauschen des Rotbachs hat dein"
+            "text": "Laptops. Das Rauschen des Rotbachs hat dein",
+            "tokens": [
+                "Laptops",
+                ".",
+                "Das",
+                "Rauschen",
+                "des",
+                "Rotbachs",
+                "hat",
+                "dein"
+            ]
         },
         "line.6": {
-            "text": "Blut besungen, dass es zäh werde, die Rinde"
+            "text": "Blut besungen, dass es zäh werde, die Rinde",
+            "tokens": [
+                "Blut",
+                "besungen",
+                ",",
+                "dass",
+                "es",
+                "zäh",
+                "werde",
+                ",",
+                "die",
+                "Rinde"
+            ]
         },
         "line.7": {
-            "text": "einer Birke weiß etwas über die Beschaffenheit"
+            "text": "einer Birke weiß etwas über die Beschaffenheit",
+            "tokens": [
+                "einer",
+                "Birke",
+                "weiß",
+                "etwas",
+                "über",
+                "die",
+                "Beschaffenheit"
+            ]
         },
         "line.8": {
-            "text": "der Geister in deinem Kühlschrank. Wie kalt sind die"
+            "text": "der Geister in deinem Kühlschrank. Wie kalt sind die",
+            "tokens": [
+                "der",
+                "Geister",
+                "in",
+                "deinem",
+                "Kühlschrank",
+                ".",
+                "Wie",
+                "kalt",
+                "sind",
+                "die"
+            ]
         },
         "line.9": {
-            "text": "Zungen in Antarktika, wohin ich immer mit dir"
+            "text": "Zungen in Antarktika, wohin ich immer mit dir",
+            "tokens": [
+                "Zungen",
+                "in",
+                "Antarktika",
+                ",",
+                "wohin",
+                "ich",
+                "immer",
+                "mit",
+                "dir"
+            ]
         },
         "line.10": {
-            "text": "reisen wollte, um das letzte Eis zu sehen, die"
+            "text": "reisen wollte, um das letzte Eis zu sehen, die",
+            "tokens": [
+                "reisen",
+                "wollte",
+                ",",
+                "um",
+                "das",
+                "letzte",
+                "Eis",
+                "zu",
+                "sehen",
+                ",",
+                "die"
+            ]
         },
         "line.11": {
-            "text": "Reste von Göttern in Robbenfell, Silberzimmer,"
+            "text": "Reste von Göttern in Robbenfell, Silberzimmer,",
+            "tokens": [
+                "Reste",
+                "von",
+                "Göttern",
+                "in",
+                "Robbenfell",
+                ",",
+                "Silberzimmer",
+                ","
+            ]
         },
         "line.12": {
-            "text": "die kein Navigationsgerät findet. Die Silben ver-"
+            "text": "die kein Navigationsgerät findet. Die Silben ver-",
+            "tokens": [
+                "die",
+                "kein",
+                "Navigationsgerät",
+                "findet",
+                ".",
+                "Die",
+                "Silben",
+                "ver-"
+            ]
         },
         "line.13": {
-            "text": "schlucken uns wie winzige blinde Krebse, die"
+            "text": "schlucken uns wie winzige blinde Krebse, die",
+            "tokens": [
+                "schlucken",
+                "uns",
+                "wie",
+                "winzige",
+                "blinde",
+                "Krebse",
+                ",",
+                "die"
+            ]
         },
         "line.14": {
-            "text": "ewig am Grund einer Grotte leben. Bis der erste"
+            "text": "ewig am Grund einer Grotte leben. Bis der erste",
+            "tokens": [
+                "ewig",
+                "am",
+                "Grund",
+                "einer",
+                "Grotte",
+                "leben",
+                ".",
+                "Bis",
+                "der",
+                "erste"
+            ]
         },
         "line.15": {
-            "text": "Lichtstrahl trifft und wir uns sehen können:"
+            "text": "Lichtstrahl trifft und wir uns sehen können:",
+            "tokens": [
+                "Lichtstrahl",
+                "trifft",
+                "und",
+                "wir",
+                "uns",
+                "sehen",
+                "können",
+                ":"
+            ]
         },
         "line.16": {
-            "text": "ein Gebilde aus Kalk und singender Milch."
+            "text": "ein Gebilde aus Kalk und singender Milch.",
+            "tokens": [
+                "ein",
+                "Gebilde",
+                "aus",
+                "Kalk",
+                "und",
+                "singender",
+                "Milch",
+                "."
+            ]
         }
     }
 }

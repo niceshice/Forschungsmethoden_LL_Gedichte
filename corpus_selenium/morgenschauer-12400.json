@@ -4,49 +4,224 @@
     "author": "Nadja  Küchenmeister",
     "poem": {
         "line.1": {
-            "text": "nebel überfällt die berge wie im flug und schleicht"
+            "text": "nebel überfällt die berge wie im flug und schleicht",
+            "tokens": [
+                "nebel",
+                "überfällt",
+                "die",
+                "berge",
+                "wie",
+                "im",
+                "flug",
+                "und",
+                "schleicht"
+            ]
         },
         "line.2": {
-            "text": "metallisch um die spitzen karger bäume. der morgen"
+            "text": "metallisch um die spitzen karger bäume. der morgen",
+            "tokens": [
+                "metallisch",
+                "um",
+                "die",
+                "spitzen",
+                "karger",
+                "bäume",
+                ".",
+                "der",
+                "morgen"
+            ]
         },
         "line.3": {
-            "text": "ist von tau zerfressen, leckt an einem straßenschild."
+            "text": "ist von tau zerfressen, leckt an einem straßenschild.",
+            "tokens": [
+                "ist",
+                "von",
+                "tau",
+                "zerfressen",
+                ",",
+                "leckt",
+                "an",
+                "einem",
+                "straßenschild",
+                "."
+            ]
         },
         "line.4": {
-            "text": "dein tier ist wach und lauscht dem rauschen in den"
+            "text": "dein tier ist wach und lauscht dem rauschen in den",
+            "tokens": [
+                "dein",
+                "tier",
+                "ist",
+                "wach",
+                "und",
+                "lauscht",
+                "dem",
+                "rauschen",
+                "in",
+                "den"
+            ]
         },
         "line.5": {
-            "text": "pappeln. von krähen schwer beladen sind die masten"
+            "text": "pappeln. von krähen schwer beladen sind die masten",
+            "tokens": [
+                "pappeln",
+                ".",
+                "von",
+                "krähen",
+                "schwer",
+                "beladen",
+                "sind",
+                "die",
+                "masten"
+            ]
         },
         "line.6": {
-            "text": "eine schwarze fracht, und ein geräusch ist in den lüften"
+            "text": "eine schwarze fracht, und ein geräusch ist in den lüften",
+            "tokens": [
+                "eine",
+                "schwarze",
+                "fracht",
+                ",",
+                "und",
+                "ein",
+                "geräusch",
+                "ist",
+                "in",
+                "den",
+                "lüften"
+            ]
         },
         "line.7": {
-            "text": "als würde jemand in der ferne särge putzen, schon die"
+            "text": "als würde jemand in der ferne särge putzen, schon die",
+            "tokens": [
+                "als",
+                "würde",
+                "jemand",
+                "in",
+                "der",
+                "ferne",
+                "särge",
+                "putzen",
+                ",",
+                "schon",
+                "die"
+            ]
         },
         "line.8": {
-            "text": "halbe nacht. die dumpfheit alter schauermärchen, alter"
+            "text": "halbe nacht. die dumpfheit alter schauermärchen, alter",
+            "tokens": [
+                "halbe",
+                "nacht",
+                ".",
+                "die",
+                "dumpfheit",
+                "alter",
+                "schauermärchen",
+                ",",
+                "alter"
+            ]
         },
         "line.9": {
-            "text": "lieder. dein tier liegt ausgestreckt mit aufgesperrtem"
+            "text": "lieder. dein tier liegt ausgestreckt mit aufgesperrtem",
+            "tokens": [
+                "lieder",
+                ".",
+                "dein",
+                "tier",
+                "liegt",
+                "ausgestreckt",
+                "mit",
+                "aufgesperrtem"
+            ]
         },
         "line.10": {
-            "text": "rachen und lässt den atem durch die lücken seiner zähne"
+            "text": "rachen und lässt den atem durch die lücken seiner zähne",
+            "tokens": [
+                "rachen",
+                "und",
+                "lässt",
+                "den",
+                "atem",
+                "durch",
+                "die",
+                "lücken",
+                "seiner",
+                "zähne"
+            ]
         },
         "line.11": {
-            "text": "streichen. ein wagen schleppt die regenfeuchte wie trauer"
+            "text": "streichen. ein wagen schleppt die regenfeuchte wie trauer",
+            "tokens": [
+                "streichen",
+                ".",
+                "ein",
+                "wagen",
+                "schleppt",
+                "die",
+                "regenfeuchte",
+                "wie",
+                "trauer"
+            ]
         },
         "line.12": {
-            "text": "an den sommerreifen nach. ist auch der himmel wieder"
+            "text": "an den sommerreifen nach. ist auch der himmel wieder",
+            "tokens": [
+                "an",
+                "den",
+                "sommerreifen",
+                "nach",
+                ".",
+                "ist",
+                "auch",
+                "der",
+                "himmel",
+                "wieder"
+            ]
         },
         "line.13": {
-            "text": "reingewaschen und von so leichter heiterkeit: dein tier"
+            "text": "reingewaschen und von so leichter heiterkeit: dein tier",
+            "tokens": [
+                "reingewaschen",
+                "und",
+                "von",
+                "so",
+                "leichter",
+                "heiterkeit",
+                ":",
+                "dein",
+                "tier"
+            ]
         },
         "line.14": {
-            "text": "ist müde, will nicht mehr. und es erzählen immerzu"
+            "text": "ist müde, will nicht mehr. und es erzählen immerzu",
+            "tokens": [
+                "ist",
+                "müde",
+                ",",
+                "will",
+                "nicht",
+                "mehr",
+                ".",
+                "und",
+                "es",
+                "erzählen",
+                "immerzu"
+            ]
         },
         "line.15": {
-            "text": "die pappeln und einmal blüht die königin der nacht."
+            "text": "die pappeln und einmal blüht die königin der nacht.",
+            "tokens": [
+                "die",
+                "pappeln",
+                "und",
+                "einmal",
+                "blüht",
+                "die",
+                "königin",
+                "der",
+                "nacht",
+                "."
+            ]
         }
     }
 }

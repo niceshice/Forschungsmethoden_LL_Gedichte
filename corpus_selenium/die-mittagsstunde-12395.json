@@ -4,31 +4,150 @@
     "author": "Nadja  Küchenmeister",
     "poem": {
         "line.1": {
-            "text": "die mittagsstunde, grau ummantelt, hält die wärme"
+            "text": "die mittagsstunde, grau ummantelt, hält die wärme",
+            "tokens": [
+                "die",
+                "mittagsstunde",
+                ",",
+                "grau",
+                "ummantelt",
+                ",",
+                "hält",
+                "die",
+                "wärme"
+            ]
         },
         "line.2": {
-            "text": "des bettes bereit und das erschöpfte singen der vögel"
+            "text": "des bettes bereit und das erschöpfte singen der vögel",
+            "tokens": [
+                "des",
+                "bettes",
+                "bereit",
+                "und",
+                "das",
+                "erschöpfte",
+                "singen",
+                "der",
+                "vögel"
+            ]
         },
         "line.3": {
-            "text": "hinter dem vorhang träumt sich so leicht. wie schwer"
+            "text": "hinter dem vorhang träumt sich so leicht. wie schwer",
+            "tokens": [
+                "hinter",
+                "dem",
+                "vorhang",
+                "träumt",
+                "sich",
+                "so",
+                "leicht",
+                ".",
+                "wie",
+                "schwer"
+            ]
         },
         "line.4": {
-            "text": "wiegt das lautlose atmen zu zweit, denn was dir im arm"
+            "text": "wiegt das lautlose atmen zu zweit, denn was dir im arm",
+            "tokens": [
+                "wiegt",
+                "das",
+                "lautlose",
+                "atmen",
+                "zu",
+                "zweit",
+                ",",
+                "denn",
+                "was",
+                "dir",
+                "im",
+                "arm"
+            ]
         },
         "line.5": {
-            "text": "liegt, ist nicht das, was dir bleibt. der staub, der sich bei"
+            "text": "liegt, ist nicht das, was dir bleibt. der staub, der sich bei",
+            "tokens": [
+                "liegt",
+                ",",
+                "ist",
+                "nicht",
+                "das",
+                ",",
+                "was",
+                "dir",
+                "bleibt",
+                ".",
+                "der",
+                "staub",
+                ",",
+                "der",
+                "sich",
+                "bei"
+            ]
         },
         "line.6": {
-            "text": "allen abschieden zeigt, macht dich so milde und furchtsam"
+            "text": "allen abschieden zeigt, macht dich so milde und furchtsam",
+            "tokens": [
+                "allen",
+                "abschieden",
+                "zeigt",
+                ",",
+                "macht",
+                "dich",
+                "so",
+                "milde",
+                "und",
+                "furchtsam"
+            ]
         },
         "line.7": {
-            "text": "zugleich: wie gut, dass sich das schweigen zerschweigt."
+            "text": "zugleich: wie gut, dass sich das schweigen zerschweigt.",
+            "tokens": [
+                "zugleich",
+                ":",
+                "wie",
+                "gut",
+                ",",
+                "dass",
+                "sich",
+                "das",
+                "schweigen",
+                "zerschweigt",
+                "."
+            ]
         },
         "line.8": {
-            "text": "und jene hand, die vormals geliebte, fasst in die mittags"
+            "text": "und jene hand, die vormals geliebte, fasst in die mittags",
+            "tokens": [
+                "und",
+                "jene",
+                "hand",
+                ",",
+                "die",
+                "vormals",
+                "geliebte",
+                ",",
+                "fasst",
+                "in",
+                "die",
+                "mittags"
+            ]
         },
         "line.9": {
-            "text": "wunde hinein und was sie berührt, wird wieder zu stein."
+            "text": "wunde hinein und was sie berührt, wird wieder zu stein.",
+            "tokens": [
+                "wunde",
+                "hinein",
+                "und",
+                "was",
+                "sie",
+                "berührt",
+                ",",
+                "wird",
+                "wieder",
+                "zu",
+                "stein",
+                "."
+            ]
         }
     }
 }

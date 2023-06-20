@@ -4,34 +4,161 @@
     "author": "Sandra Burkhardt",
     "poem": {
         "line.1": {
-            "text": "Als stünde man am französischen Fenster, mit Schiefblick"
+            "text": "Als stünde man am französischen Fenster, mit Schiefblick",
+            "tokens": [
+                "Als",
+                "stünde",
+                "man",
+                "am",
+                "französischen",
+                "Fenster",
+                ",",
+                "mit",
+                "Schiefblick"
+            ]
         },
         "line.2": {
-            "text": "auf etwas, das sich ausdehnt wie ein Spielbrett mit Feldern."
+            "text": "auf etwas, das sich ausdehnt wie ein Spielbrett mit Feldern.",
+            "tokens": [
+                "auf",
+                "etwas",
+                ",",
+                "das",
+                "sich",
+                "ausdehnt",
+                "wie",
+                "ein",
+                "Spielbrett",
+                "mit",
+                "Feldern",
+                "."
+            ]
         },
         "line.3": {
-            "text": "Vorn noch feinst bestickt mit kleinsten Partikeln, getrimmten Tribals,"
+            "text": "Vorn noch feinst bestickt mit kleinsten Partikeln, getrimmten Tribals,",
+            "tokens": [
+                "Vorn",
+                "noch",
+                "feinst",
+                "bestickt",
+                "mit",
+                "kleinsten",
+                "Partikeln",
+                ",",
+                "getrimmten",
+                "Tribals",
+                ","
+            ]
         },
         "line.4": {
-            "text": "reichen die Schneisen bis weit hinein in die gereihten Wälder."
+            "text": "reichen die Schneisen bis weit hinein in die gereihten Wälder.",
+            "tokens": [
+                "reichen",
+                "die",
+                "Schneisen",
+                "bis",
+                "weit",
+                "hinein",
+                "in",
+                "die",
+                "gereihten",
+                "Wälder",
+                "."
+            ]
         },
         "line.5": {
-            "text": "Hinten spreizen sich die Fäden zu Strängen. Soll man ziehen?"
+            "text": "Hinten spreizen sich die Fäden zu Strängen. Soll man ziehen?",
+            "tokens": [
+                "Hinten",
+                "spreizen",
+                "sich",
+                "die",
+                "Fäden",
+                "zu",
+                "Strängen",
+                ".",
+                "Soll",
+                "man",
+                "ziehen",
+                "?"
+            ]
         },
         "line.6": {
-            "text": "Man steht da, versunken in die Betrachtung einzelner Kacheln"
+            "text": "Man steht da, versunken in die Betrachtung einzelner Kacheln",
+            "tokens": [
+                "Man",
+                "steht",
+                "da",
+                ",",
+                "versunken",
+                "in",
+                "die",
+                "Betrachtung",
+                "einzelner",
+                "Kacheln"
+            ]
         },
         "line.7": {
-            "text": "als Kammern, ihrer Einrichtung als feine Uneinheitlichkeit:"
+            "text": "als Kammern, ihrer Einrichtung als feine Uneinheitlichkeit:",
+            "tokens": [
+                "als",
+                "Kammern",
+                ",",
+                "ihrer",
+                "Einrichtung",
+                "als",
+                "feine",
+                "Uneinheitlichkeit",
+                ":"
+            ]
         },
         "line.8": {
-            "text": "Küchen, Bibliotheken und Bäder. Man schwindelt und kippelt,"
+            "text": "Küchen, Bibliotheken und Bäder. Man schwindelt und kippelt,",
+            "tokens": [
+                "Küchen",
+                ",",
+                "Bibliotheken",
+                "und",
+                "Bäder",
+                ".",
+                "Man",
+                "schwindelt",
+                "und",
+                "kippelt",
+                ","
+            ]
         },
         "line.9": {
-            "text": "so als fliege man aus dem Fenster und verursache einen Abklatsch."
+            "text": "so als fliege man aus dem Fenster und verursache einen Abklatsch.",
+            "tokens": [
+                "so",
+                "als",
+                "fliege",
+                "man",
+                "aus",
+                "dem",
+                "Fenster",
+                "und",
+                "verursache",
+                "einen",
+                "Abklatsch",
+                "."
+            ]
         },
         "line.10": {
-            "text": "Man wird es gleich tatsächlich öffnen und Vogelstimmen hören."
+            "text": "Man wird es gleich tatsächlich öffnen und Vogelstimmen hören.",
+            "tokens": [
+                "Man",
+                "wird",
+                "es",
+                "gleich",
+                "tatsächlich",
+                "öffnen",
+                "und",
+                "Vogelstimmen",
+                "hören",
+                "."
+            ]
         }
     }
 }

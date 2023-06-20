@@ -4,55 +4,189 @@
     "author": "Andreas Neeser",
     "poem": {
         "line.1": {
-            "text": "Wir dümpeln auf beinlangen Stämmchen"
+            "text": "Wir dümpeln auf beinlangen Stämmchen",
+            "tokens": [
+                "Wir",
+                "dümpeln",
+                "auf",
+                "beinlangen",
+                "Stämmchen"
+            ]
         },
         "line.2": {
-            "text": "gehäutetes Totholz, kein Wind fällt"
+            "text": "gehäutetes Totholz, kein Wind fällt",
+            "tokens": [
+                "gehäutetes",
+                "Totholz",
+                ",",
+                "kein",
+                "Wind",
+                "fällt"
+            ]
         },
         "line.3": {
-            "text": "nur backbord"
+            "text": "nur backbord",
+            "tokens": [
+                "nur",
+                "backbord"
+            ]
         },
         "line.4": {
-            "text": "vergisst sich am Knorren ein wildfremdes Haar."
+            "text": "vergisst sich am Knorren ein wildfremdes Haar.",
+            "tokens": [
+                "vergisst",
+                "sich",
+                "am",
+                "Knorren",
+                "ein",
+                "wildfremdes",
+                "Haar",
+                "."
+            ]
         },
         "line.5": {
-            "text": "Wir sollten uns fragen"
+            "text": "Wir sollten uns fragen",
+            "tokens": [
+                "Wir",
+                "sollten",
+                "uns",
+                "fragen"
+            ]
         },
         "line.6": {
-            "text": "wo wäre der Scheitel in so einem See, und"
+            "text": "wo wäre der Scheitel in so einem See, und",
+            "tokens": [
+                "wo",
+                "wäre",
+                "der",
+                "Scheitel",
+                "in",
+                "so",
+                "einem",
+                "See",
+                ",",
+                "und"
+            ]
         },
         "line.7": {
-            "text": "ich frage, wie teilte sich grundlos das Blau"
+            "text": "ich frage, wie teilte sich grundlos das Blau",
+            "tokens": [
+                "ich",
+                "frage",
+                ",",
+                "wie",
+                "teilte",
+                "sich",
+                "grundlos",
+                "das",
+                "Blau"
+            ]
         },
         "line.8": {
-            "text": "zwischen Arven und Stein?"
+            "text": "zwischen Arven und Stein?",
+            "tokens": [
+                "zwischen",
+                "Arven",
+                "und",
+                "Stein",
+                "?"
+            ]
         },
         "line.9": {
-            "text": "Dort vorne drei Gipfel"
+            "text": "Dort vorne drei Gipfel",
+            "tokens": [
+                "Dort",
+                "vorne",
+                "drei",
+                "Gipfel"
+            ]
         },
         "line.10": {
-            "text": "der Dunst zeichnet weiche Konturen"
+            "text": "der Dunst zeichnet weiche Konturen",
+            "tokens": [
+                "der",
+                "Dunst",
+                "zeichnet",
+                "weiche",
+                "Konturen"
+            ]
         },
         "line.11": {
-            "text": "die Schwestern in Schiefer verschwimmen talauf"
+            "text": "die Schwestern in Schiefer verschwimmen talauf",
+            "tokens": [
+                "die",
+                "Schwestern",
+                "in",
+                "Schiefer",
+                "verschwimmen",
+                "talauf"
+            ]
         },
         "line.12": {
-            "text": "und ich wende entgeistert auf offenem See."
+            "text": "und ich wende entgeistert auf offenem See.",
+            "tokens": [
+                "und",
+                "ich",
+                "wende",
+                "entgeistert",
+                "auf",
+                "offenem",
+                "See",
+                "."
+            ]
         },
         "line.13": {
-            "text": "Seit Jahrzehnten mein einziger Bruder"
+            "text": "Seit Jahrzehnten mein einziger Bruder",
+            "tokens": [
+                "Seit",
+                "Jahrzehnten",
+                "mein",
+                "einziger",
+                "Bruder"
+            ]
         },
         "line.14": {
-            "text": "kriech ich beim Rastplatz ans Ufer"
+            "text": "kriech ich beim Rastplatz ans Ufer",
+            "tokens": [
+                "kriech",
+                "ich",
+                "beim",
+                "Rastplatz",
+                "ans",
+                "Ufer"
+            ]
         },
         "line.15": {
-            "text": "im fahleren Licht"
+            "text": "im fahleren Licht",
+            "tokens": [
+                "im",
+                "fahleren",
+                "Licht"
+            ]
         },
         "line.16": {
-            "text": "fehlt uns wieder für alles das dunkelste Wort."
+            "text": "fehlt uns wieder für alles das dunkelste Wort.",
+            "tokens": [
+                "fehlt",
+                "uns",
+                "wieder",
+                "für",
+                "alles",
+                "das",
+                "dunkelste",
+                "Wort",
+                "."
+            ]
         },
         "line.17": {
-            "text": "Lai da Palpuogna, Bergün"
+            "text": "Lai da Palpuogna, Bergün",
+            "tokens": [
+                "Lai",
+                "da",
+                "Palpuogna",
+                ",",
+                "Bergün"
+            ]
         }
     }
 }

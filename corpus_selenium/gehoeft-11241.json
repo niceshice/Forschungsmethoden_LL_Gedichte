@@ -4,43 +4,162 @@
     "author": "Thomas Rosenlöcher",
     "poem": {
         "line.1": {
-            "text": "Tritt in den Hof. Der Pflug,"
+            "text": "Tritt in den Hof. Der Pflug,",
+            "tokens": [
+                "Tritt",
+                "in",
+                "den",
+                "Hof",
+                ".",
+                "Der",
+                "Pflug",
+                ","
+            ]
         },
         "line.2": {
-            "text": "umwuchert, sinkt in die Erde, das Fuhrwerk"
+            "text": "umwuchert, sinkt in die Erde, das Fuhrwerk",
+            "tokens": [
+                "umwuchert",
+                ",",
+                "sinkt",
+                "in",
+                "die",
+                "Erde",
+                ",",
+                "das",
+                "Fuhrwerk"
+            ]
         },
         "line.3": {
-            "text": "fährt auseinander, unmerklich, die Pferde"
+            "text": "fährt auseinander, unmerklich, die Pferde",
+            "tokens": [
+                "fährt",
+                "auseinander",
+                ",",
+                "unmerklich",
+                ",",
+                "die",
+                "Pferde"
+            ]
         },
         "line.4": {
-            "text": "nicken in ihrem Grab."
+            "text": "nicken in ihrem Grab.",
+            "tokens": [
+                "nicken",
+                "in",
+                "ihrem",
+                "Grab",
+                "."
+            ]
         },
         "line.5": {
-            "text": "Füll deine Taschen, der Birnbaum"
+            "text": "Füll deine Taschen, der Birnbaum",
+            "tokens": [
+                "Füll",
+                "deine",
+                "Taschen",
+                ",",
+                "der",
+                "Birnbaum"
+            ]
         },
         "line.6": {
-            "text": "wird bald gestürzt sein, das Haus,"
+            "text": "wird bald gestürzt sein, das Haus,",
+            "tokens": [
+                "wird",
+                "bald",
+                "gestürzt",
+                "sein",
+                ",",
+                "das",
+                "Haus",
+                ","
+            ]
         },
         "line.7": {
-            "text": "erdsüchtig, ging schon in die Knie."
+            "text": "erdsüchtig, ging schon in die Knie.",
+            "tokens": [
+                "erdsüchtig",
+                ",",
+                "ging",
+                "schon",
+                "in",
+                "die",
+                "Knie",
+                "."
+            ]
         },
         "line.8": {
-            "text": "Steige durch die zerbrochenen Wände,"
+            "text": "Steige durch die zerbrochenen Wände,",
+            "tokens": [
+                "Steige",
+                "durch",
+                "die",
+                "zerbrochenen",
+                "Wände",
+                ","
+            ]
         },
         "line.9": {
-            "text": "entfach im geborstenen Herd"
+            "text": "entfach im geborstenen Herd",
+            "tokens": [
+                "entfach",
+                "im",
+                "geborstenen",
+                "Herd"
+            ]
         },
         "line.10": {
-            "text": "ein Feuer, sei furchtlos, der neben dir hockt,"
+            "text": "ein Feuer, sei furchtlos, der neben dir hockt,",
+            "tokens": [
+                "ein",
+                "Feuer",
+                ",",
+                "sei",
+                "furchtlos",
+                ",",
+                "der",
+                "neben",
+                "dir",
+                "hockt",
+                ","
+            ]
         },
         "line.11": {
-            "text": "hockt da, um mit dir zu schweigen,"
+            "text": "hockt da, um mit dir zu schweigen,",
+            "tokens": [
+                "hockt",
+                "da",
+                ",",
+                "um",
+                "mit",
+                "dir",
+                "zu",
+                "schweigen",
+                ","
+            ]
         },
         "line.12": {
-            "text": "während der Himmel über euch steht,"
+            "text": "während der Himmel über euch steht,",
+            "tokens": [
+                "während",
+                "der",
+                "Himmel",
+                "über",
+                "euch",
+                "steht",
+                ","
+            ]
         },
         "line.13": {
-            "text": "den Schädeldächern ein Dach."
+            "text": "den Schädeldächern ein Dach.",
+            "tokens": [
+                "den",
+                "Schädeldächern",
+                "ein",
+                "Dach",
+                "."
+            ]
         }
     }
 }
