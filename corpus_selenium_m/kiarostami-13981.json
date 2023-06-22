@@ -1,0 +1,31 @@
+{
+    "title": "kiarostami-13981",
+    "gender": "m",
+    "author": "Jan Volker Röhnert",
+    "poem": {
+        "line.1": {
+            "text": "Die Schildkröte auf ihrem Panzer"
+        },
+        "line.2": {
+            "text": "geht in der Luft, auf allen vieren,"
+        },
+        "line.3": {
+            "text": "bis sie wieder im Staube steht,"
+        },
+        "line.4": {
+            "text": "der Käfer rollt seine Kugel"
+        },
+        "line.5": {
+            "text": "aus Schafkot, ein Sisyphos,"
+        },
+        "line.6": {
+            "text": "durch Dornen und Dreck,"
+        },
+        "line.7": {
+            "text": "der Film, ganz groß am Boden"
+        },
+        "line.8": {
+            "text": "die Spur, die er hinterlässt"
+        }
+    }
+}

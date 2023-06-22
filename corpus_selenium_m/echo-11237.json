@@ -1,0 +1,19 @@
+{
+    "title": "echo-11237",
+    "gender": "m",
+    "author": "Thomas Rosenlöcher",
+    "poem": {
+        "line.1": {
+            "text": "Wo ich bin knarren die Föhren."
+        },
+        "line.2": {
+            "text": "Wo nicht rauscht in ihnen das Meer."
+        },
+        "line.3": {
+            "text": "Folg ich dem Rauschen kommt Knarren."
+        },
+        "line.4": {
+            "text": "Dort wo es rauscht kam ich her."
+        }
+    }
+}
