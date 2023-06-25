@@ -7,16 +7,16 @@
     "author": "Jan Volker Röhnert",
     "poem": {
         "line.1": {
-            "text": "Du schliet die Augen"
+            "text": "Du schließt die Augen"
         },
         "line.2": {
             "text": "langsam, die Welt"
         },
         "line.3": {
-            "text": "ist nichts auer Wind"
+            "text": "ist nichts außer Wind"
         },
         "line.4": {
-            "text": "du ffnest sie wieder"
+            "text": "du öffnest sie wieder"
         },
         "line.5": {
             "text": "langsam, die Dinge"
@@ -28,7 +28,7 @@
             "text": "Sand-"
         },
         "line.8": {
-            "text": "krner, durch die Heere"
+            "text": "körner, durch die Heere"
         },
         "line.9": {
             "text": "von Ameisen ziehen"
@@ -43,10 +43,10 @@
             "text": "der Wespenbussard dreht"
         },
         "line.13": {
-            "text": "ber den Kiefern"
+            "text": "über den Kiefern"
         },
         "line.14": {
-            "text": "ab auer Sicht"
+            "text": "ab außer Sicht"
         },
         "line.15": {
             "text": "nichts wie es ist"
@@ -55,7 +55,7 @@
             "text": "bleibt in zwei Augenblicken"
         },
         "line.17": {
-            "text": "auer dem Wind"
+            "text": "außer dem Wind"
         }
     }
 }
