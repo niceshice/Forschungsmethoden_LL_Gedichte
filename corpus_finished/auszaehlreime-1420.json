@@ -1,13 +1,13 @@
 {
     "title": "auszaehlreime-1420",
     "categories": [
-        "Lyrik für Kinder",
+        "Lyrik f\u00fcr Kinder",
         "Gesellschaftskritik",
         "Leben & Beziehungen",
         "Reimgedicht"
     ],
     "gender": "w",
-    "author": "Christine Nöstlinger",
+    "author": "Christine N\u00f6stlinger",
     "poem": {
         "line.1": {
             "text": "Einer ist reich"
@@ -40,13 +40,13 @@
             "text": "und einer stinkt,"
         },
         "line.11": {
-            "text": "einer fhrt weg"
+            "text": "einer f\u00e4hrt weg"
         },
         "line.12": {
             "text": "und einer winkt."
         },
         "line.13": {
-            "text": "Einer hat berflu"
+            "text": "Einer hat \u00dcberflu\u00df"
         },
         "line.14": {
             "text": "und einer hat Sorgen,"
@@ -55,7 +55,7 @@
             "text": "einer kann schenken"
         },
         "line.16": {
-            "text": "und einer mu borgen."
+            "text": "und einer mu\u00df borgen."
         },
         "line.17": {
             "text": "Einer hat Hunger"

@@ -1,13 +1,13 @@
 {
     "title": "eigentlich-1415",
     "categories": [
-        "Lyrik für Kinder",
+        "Lyrik f\u00fcr Kinder",
         "Leben & Beziehungen",
         "Familie",
         "Beziehungskonflikt"
     ],
     "gender": "w",
-    "author": "Christine Nöstlinger",
+    "author": "Christine N\u00f6stlinger",
     "poem": {
         "line.1": {
             "text": "Mein Papa"
@@ -37,13 +37,13 @@
             "text": "Eigentlich"
         },
         "line.10": {
-            "text": "wrde ich sie gern mal sehn."
+            "text": "w\u00fcrde ich sie gern mal sehn."
         },
         "line.11": {
             "text": "Aber Mama"
         },
         "line.12": {
-            "text": "tt das nicht verstehn!"
+            "text": "t\u00e4t das nicht verstehn!"
         }
     }
 }

@@ -5,10 +5,10 @@
         "Reimgedicht"
     ],
     "gender": "m",
-    "author": "André Schinkel",
+    "author": "Andr\u00e9 Schinkel",
     "poem": {
         "line.1": {
-            "text": "Ich suche dich, ich hab dir lngst verziehen,"
+            "text": "Ich suche dich, ich hab dir l\u00e4ngst verziehen,"
         },
         "line.2": {
             "text": "Ich witter dich, ich hab dich fast;"
@@ -17,13 +17,13 @@
             "text": "Du brauchst nun nicht mehr vor mir fliehen"
         },
         "line.4": {
-            "text": "Ich spre dich: dein Herzblut rast."
+            "text": "Ich sp\u00fcre dich: dein Herzblut rast."
         },
         "line.5": {
             "text": "Ich orte dich, ich kann dich immer finden,"
         },
         "line.6": {
-            "text": "Ich sehe, fhle, hr dich gut;"
+            "text": "Ich sehe, f\u00fchle, h\u00f6r dich gut;"
         },
         "line.7": {
             "text": "Du kannst vor mir nicht mehr verschwinden:"
@@ -47,13 +47,13 @@
             "text": "Ich fasse dich, ich schau dir in die Karten,"
         },
         "line.14": {
-            "text": "Du weit es, du entkommst mir nicht;"
+            "text": "Du wei\u00dft es, du entkommst mir nicht;"
         },
         "line.15": {
             "text": "Du wirst mich bald nicht mehr verraten"
         },
         "line.16": {
-            "text": "Ich spre, rieche, atme dich."
+            "text": "Ich sp\u00fcre, rieche, atme dich."
         }
     }
 }

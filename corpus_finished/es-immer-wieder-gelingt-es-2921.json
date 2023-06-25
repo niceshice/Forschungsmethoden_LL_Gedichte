@@ -5,7 +5,7 @@
         "Serien / Zyklen",
         "Zeit",
         "Natur",
-        "Frühling",
+        "Fr\u00fchling",
         "Sommer",
         "Herbst",
         "Winter"
@@ -14,7 +14,7 @@
     "author": "Eugen  Gomringer",
     "poem": {
         "line.1": {
-            "text": "frhling"
+            "text": "fr\u00fchling"
         },
         "line.2": {
             "text": "immer wieder gelingt es"
@@ -29,10 +29,10 @@
             "text": "immer wieder lockt es"
         },
         "line.6": {
-            "text": "immer wieder berhrt es"
+            "text": "immer wieder ber\u00fchrt es"
         },
         "line.7": {
-            "text": "immer wieder verfhrt es"
+            "text": "immer wieder verf\u00fchrt es"
         },
         "line.8": {
             "text": "immer wieder schreibt es"
@@ -53,7 +53,7 @@
             "text": "immer wieder greift es"
         },
         "line.14": {
-            "text": "immer wieder fllt es"
+            "text": "immer wieder f\u00fcllt es"
         },
         "line.15": {
             "text": "herbst"
@@ -62,7 +62,7 @@
             "text": "immer wieder reift es"
         },
         "line.17": {
-            "text": "immer wieder hllt es"
+            "text": "immer wieder h\u00fcllt es"
         },
         "line.18": {
             "text": "immer wieder reicht es"
@@ -74,7 +74,7 @@
             "text": "immer wieder gleicht es"
         },
         "line.21": {
-            "text": "frhling"
+            "text": "fr\u00fchling"
         },
         "line.22": {
             "text": "immer wieder gelingt es"

@@ -5,10 +5,10 @@
         "Familie"
     ],
     "gender": "m",
-    "author": "Thomas Rosenlöcher",
+    "author": "Thomas Rosenl\u00f6cher",
     "poem": {
         "line.1": {
-            "text": "Das hab ich bei berdbel gekauft."
+            "text": "Das hab ich bei \u00dcberd\u00fcbel gekauft."
         },
         "line.2": {
             "text": "Ja, Nappi ist billiger. Ehrlich gesagt."
@@ -17,7 +17,7 @@
             "text": "Allerdings. Immerhin. Teils, teils."
         },
         "line.4": {
-            "text": "Blo keinen Kerl mehr ins Haus."
+            "text": "Blo\u00df keinen Kerl mehr ins Haus."
         },
         "line.5": {
             "text": "Am Tittisee. Allein der Name."
@@ -26,7 +26,7 @@
             "text": "Der ganze Bus hat gelacht."
         },
         "line.7": {
-            "text": "War frher auch lustiger bei euch."
+            "text": "War fr\u00fcher auch lustiger bei euch."
         },
         "line.8": {
             "text": "Gibts hier kein Rollwoll Kaufhaus?"
@@ -44,13 +44,13 @@
             "text": "Was guckst du so, Schwiegersohn?"
         },
         "line.13": {
-            "text": "Schreib mal ein Gedicht ber mich."
+            "text": "Schreib mal ein Gedicht \u00fcber mich."
         },
         "line.14": {
-            "text": "Nein, nicht von Goethe. Was Schnes."
+            "text": "Nein, nicht von Goethe. Was Sch\u00f6nes."
         },
         "line.15": {
-            "text": "Htte so gern wieder einmal gelacht."
+            "text": "H\u00e4tte so gern wieder einmal gelacht."
         }
     }
 }

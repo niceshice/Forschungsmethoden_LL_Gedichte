@@ -1,24 +1,24 @@
 {
     "title": "wyoming-13239",
     "categories": [
-        "Identität (Individuum)",
-        "Religion / Spiritualität",
+        "Identit\u00e4t (Individuum)",
+        "Religion / Spiritualit\u00e4t",
         "Natur"
     ],
     "gender": "m",
-    "author": "Mirko Bonné",
+    "author": "Mirko Bonn\u00e9",
     "poem": {
         "line.1": {
-            "text": "Wenn wir ber die Wldergrenze hinausgingen,"
+            "text": "Wenn wir \u00fcber die W\u00e4ldergrenze hinausgingen,"
         },
         "line.2": {
-            "text": "in die freien Ebenen, an die Flsse. Wenn wir die Stdte"
+            "text": "in die freien Ebenen, an die Fl\u00fcsse. Wenn wir die St\u00e4dte"
         },
         "line.3": {
-            "text": "und das Land hinter uns lieen. Wenn wir nicht darauf achteten,"
+            "text": "und das Land hinter uns lie\u00dfen. Wenn wir nicht darauf achteten,"
         },
         "line.4": {
-            "text": "wer mit uns kme. Wenn da ein Licht wre, und wre es nur"
+            "text": "wer mit uns k\u00e4me. Wenn da ein Licht w\u00e4re, und w\u00e4re es nur"
         },
         "line.5": {
             "text": "ein vorgestelltes. Nur? Wenn die Geschichte einfach"
@@ -36,13 +36,13 @@
             "text": "ein Verschweigen, ein Gesetzesentwurf, wenn alles das"
         },
         "line.10": {
-            "text": "eins wre. Wenn wir Wyoming befreiten. Wenn die Unwirklichkeit"
+            "text": "eins w\u00e4re. Wenn wir Wyoming befreiten. Wenn die Unwirklichkeit"
         },
         "line.11": {
-            "text": "in Wyoming aufhrte. Wenn die Zuneigung zurckkehrte."
+            "text": "in Wyoming aufh\u00f6rte. Wenn die Zuneigung zur\u00fcckkehrte."
         },
         "line.12": {
-            "text": "Wenn die Zuneigung zurckkehrte mit den Fischen."
+            "text": "Wenn die Zuneigung zur\u00fcckkehrte mit den Fischen."
         },
         "line.13": {
             "text": "Wenn alle die Fragen wohin, wodurch, wonach, welche,"
@@ -51,10 +51,10 @@
             "text": "weshalb und wann die Antworten ersetzten. Und wenn alles"
         },
         "line.15": {
-            "text": "mit einem Mal bliebe. Hier, dort. In Wyoming, berall. Ohne Ursache."
+            "text": "mit einem Mal bliebe. Hier, dort. In Wyoming, \u00fcberall. Ohne Ursache."
         },
         "line.16": {
-            "text": "Fr Wolfgang Denkel"
+            "text": "F\u00fcr Wolfgang Denkel"
         }
     }
 }

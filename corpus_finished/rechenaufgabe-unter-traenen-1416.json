@@ -1,13 +1,13 @@
 {
     "title": "rechenaufgabe-unter-traenen-1416",
     "categories": [
-        "Lyrik für Kinder",
+        "Lyrik f\u00fcr Kinder",
         "Leben & Beziehungen",
         "Medizin & Naturwissenschaft",
         "Reimgedicht"
     ],
     "gender": "w",
-    "author": "Christine Nöstlinger",
+    "author": "Christine N\u00f6stlinger",
     "poem": {
         "line.1": {
             "text": "3 + 4 = 7"
@@ -43,7 +43,7 @@
             "text": "3  2 = 1"
         },
         "line.12": {
-            "text": "Aber Glck wnsch ich dir keins!"
+            "text": "Aber Gl\u00fcck w\u00fcnsch ich dir keins!"
         }
     }
 }

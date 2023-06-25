@@ -1,13 +1,13 @@
 {
     "title": "bei-uns-zuhaus-679",
     "categories": [
-        "Lyrik für Kinder",
+        "Lyrik f\u00fcr Kinder",
         "Essen & Trinken",
         "Familie",
         "Natur"
     ],
     "gender": "m",
-    "author": "Jürg Schubiger",
+    "author": "J\u00fcrg Schubiger",
     "poem": {
         "line.1": {
             "text": "Das Licht geht an,"
@@ -22,16 +22,16 @@
             "text": "bei uns zuhaus."
         },
         "line.5": {
-            "text": "Die Tren gehn,"
+            "text": "Die T\u00fcren gehn,"
         },
         "line.6": {
             "text": "die Freunde sehn herein"
         },
         "line.7": {
-            "text": "und grssen."
+            "text": "und gr\u00fcssen."
         },
         "line.8": {
-            "text": "Nur Tische, Sthle,"
+            "text": "Nur Tische, St\u00fchle,"
         },
         "line.9": {
             "text": "Betten stehn"
@@ -40,7 +40,7 @@
             "text": "bei uns zuhaus"
         },
         "line.11": {
-            "text": "bockstill und auf vier Fssen."
+            "text": "bockstill und auf vier F\u00fcssen."
         }
     }
 }

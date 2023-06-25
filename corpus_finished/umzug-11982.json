@@ -7,7 +7,7 @@
     "author": "Carolin Callies",
     "poem": {
         "line.1": {
-            "text": "wir suchen ne kopfgroe wohnung im ort"
+            "text": "wir suchen ne kopfgro\u00dfe wohnung im ort"
         },
         "line.2": {
             "text": "& wohnten zuvor in den steinen am hang"
@@ -16,19 +16,19 @@
             "text": "& trugen wir fell, so wars nicht besonders"
         },
         "line.4": {
-            "text": "& molken wir vieh, so gehrte es uns."
+            "text": "& molken wir vieh, so geh\u00f6rte es uns."
         },
         "line.5": {
-            "text": "nicht viel & wir schnitten die tren in pfel,"
+            "text": "nicht viel & wir schnitten die t\u00fcren in \u00e4pfel,"
         },
         "line.6": {
-            "text": "nicht viel & wir sgten das fenster ins laub."
+            "text": "nicht viel & wir s\u00e4gten das fenster ins laub."
         },
         "line.7": {
             "text": "ich trug viel davon & zu tragen vermochten wir"
         },
         "line.8": {
-            "text": "steinobst & muse am zaumzeug aus unserem stall."
+            "text": "steinobst & m\u00e4use am zaumzeug aus unserem stall."
         }
     }
 }

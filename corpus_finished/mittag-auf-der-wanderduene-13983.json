@@ -4,19 +4,19 @@
         "Natur"
     ],
     "gender": "m",
-    "author": "Jan Volker Röhnert",
+    "author": "Jan Volker R\u00f6hnert",
     "poem": {
         "line.1": {
-            "text": "Du schliet die Augen"
+            "text": "Du schlie\u00dft die Augen"
         },
         "line.2": {
             "text": "langsam, die Welt"
         },
         "line.3": {
-            "text": "ist nichts auer Wind"
+            "text": "ist nichts au\u00dfer Wind"
         },
         "line.4": {
-            "text": "du ffnest sie wieder"
+            "text": "du \u00f6ffnest sie wieder"
         },
         "line.5": {
             "text": "langsam, die Dinge"
@@ -28,7 +28,7 @@
             "text": "Sand-"
         },
         "line.8": {
-            "text": "krner, durch die Heere"
+            "text": "k\u00f6rner, durch die Heere"
         },
         "line.9": {
             "text": "von Ameisen ziehen"
@@ -43,10 +43,10 @@
             "text": "der Wespenbussard dreht"
         },
         "line.13": {
-            "text": "ber den Kiefern"
+            "text": "\u00fcber den Kiefern"
         },
         "line.14": {
-            "text": "ab auer Sicht"
+            "text": "ab au\u00dfer Sicht"
         },
         "line.15": {
             "text": "nichts wie es ist"
@@ -55,7 +55,7 @@
             "text": "bleibt in zwei Augenblicken"
         },
         "line.17": {
-            "text": "auer dem Wind"
+            "text": "au\u00dfer dem Wind"
         }
     }
 }

@@ -5,16 +5,16 @@
         "Natur"
     ],
     "gender": "w",
-    "author": "Nadja  Küchenmeister",
+    "author": "Nadja  K\u00fcchenmeister",
     "poem": {
         "line.1": {
-            "text": "die mittagsstunde, grau ummantelt, hlt die wrme"
+            "text": "die mittagsstunde, grau ummantelt, h\u00e4lt die w\u00e4rme"
         },
         "line.2": {
-            "text": "des bettes bereit und das erschpfte singen der vgel"
+            "text": "des bettes bereit und das ersch\u00f6pfte singen der v\u00f6gel"
         },
         "line.3": {
-            "text": "hinter dem vorhang trumt sich so leicht. wie schwer"
+            "text": "hinter dem vorhang tr\u00e4umt sich so leicht. wie schwer"
         },
         "line.4": {
             "text": "wiegt das lautlose atmen zu zweit, denn was dir im arm"
@@ -32,7 +32,7 @@
             "text": "und jene hand, die vormals geliebte, fasst in die mittags"
         },
         "line.9": {
-            "text": "wunde hinein und was sie berhrt, wird wieder zu stein."
+            "text": "wunde hinein und was sie ber\u00fchrt, wird wieder zu stein."
         }
     }
 }

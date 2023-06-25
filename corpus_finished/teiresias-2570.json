@@ -4,19 +4,19 @@
         "Leben & Beziehungen",
         "Frau",
         "Mann",
-        "Körper"
+        "K\u00f6rper"
     ],
     "gender": "m",
     "author": "Michael Roes",
     "poem": {
         "line.1": {
-            "text": "Frauen sind keine blutenden Vgel"
+            "text": "Frauen sind keine blutenden V\u00f6gel"
         },
         "line.2": {
-            "text": "und schlge eine von ihnen"
+            "text": "und schl\u00fcge eine von ihnen"
         },
         "line.3": {
-            "text": "uns eine Wunde, es trte"
+            "text": "uns eine Wunde, es tr\u00e4te"
         },
         "line.4": {
             "text": "nur Wasser heraus"
@@ -31,7 +31,7 @@
             "text": "Wir haben einander nichts vorzuwerfen"
         },
         "line.8": {
-            "text": "Wre ich Frau, wre ich"
+            "text": "W\u00e4re ich Frau, w\u00e4re ich"
         },
         "line.9": {
             "text": "Nymphe. Auch die Gewalt liebte ich"
@@ -40,10 +40,10 @@
             "text": "die schweigsame, wegwerfende Geste des"
         },
         "line.11": {
-            "text": "Mannes, den gewaltsam geffneten Mund"
+            "text": "Mannes, den gewaltsam ge\u00f6ffneten Mund"
         },
         "line.12": {
-            "text": "Doch einmal werden wir Mnner"
+            "text": "Doch einmal werden wir M\u00e4nner"
         },
         "line.13": {
             "text": "Frau sein, bluten vor Scham, vor"

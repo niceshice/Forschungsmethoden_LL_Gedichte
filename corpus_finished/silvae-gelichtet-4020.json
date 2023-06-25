@@ -12,13 +12,13 @@
     "author": "Steffen Popp",
     "poem": {
         "line.1": {
-            "text": "Das Harz luft aus den Bumen, wie gewohnt"
+            "text": "Das Harz l\u00e4uft aus den B\u00e4umen, wie gewohnt"
         },
         "line.2": {
-            "text": "stehen die Wlder, hlzern und grn"
+            "text": "stehen die W\u00e4lder, h\u00f6lzern und gr\u00fcn"
         },
         "line.3": {
-            "text": "vor meinem Fenster, und berall auf der Erde"
+            "text": "vor meinem Fenster, und \u00fcberall auf der Erde"
         },
         "line.4": {
             "text": "wo kein Feld ist, kein Garten"
@@ -30,7 +30,7 @@
             "text": "Manchmal ein Tier, an der Blattunterkante"
         },
         "line.7": {
-            "text": "eine rehbraune Schiescheibe mit wenigen"
+            "text": "eine rehbraune Schie\u00dfscheibe mit wenigen"
         },
         "line.8": {
             "text": "Treffern vom Vorjahr"
@@ -42,7 +42,7 @@
             "text": "ziehn Holz aus dem Windbruch, mit der Dunkelheit"
         },
         "line.11": {
-            "text": "kommen die Jger, man sieht ihre gelben"
+            "text": "kommen die J\u00e4ger, man sieht ihre gelben"
         },
         "line.12": {
             "text": "Turnschuhe leuchten."

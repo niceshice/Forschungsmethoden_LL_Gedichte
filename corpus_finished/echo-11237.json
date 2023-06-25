@@ -4,10 +4,10 @@
         "Natur"
     ],
     "gender": "m",
-    "author": "Thomas Rosenlöcher",
+    "author": "Thomas Rosenl\u00f6cher",
     "poem": {
         "line.1": {
-            "text": "Wo ich bin knarren die Fhren."
+            "text": "Wo ich bin knarren die F\u00f6hren."
         },
         "line.2": {
             "text": "Wo nicht rauscht in ihnen das Meer."

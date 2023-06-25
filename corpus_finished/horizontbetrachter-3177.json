@@ -5,22 +5,22 @@
         "Tiere"
     ],
     "gender": "m",
-    "author": "Björn  Kuhligk",
+    "author": "Bj\u00f6rn  Kuhligk",
     "poem": {
         "line.1": {
             "text": "Hier ist ein Wald"
         },
         "line.2": {
-            "text": "da sind die Bume"
+            "text": "da sind die B\u00e4ume"
         },
         "line.3": {
             "text": "darin sind die Ringe"
         },
         "line.4": {
-            "text": "darin schlft die Angst"
+            "text": "darin schl\u00e4ft die Angst"
         },
         "line.5": {
-            "text": "du schlgst zu mit der Axt"
+            "text": "du schl\u00e4gst zu mit der Axt"
         },
         "line.6": {
             "text": "und trinkst den Harzstein mit"

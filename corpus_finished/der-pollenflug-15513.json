@@ -2,21 +2,21 @@
     "title": "der-pollenflug-15513",
     "categories": [
         "Natur",
-        "Frühling",
+        "Fr\u00fchling",
         "Landschaft",
         "Pflanzen"
     ],
     "gender": "m",
-    "author": "André Schinkel",
+    "author": "Andr\u00e9 Schinkel",
     "poem": {
         "line.1": {
-            "text": "Im Frhjahr ziehen die Wolken,"
+            "text": "Im Fr\u00fchjahr ziehen die Wolken,"
         },
         "line.2": {
-            "text": "Rot-gelb vor blhender Lust,"
+            "text": "Rot-gelb vor bl\u00fchender Lust,"
         },
         "line.3": {
-            "text": "Durch die Schatten, die grnen"
+            "text": "Durch die Schatten, die gr\u00fcnen"
         },
         "line.4": {
             "text": "Hyperbeln des Vorgebirges;"
@@ -25,13 +25,13 @@
             "text": "Die Amseln rufen vergeblich"
         },
         "line.6": {
-            "text": "Und plustern die Brste"
+            "text": "Und plustern die Br\u00fcste"
         },
         "line.7": {
             "text": "Gegen die Elstern, die strebsam"
         },
         "line.8": {
-            "text": "Die Nester leerrumen; und"
+            "text": "Die Nester leerr\u00e4umen; und"
         },
         "line.9": {
             "text": "Der Pirol federt scheu den schwarz-"
@@ -52,10 +52,10 @@
             "text": "Reist bedauernsvoll ab: im"
         },
         "line.15": {
-            "text": "Rcken die Herden der Hgel,"
+            "text": "R\u00fccken die Herden der H\u00fcgel,"
         },
         "line.16": {
-            "text": "Die der Trnke zugehn."
+            "text": "Die der Tr\u00e4nke zugehn."
         }
     }
 }

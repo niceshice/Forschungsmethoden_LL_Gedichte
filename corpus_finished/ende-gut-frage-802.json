@@ -8,13 +8,13 @@
     "author": "Michael Lentz",
     "poem": {
         "line.1": {
-            "text": "kann ich irgendetwas fr dich tun."
+            "text": "kann ich irgendetwas f\u00fcr dich tun."
         },
         "line.2": {
-            "text": "kann ich etwas fr dich tun."
+            "text": "kann ich etwas f\u00fcr dich tun."
         },
         "line.3": {
-            "text": "kann ich was fr dich tun."
+            "text": "kann ich was f\u00fcr dich tun."
         },
         "line.4": {
             "text": "kann ich was tun."
@@ -26,28 +26,28 @@
             "text": "kann ich."
         },
         "line.7": {
-            "text": "kann ich fr dich ich mein fr dich."
+            "text": "kann ich f\u00fcr dich ich mein f\u00fcr dich."
         },
         "line.8": {
-            "text": "kann ich mein fr dich was."
+            "text": "kann ich mein f\u00fcr dich was."
         },
         "line.9": {
             "text": "kann ich da was tun."
         },
         "line.10": {
-            "text": "kann ich was tun mein ich da fr dich so gehts nicht."
+            "text": "kann ich was tun mein ich da f\u00fcr dich so gehts nicht."
         },
         "line.11": {
-            "text": "kann ich irgendetwas anderes fr dich tun."
+            "text": "kann ich irgendetwas anderes f\u00fcr dich tun."
         },
         "line.12": {
-            "text": "kann ich irgendetwas anderes ich mein was dir spa macht."
+            "text": "kann ich irgendetwas anderes ich mein was dir spa\u00df macht."
         },
         "line.13": {
-            "text": "kann ich ich meine kann ich dir mal eine frage stellen die dir spa macht."
+            "text": "kann ich ich meine kann ich dir mal eine frage stellen die dir spa\u00df macht."
         },
         "line.14": {
-            "text": "kann ich mal eine frage fr dich stellen die so richtig spa macht."
+            "text": "kann ich mal eine frage f\u00fcr dich stellen die so richtig spa\u00df macht."
         },
         "line.15": {
             "text": "oder soll ich das lieber nicht tun."
@@ -83,16 +83,16 @@
             "text": "was ist denn eigentlich hiermit los."
         },
         "line.26": {
-            "text": "was ist denn das hier fr ein saustall."
+            "text": "was ist denn das hier f\u00fcr ein saustall."
         },
         "line.27": {
             "text": "so gehts aber wirklich nicht."
         },
         "line.28": {
-            "text": "so macht das keinen spa hier."
+            "text": "so macht das keinen spa\u00df hier."
         },
         "line.29": {
-            "text": "was liegen denn da fr leichen rum."
+            "text": "was liegen denn da f\u00fcr leichen rum."
         },
         "line.30": {
             "text": "das stinkt ja zum himmel."
@@ -107,13 +107,13 @@
             "text": "das ist ja offenbar eine zumutung."
         },
         "line.34": {
-            "text": "was liegen denn da fr verwilderte leichen rum."
+            "text": "was liegen denn da f\u00fcr verwilderte leichen rum."
         },
         "line.35": {
             "text": "was liegen die da denn rum wenn ich mal fragen darf."
         },
         "line.36": {
-            "text": "die gehren doch nicht da so rum. die gehren doch in den abfall."
+            "text": "die geh\u00f6ren doch nicht da so rum. die geh\u00f6ren doch in den abfall."
         },
         "line.37": {
             "text": "die sind doch tot wenn ich mal fragen darf."
@@ -131,13 +131,13 @@
             "text": "das sind doch anderer leuts leichen wenn ich mal fragen darf."
         },
         "line.42": {
-            "text": "die gehren doch verboten hier."
+            "text": "die geh\u00f6ren doch verboten hier."
         },
         "line.43": {
-            "text": "die gehren doch in anderer leuts abfall."
+            "text": "die geh\u00f6ren doch in anderer leuts abfall."
         },
         "line.44": {
-            "text": "die gehren doch in die wste."
+            "text": "die geh\u00f6ren doch in die w\u00fcste."
         },
         "line.45": {
             "text": "das ist doch keine welt hier."
@@ -146,7 +146,7 @@
             "text": "das ist doch eine verdrehung."
         },
         "line.47": {
-            "text": "eine tuschung."
+            "text": "eine t\u00e4uschung."
         },
         "line.48": {
             "text": "eine maske."
@@ -173,19 +173,19 @@
             "text": "das ist doch wohl ein witz wenn ich mal fragen kann."
         },
         "line.56": {
-            "text": "das verjhrt sich doch oder"
+            "text": "das verj\u00e4hrt sich doch oder"
         },
         "line.57": {
-            "text": "das hrt doch mal auf wann oder"
+            "text": "das h\u00f6rt doch mal auf wann oder"
         },
         "line.58": {
             "text": "das ergibt sich doch wohl selber oder"
         },
         "line.59": {
-            "text": "da mu man doch nicht lange fragen oder"
+            "text": "da mu\u00df man doch nicht lange fragen oder"
         },
         "line.60": {
-            "text": "das hrt doch alles auf."
+            "text": "das h\u00f6rt doch alles auf."
         },
         "line.61": {
             "text": "das geht aber auch gar nichts."
