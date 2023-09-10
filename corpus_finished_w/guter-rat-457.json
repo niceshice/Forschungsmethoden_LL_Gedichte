@@ -1,0 +1,23 @@
+{
+    "title": "guter-rat-457",
+    "gender": "w",
+    "author": "Jutta Richter",
+    "author_birth": "1955",
+    "poem": {
+        "line.1": {
+            "text": "Das Wünschen hilft,"
+        },
+        "line.2": {
+            "text": "wenn man fest will."
+        },
+        "line.3": {
+            "text": "Nur eines mußt du wissen:"
+        },
+        "line.4": {
+            "text": "Versuche nie, aus einem Frosch"
+        },
+        "line.5": {
+            "text": "den Prinzen herauszuküssen."
+        }
+    }
+}

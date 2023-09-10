@@ -1,0 +1,323 @@
+{
+    "title": "sand-3630",
+    "gender": "m",
+    "author": "Franz Xaver  Kroetz",
+    "author_birth": "1946",
+    "poem": {
+        "line.1": {
+            "text": "Über Puri,"
+        },
+        "line.2": {
+            "text": "der Heiligen,"
+        },
+        "line.3": {
+            "text": "geht die Sonne zum Meer."
+        },
+        "line.4": {
+            "text": "Die Fischer ziehen"
+        },
+        "line.5": {
+            "text": "die Boote ins Wasser."
+        },
+        "line.6": {
+            "text": "Alle zusammen fischen"
+        },
+        "line.7": {
+            "text": "sie mit einem Netz."
+        },
+        "line.8": {
+            "text": "Bis morgen früh"
+        },
+        "line.9": {
+            "text": "bleiben sie draußen."
+        },
+        "line.10": {
+            "text": "Wie die Sprossen"
+        },
+        "line.11": {
+            "text": "einer langen Leiter"
+        },
+        "line.12": {
+            "text": "säumen ihre baumschweren Boote"
+        },
+        "line.13": {
+            "text": "den gelben Sand."
+        },
+        "line.14": {
+            "text": "Stehend rudern sie"
+        },
+        "line.15": {
+            "text": "durch die Uferwellen."
+        },
+        "line.16": {
+            "text": "Die großen Schiffe, sagt einer"
+        },
+        "line.17": {
+            "text": "und deutet mit schwarzer Hand hinaus,"
+        },
+        "line.18": {
+            "text": "fischen unser Wasser leer."
+        },
+        "line.19": {
+            "text": "Ich höre, daß der Fischerkrieg"
+        },
+        "line.20": {
+            "text": "letztes Jahr 10 Tote forderte."
+        },
+        "line.21": {
+            "text": "Schwarze, schmale Leiber,"
+        },
+        "line.22": {
+            "text": "die das Meer tagelang"
+        },
+        "line.23": {
+            "text": "bei sich behielt, und dann"
+        },
+        "line.24": {
+            "text": "fünf Kilometer südlich"
+        },
+        "line.25": {
+            "text": "in den Sand legte."
+        },
+        "line.26": {
+            "text": "Feierlich wurden"
+        },
+        "line.27": {
+            "text": "sie heimgetragen,"
+        },
+        "line.28": {
+            "text": "und das Feuer unter"
+        },
+        "line.29": {
+            "text": "ihnen brannte"
+        },
+        "line.30": {
+            "text": "drei Nächte lang."
+        },
+        "line.31": {
+            "text": "Neben uns"
+        },
+        "line.32": {
+            "text": "scheißt derweil"
+        },
+        "line.33": {
+            "text": "ein anderer"
+        },
+        "line.34": {
+            "text": "gemächlich"
+        },
+        "line.35": {
+            "text": "in den gleichen Sand"
+        },
+        "line.36": {
+            "text": "einen kleinen, festen Haufen."
+        },
+        "line.37": {
+            "text": "Kein Dünnschiß,"
+        },
+        "line.38": {
+            "text": "der mich plagt."
+        },
+        "line.39": {
+            "text": "Mit Meerwasser wischt er"
+        },
+        "line.40": {
+            "text": "den Arsch, bindet"
+        },
+        "line.41": {
+            "text": "den Lendenschurz"
+        },
+        "line.42": {
+            "text": "und geht."
+        },
+        "line.43": {
+            "text": "Kinder lachen und betteln."
+        },
+        "line.44": {
+            "text": "Ich gebe nichts, geh weiter."
+        },
+        "line.45": {
+            "text": "Ich komm nicht vorwärts."
+        },
+        "line.46": {
+            "text": "Drei Tage vor Abreise"
+        },
+        "line.47": {
+            "text": "holt mich die Heimat ein."
+        },
+        "line.48": {
+            "text": "Naziland, ich komm."
+        },
+        "line.49": {
+            "text": "Wieder ist die Reisetasche"
+        },
+        "line.50": {
+            "text": "voll mit Manuskripten."
+        },
+        "line.51": {
+            "text": "Schreiben, schreiben."
+        },
+        "line.52": {
+            "text": "Warum?"
+        },
+        "line.53": {
+            "text": "Die hier können nicht lesen."
+        },
+        "line.54": {
+            "text": "Denen hab ich"
+        },
+        "line.55": {
+            "text": "nichts zu sagen."
+        },
+        "line.56": {
+            "text": "Und daheim?"
+        },
+        "line.57": {
+            "text": "Was ich in den letzten"
+        },
+        "line.58": {
+            "text": "3 Jahren daheim"
+        },
+        "line.59": {
+            "text": "publiziert hab,"
+        },
+        "line.60": {
+            "text": "wäre es nicht genug,"
+        },
+        "line.61": {
+            "text": "die Republik zu zerreißen,"
+        },
+        "line.62": {
+            "text": "zu erschüttern,"
+        },
+        "line.63": {
+            "text": "zu rühren bloß?"
+        },
+        "line.64": {
+            "text": "Meine Spur zu Hause,"
+        },
+        "line.65": {
+            "text": "wie die der Sandlaus"
+        },
+        "line.66": {
+            "text": "an meiner Ferse?"
+        },
+        "line.67": {
+            "text": "Nicht mehr schreiben?"
+        },
+        "line.68": {
+            "text": "Verstummen?"
+        },
+        "line.69": {
+            "text": "Still wie das Haifischmaul neben"
+        },
+        "line.70": {
+            "text": "dem Bambusblätterkral der Fischer?"
+        },
+        "line.71": {
+            "text": "Verspeist der Leib,"
+        },
+        "line.72": {
+            "text": "liegen gelassen der"
+        },
+        "line.73": {
+            "text": "ungenießbare Kopf"
+        },
+        "line.74": {
+            "text": "zwischen Scheißhaufen."
+        },
+        "line.75": {
+            "text": "Mein Kopf"
+        },
+        "line.76": {
+            "text": "daheim"
+        },
+        "line.77": {
+            "text": "genauso?"
+        },
+        "line.78": {
+            "text": "Weiterschreiben?"
+        },
+        "line.79": {
+            "text": "Kann ich noch?"
+        },
+        "line.80": {
+            "text": "Was will"
+        },
+        "line.81": {
+            "text": "immer wieder"
+        },
+        "line.82": {
+            "text": "in mir?"
+        },
+        "line.83": {
+            "text": "Wann steht das Kind"
+        },
+        "line.84": {
+            "text": "auf und verflucht"
+        },
+        "line.85": {
+            "text": "den Sandkasten?"
+        },
+        "line.86": {
+            "text": "Oder wird meinem kleinen Leib,"
+        },
+        "line.87": {
+            "text": "im Spielsand noch,"
+        },
+        "line.88": {
+            "text": "die Grube geschaufelt?"
+        },
+        "line.89": {
+            "text": "Kein Dichterkrieg mit Toten?"
+        },
+        "line.90": {
+            "text": "Daheim im Naziland,"
+        },
+        "line.91": {
+            "text": "wo die Flüsse zugefroren sind,"
+        },
+        "line.92": {
+            "text": "und die Herzen auch."
+        },
+        "line.93": {
+            "text": "Schweigen - die Antwort"
+        },
+        "line.94": {
+            "text": "für einen deutschen Dichter."
+        },
+        "line.95": {
+            "text": "Schweigen aus Deutschland?"
+        },
+        "line.96": {
+            "text": "Immer wieder,"
+        },
+        "line.97": {
+            "text": "bevor ich heimkehre,"
+        },
+        "line.98": {
+            "text": "Angst."
+        },
+        "line.99": {
+            "text": "Über Puri,"
+        },
+        "line.100": {
+            "text": "der Heiligen,"
+        },
+        "line.101": {
+            "text": "geht die Sonne zum Meer."
+        },
+        "line.102": {
+            "text": "Wenn der Mond aufgeht,"
+        },
+        "line.103": {
+            "text": "schaukeln die Boote"
+        },
+        "line.104": {
+            "text": "wie schwarze Holzscheite"
+        },
+        "line.105": {
+            "text": "im silbernen Wasser."
+        }
+    }
+}

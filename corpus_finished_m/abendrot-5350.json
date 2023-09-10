@@ -1,0 +1,23 @@
+{
+    "title": "abendrot-5350",
+    "gender": "m",
+    "author": "Mario Wirz",
+    "author_birth": "1956",
+    "poem": {
+        "line.1": {
+            "text": "die Sehnsucht"
+        },
+        "line.2": {
+            "text": "der Füchse"
+        },
+        "line.3": {
+            "text": "Abendrot"
+        },
+        "line.4": {
+            "text": "über"
+        },
+        "line.5": {
+            "text": "den Städten"
+        }
+    }
+}

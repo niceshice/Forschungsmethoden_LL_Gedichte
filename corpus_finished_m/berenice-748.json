@@ -1,0 +1,41 @@
+{
+    "title": "berenice-748",
+    "gender": "m",
+    "author": "Hendrik Rost",
+    "author_birth": "0",
+    "poem": {
+        "line.1": {
+            "text": "Den Booten geben sie Namen"
+        },
+        "line.2": {
+            "text": "unartiger Töchter, die an der Leine zerren,"
+        },
+        "line.3": {
+            "text": "um mit dem Wind zu tanzen"
+        },
+        "line.4": {
+            "text": "Der Sturm kommt, glaubt man,"
+        },
+        "line.5": {
+            "text": "was der Tag gestern versprochen hat,"
+        },
+        "line.6": {
+            "text": "die Sicht war so klar, sie verlor sich irgendwo"
+        },
+        "line.7": {
+            "text": "wie ein Interesse, das nie gestillt wurde,"
+        },
+        "line.8": {
+            "text": "ein Fischer schöpft Wasser aus der Bilge"
+        },
+        "line.9": {
+            "text": "des offenen Rumpfs, um auch nicht"
+        },
+        "line.10": {
+            "text": "einen Tag an Land zu verbringen,"
+        },
+        "line.11": {
+            "text": "wo Urlauber warten, was aus ihm wird."
+        }
+    }
+}

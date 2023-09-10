@@ -1,0 +1,29 @@
+{
+    "title": "ende-der-partie-2910",
+    "gender": "m",
+    "author": "Harald  Hartung",
+    "author_birth": "1932",
+    "poem": {
+        "line.1": {
+            "text": "Wir legen die Schmerzen ab (den Schmerz)"
+        },
+        "line.2": {
+            "text": "die Bitterkeiten (die Bitterkeit)"
+        },
+        "line.3": {
+            "text": "die Träume (den Traum)"
+        },
+        "line.4": {
+            "text": "und die Worte (das Wort)"
+        },
+        "line.5": {
+            "text": "jene Karte die endlich"
+        },
+        "line.6": {
+            "text": "zeitlupenhaft den ganzen Stapel"
+        },
+        "line.7": {
+            "text": "ins Rutschen bringt"
+        }
+    }
+}

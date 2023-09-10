@@ -1,0 +1,32 @@
+{
+    "title": "novembertag-22",
+    "gender": "m",
+    "author": "Hans Manz",
+    "author_birth": "1931",
+    "poem": {
+        "line.1": {
+            "text": "Nebel,"
+        },
+        "line.2": {
+            "text": "der alles verschlingt:"
+        },
+        "line.3": {
+            "text": "Jedes Haus, jeden Baum, jeden Strauch."
+        },
+        "line.4": {
+            "text": "Ein Kind schreit vom Balkon:"
+        },
+        "line.5": {
+            "text": "Bin allein,"
+        },
+        "line.6": {
+            "text": "endlich allein auf der Welt!"
+        },
+        "line.7": {
+            "text": "Und aus dem Nebel die Antwort:"
+        },
+        "line.8": {
+            "text": "Ich auch!"
+        }
+    }
+}

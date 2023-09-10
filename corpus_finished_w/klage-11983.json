@@ -1,0 +1,20 @@
+{
+    "title": "klage-11983",
+    "gender": "w",
+    "author": "Carolin Callies",
+    "author_birth": "1980",
+    "poem": {
+        "line.1": {
+            "text": "sei nicht kläglich, sei nicht mäklig, sag nur: wolltest du es so?"
+        },
+        "line.2": {
+            "text": "ist ein kröpfchen, ist ein zöpfchen & wir mühten uns nicht drum."
+        },
+        "line.3": {
+            "text": "frag die kuh dort, frag die milch dort & wir kämmten sie uns ein."
+        },
+        "line.4": {
+            "text": "in die haare, in die klage, in ein frühchen ende mai."
+        }
+    }
+}

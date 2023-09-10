@@ -1,0 +1,20 @@
+{
+    "title": "bauernzart-2960",
+    "gender": "w",
+    "author": "Nora Gomringer",
+    "author_birth": "1980",
+    "poem": {
+        "line.1": {
+            "text": "Das Kalb geht die Nacht ein"
+        },
+        "line.2": {
+            "text": "Ich schlaf draußen im Stall"
+        },
+        "line.3": {
+            "text": "Hier, die Suppen is in der Kanna"
+        },
+        "line.4": {
+            "text": "Geh fei ins Bett, morgen müss ma naus"
+        }
+    }
+}

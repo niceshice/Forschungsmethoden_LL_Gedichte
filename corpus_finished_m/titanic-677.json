@@ -1,0 +1,38 @@
+{
+    "title": "titanic-677",
+    "gender": "m",
+    "author": "Jürg Schubiger",
+    "author_birth": "1936",
+    "poem": {
+        "line.1": {
+            "text": "Mein Schiffchen Titanic"
+        },
+        "line.2": {
+            "text": "ist klein, aber leck,"
+        },
+        "line.3": {
+            "text": "hat einen Hack, einen Hick"
+        },
+        "line.4": {
+            "text": "am Bug und am Heck."
+        },
+        "line.5": {
+            "text": "Es geht in Saus und Braus,"
+        },
+        "line.6": {
+            "text": "es geht mit Mann und Maus,"
+        },
+        "line.7": {
+            "text": "es geht mit Maus und Speck"
+        },
+        "line.8": {
+            "text": "und mit der Katze Kunter-"
+        },
+        "line.9": {
+            "text": "bunt"
+        },
+        "line.10": {
+            "text": "unter"
+        }
+    }
+}

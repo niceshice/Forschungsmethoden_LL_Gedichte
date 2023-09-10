@@ -1,0 +1,32 @@
+{
+    "title": "das-681",
+    "gender": "m",
+    "author": "Jürg Schubiger",
+    "author_birth": "1936",
+    "poem": {
+        "line.1": {
+            "text": "Der Schnee fällt leicht und licht,"
+        },
+        "line.2": {
+            "text": "als fiele er gar nicht,"
+        },
+        "line.3": {
+            "text": "aufs grüne, graue Gras,"
+        },
+        "line.4": {
+            "text": "tut weiter nichts als das."
+        },
+        "line.5": {
+            "text": "Er fällt mir ins Gesicht,"
+        },
+        "line.6": {
+            "text": "er fällt und sieht mich nicht."
+        },
+        "line.7": {
+            "text": "Er ist aus leisem Glas,"
+        },
+        "line.8": {
+            "text": "und weiter nichts als das."
+        }
+    }
+}

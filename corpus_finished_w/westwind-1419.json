@@ -1,0 +1,38 @@
+{
+    "title": "westwind-1419",
+    "gender": "w",
+    "author": "Christine Nöstlinger",
+    "author_birth": "1936",
+    "poem": {
+        "line.1": {
+            "text": "War einmal einer,"
+        },
+        "line.2": {
+            "text": "den liebte keiner."
+        },
+        "line.3": {
+            "text": "Schrieb er auf ein Blatt Papier:"
+        },
+        "line.4": {
+            "text": "Bin einsam! Wer ist nett zu mir?"
+        },
+        "line.5": {
+            "text": "Faltete einen Flieger daraus,"
+        },
+        "line.6": {
+            "text": "warf ihn zum Fenster hinaus."
+        },
+        "line.7": {
+            "text": "Westwind trug ihn zum Wald,"
+        },
+        "line.8": {
+            "text": "fand ihn ein Häschen bald."
+        },
+        "line.9": {
+            "text": "Wär zur Liebe bereit gewesen,"
+        },
+        "line.10": {
+            "text": "konnt aber leider nicht lesen."
+        }
+    }
+}

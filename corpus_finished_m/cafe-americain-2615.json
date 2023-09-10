@@ -1,0 +1,38 @@
+{
+    "title": "cafe-americain-2615",
+    "gender": "m",
+    "author": "Werner Söllner",
+    "author_birth": "1951",
+    "poem": {
+        "line.1": {
+            "text": "In einer Zeitung"
+        },
+        "line.2": {
+            "text": "heute, als ich dem Herrgott"
+        },
+        "line.3": {
+            "text": "die Zeit stahl, las ich"
+        },
+        "line.4": {
+            "text": "nach langer Zeit"
+        },
+        "line.5": {
+            "text": "meinen Namen."
+        },
+        "line.6": {
+            "text": "Sieh einer"
+        },
+        "line.7": {
+            "text": "an, dachte ich"
+        },
+        "line.8": {
+            "text": "und bezahlte. Es"
+        },
+        "line.9": {
+            "text": "gibt nicht nur"
+        },
+        "line.10": {
+            "text": "die Medien."
+        }
+    }
+}

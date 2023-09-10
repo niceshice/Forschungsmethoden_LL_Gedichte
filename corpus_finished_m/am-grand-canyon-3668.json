@@ -1,0 +1,32 @@
+{
+    "title": "am-grand-canyon-3668",
+    "gender": "m",
+    "author": "Günter  Kunert",
+    "author_birth": "1929",
+    "poem": {
+        "line.1": {
+            "text": "Wie Adler sind wir dort geflogen,"
+        },
+        "line.2": {
+            "text": "die Blicke abwärts, tief in das Gestein,"
+        },
+        "line.3": {
+            "text": "durch das der Colorado seine Kluft gezogen:"
+        },
+        "line.4": {
+            "text": "So dringt man langsam in die Erde ein."
+        },
+        "line.5": {
+            "text": "Millennien zahllos bis entstanden"
+        },
+        "line.6": {
+            "text": "ein selbstgeschaffnes Monument"
+        },
+        "line.7": {
+            "text": "der Macht, für die wir nicht vorhanden."
+        },
+        "line.8": {
+            "text": "Und die daher kein rechter Name nennt."
+        }
+    }
+}

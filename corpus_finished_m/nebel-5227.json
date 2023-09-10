@@ -1,0 +1,38 @@
+{
+    "title": "nebel-5227",
+    "gender": "m",
+    "author": "Franz Hodjak",
+    "author_birth": "1944",
+    "poem": {
+        "line.1": {
+            "text": "Bei diesem Nebel kann man bloß"
+        },
+        "line.2": {
+            "text": "froh sein, daß man keine Flügel hat,"
+        },
+        "line.3": {
+            "text": "also"
+        },
+        "line.4": {
+            "text": "auch nicht kollidieren könnte"
+        },
+        "line.5": {
+            "text": "mit etwas, das gerade abgestellt wird im Museum"
+        },
+        "line.6": {
+            "text": "der Illusionen. Man hört zwar"
+        },
+        "line.7": {
+            "text": "Stimmen, irgendwo oben, aber man kann"
+        },
+        "line.8": {
+            "text": "nichts sehen, mit dem man"
+        },
+        "line.9": {
+            "text": "kollidieren könnte,"
+        },
+        "line.10": {
+            "text": "weil man ja keine Flügel hat."
+        }
+    }
+}

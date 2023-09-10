@@ -1,0 +1,44 @@
+{
+    "title": "luise-1231",
+    "gender": "m",
+    "author": "Ernst Jandl",
+    "author_birth": "1925",
+    "poem": {
+        "line.1": {
+            "text": "ich erinnere mich dunkel: ich war dunkel"
+        },
+        "line.2": {
+            "text": "und wollte einen dunklen mann."
+        },
+        "line.3": {
+            "text": "er war blond und wollte eine blonde frau."
+        },
+        "line.4": {
+            "text": "ich erinnere mich genau wie blond er war"
+        },
+        "line.5": {
+            "text": "ich erinnere mich dunkel: er war blond"
+        },
+        "line.6": {
+            "text": "und wollte eine blonde frau."
+        },
+        "line.7": {
+            "text": "ich war dunkel und hatte einen mann der blond war."
+        },
+        "line.8": {
+            "text": "ich erinnere mich genau wie blond er war"
+        },
+        "line.9": {
+            "text": "ich erinnere mich dunkel: weil ich dunkel war"
+        },
+        "line.10": {
+            "text": "wollte ich einen dunklen mann."
+        },
+        "line.11": {
+            "text": "er war blond doch er hatte eine frau die war dunkel."
+        },
+        "line.12": {
+            "text": "ich erinnere mich genau wie dunkel ich war."
+        }
+    }
+}

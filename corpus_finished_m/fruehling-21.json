@@ -1,0 +1,53 @@
+{
+    "title": "fruehling-21",
+    "gender": "m",
+    "author": "Hans Manz",
+    "author_birth": "1931",
+    "poem": {
+        "line.1": {
+            "text": "Die Knospen knospen und sind schon wach,"
+        },
+        "line.2": {
+            "text": "die Keime keimen noch schüchtern und schwach,"
+        },
+        "line.3": {
+            "text": "die Weiden weiden das Gras ab am Bach."
+        },
+        "line.4": {
+            "text": "Die Bäume baumeln (das ist ihre Pflicht),"
+        },
+        "line.5": {
+            "text": "Die Sträucher straucheln im Dämmerlicht,"
+        },
+        "line.6": {
+            "text": "die Stämme stammeln ein Frühlingsgedicht."
+        },
+        "line.7": {
+            "text": "Die Hecke heckt neue Streiche aus,"
+        },
+        "line.8": {
+            "text": "der Rasen rast wie rasend ums Haus,"
+        },
+        "line.9": {
+            "text": "der Krokus kroküßt die Haselmaus."
+        },
+        "line.10": {
+            "text": "Die Drossel erdrosselt den Regenwurm,"
+        },
+        "line.11": {
+            "text": "das Rebschoß erschoß nachts die Reblaus im Turm,"
+        },
+        "line.12": {
+            "text": "drum erlaubt sich das Laub ein Tänzchen im Sturm."
+        },
+        "line.13": {
+            "text": "Es himmelt der Himmel ein Wölklein an,"
+        },
+        "line.14": {
+            "text": "es windet der Wind sich durch Löwenzahn,"
+        },
+        "line.15": {
+            "text": "und bereits blättern Blätter im Sommerfahrplan."
+        }
+    }
+}

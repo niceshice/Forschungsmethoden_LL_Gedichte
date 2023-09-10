@@ -1,0 +1,29 @@
+{
+    "title": "rege-12374",
+    "gender": "w",
+    "author": "Sonja vom Brocke",
+    "author_birth": "1980",
+    "poem": {
+        "line.1": {
+            "text": "rege zehrendes Ätz"
+        },
+        "line.2": {
+            "text": "der Teutonenonyx von vorn, so ein Wid(d)er-"
+        },
+        "line.3": {
+            "text": "schnittiger Teiler"
+        },
+        "line.4": {
+            "text": "zage Schmäh, ohne Schatz"
+        },
+        "line.5": {
+            "text": "sein Lavieren."
+        },
+        "line.6": {
+            "text": "Was die Windelhippe erzürnt"
+        },
+        "line.7": {
+            "text": "dem Onyxteuton ein Ohrloch zu beißen"
+        }
+    }
+}

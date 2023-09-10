@@ -1,0 +1,35 @@
+{
+    "title": "das-ist-der-winter-11063",
+    "gender": "m",
+    "author": "Kerstin Preiwuß",
+    "author_birth": "1980",
+    "poem": {
+        "line.1": {
+            "text": "Das ist der Winter."
+        },
+        "line.2": {
+            "text": "Jeder Baum ein Schneegesteck."
+        },
+        "line.3": {
+            "text": "Jeder Ast eine Korallenhand."
+        },
+        "line.4": {
+            "text": "Ein Blatt wie ein Löwenkopf"
+        },
+        "line.5": {
+            "text": "dreht sich leicht um ein Vogelnest."
+        },
+        "line.6": {
+            "text": "Der Löwe lauert seinem Sternbild auf."
+        },
+        "line.7": {
+            "text": "Ein Ast fährt die Krallen aus."
+        },
+        "line.8": {
+            "text": "Schnee liegt auf allem."
+        },
+        "line.9": {
+            "text": "Wind geht durch die Korallen."
+        }
+    }
+}

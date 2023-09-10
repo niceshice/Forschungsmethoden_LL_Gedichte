@@ -1,0 +1,56 @@
+{
+    "title": "auszuege-eines-schattenkatalogs-12025",
+    "gender": "m",
+    "author": "Tristan Marquardt",
+    "author_birth": "1987",
+    "poem": {
+        "line.1": {
+            "text": "deckschatten"
+        },
+        "line.2": {
+            "text": "form von schatten, die bei dunkelheit in lichtkegeln auftritt. trägt auf die schicht licht, die eine lichtquelle auf die dunkelheit gelegt hat, eine weitere schicht dunkelheit auf."
+        },
+        "line.3": {
+            "text": "abschatten"
+        },
+        "line.4": {
+            "text": "tritt ebendort auf, funktioniert aber genau umgekehrt: negiert das licht und macht die darunter liegende schicht dunkelheit wieder sichtbar."
+        },
+        "line.5": {
+            "text": "hubschatten"
+        },
+        "line.6": {
+            "text": "positive variante des abschattens. negiert das licht nicht, sondern hebt die dunkheit unter dem licht hervor. bei hubschatten wechseln licht und dunkelheit die seiten."
+        },
+        "line.7": {
+            "text": "kehrschatten"
+        },
+        "line.8": {
+            "text": "rückseite eines schattens, die nur von jenen (dingen) wahrgenommen werden kann, auf die der schatten fällt."
+        },
+        "line.9": {
+            "text": "schattenschatten"
+        },
+        "line.10": {
+            "text": "schatten, den ein schatten wirft."
+        },
+        "line.11": {
+            "text": "möglichkeitsschatten"
+        },
+        "line.12": {
+            "text": "ist im fall kompletter dunkelheit jener schatten, der sichtbar würde, wenn es nicht dunkel wäre."
+        },
+        "line.13": {
+            "text": "schattenspur"
+        },
+        "line.14": {
+            "text": "vergangenheitsform eines schattens."
+        },
+        "line.15": {
+            "text": "schattenheit"
+        },
+        "line.16": {
+            "text": "form von dunkelheit, die nicht durch die allgemeine abwesenheit von licht entsteht, sondern durch eine so große häufung an schatten, dass jeder ort, an dem licht sichtbar werden könnte, ausbleibt. bei schattenheit ist das licht zwar anwesend, kommt aber nicht zum ausdruck."
+        }
+    }
+}

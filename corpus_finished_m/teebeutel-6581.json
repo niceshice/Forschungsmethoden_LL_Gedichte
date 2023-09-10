@@ -1,0 +1,32 @@
+{
+    "title": "teebeutel-6581",
+    "gender": "m",
+    "author": "Jan Wagner",
+    "author_birth": "1971",
+    "poem": {
+        "line.1": {
+            "text": "I"
+        },
+        "line.2": {
+            "text": "nur in sackleinen"
+        },
+        "line.3": {
+            "text": "gehüllt. kleiner eremit"
+        },
+        "line.4": {
+            "text": "in seiner höhle."
+        },
+        "line.5": {
+            "text": "II"
+        },
+        "line.6": {
+            "text": "nichts als ein faden"
+        },
+        "line.7": {
+            "text": "führt nach oben. wir geben"
+        },
+        "line.8": {
+            "text": "ihm fünf minuten."
+        }
+    }
+}

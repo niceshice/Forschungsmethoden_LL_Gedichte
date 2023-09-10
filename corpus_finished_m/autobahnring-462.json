@@ -1,0 +1,26 @@
+{
+    "title": "autobahnring-462",
+    "gender": "m",
+    "author": "Jürgen Becker",
+    "author_birth": "1932",
+    "poem": {
+        "line.1": {
+            "text": "Hochblickend, die Kette der Kraniche,"
+        },
+        "line.2": {
+            "text": "sie wechselt gerade die Keilspitze aus,"
+        },
+        "line.3": {
+            "text": "die Flugrichtung bleibt, die Geschwindigkeit"
+        },
+        "line.4": {
+            "text": "ändert sich nicht, einige schreien, dann"
+        },
+        "line.5": {
+            "text": "schreien andere, die Kette entfernt sich zwischen"
+        },
+        "line.6": {
+            "text": "den Städten, die still sind in der Luft."
+        }
+    }
+}

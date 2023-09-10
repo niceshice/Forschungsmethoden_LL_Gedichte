@@ -1,0 +1,41 @@
+{
+    "title": "wunsch-5253",
+    "gender": "m",
+    "author": "Fuad Rifka (فؤاد رفقة)",
+    "author_birth": "2011",
+    "poem": {
+        "line.1": {
+            "text": "Er träumt"
+        },
+        "line.2": {
+            "text": "eine Wolke"
+        },
+        "line.3": {
+            "text": "hinter den Wolken zu sein,"
+        },
+        "line.4": {
+            "text": "eine Quelle hinter den Quellen,"
+        },
+        "line.5": {
+            "text": "ein Stern hinter den Sternen,"
+        },
+        "line.6": {
+            "text": "eine Träne hinter den Tränen,"
+        },
+        "line.7": {
+            "text": "ein Weg hinter den Wegen,"
+        },
+        "line.8": {
+            "text": "eine Sprache hinter den Sprachen."
+        },
+        "line.9": {
+            "text": "Er träumt"
+        },
+        "line.10": {
+            "text": "eine Frage zu sein"
+        },
+        "line.11": {
+            "text": "hinter den Fragen."
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "title": "schwierige-entscheidung-1435",
+    "gender": "m",
+    "author": "Paul Maar",
+    "author_birth": "1937",
+    "poem": {
+        "line.1": {
+            "text": "Ein Maulwurf und zwei Meisen"
+        },
+        "line.2": {
+            "text": "beschlossen zu verreisen"
+        },
+        "line.3": {
+            "text": "nach Salzburg oder Gießen."
+        },
+        "line.4": {
+            "text": "Ob sie dabei zu Fuß gehen sollen"
+        },
+        "line.5": {
+            "text": "oder aber fliegen wollen"
+        },
+        "line.6": {
+            "text": "das müssen sie noch beschließen!"
+        }
+    }
+}

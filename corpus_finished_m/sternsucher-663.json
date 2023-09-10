@@ -1,0 +1,29 @@
+{
+    "title": "sternsucher-663",
+    "gender": "m",
+    "author": "Uwe Kolbe",
+    "author_birth": "1957",
+    "poem": {
+        "line.1": {
+            "text": "Der, hör ich, nachts aus dem Haus geht"
+        },
+        "line.2": {
+            "text": "und, seh ich, hoch in den Himmel schaut,"
+        },
+        "line.3": {
+            "text": "den, weiß ich, eine sehr gerne mal träfe,"
+        },
+        "line.4": {
+            "text": "doch, sagt sie, so wie es aussieht,"
+        },
+        "line.5": {
+            "text": "der, klagt sie, schaut doch immer nur hoch"
+        },
+        "line.6": {
+            "text": "und, denkt sie, niemals in mein Gesicht."
+        },
+        "line.7": {
+            "text": "So, mein Freund, findest du nie deinen Stern."
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "title": "der-wolf-3932",
+    "gender": "m",
+    "author": "SAID",
+    "author_birth": "1947",
+    "poem": {
+        "line.1": {
+            "text": "der wolf"
+        },
+        "line.2": {
+            "text": "brachte die sprache auf deine augen"
+        },
+        "line.3": {
+            "text": "und ihre landschaften"
+        },
+        "line.4": {
+            "text": "ausgeraubt von meinen küssen"
+        },
+        "line.5": {
+            "text": "dein leib"
+        },
+        "line.6": {
+            "text": "aus treue zum licht abtrünnig geworden"
+        },
+        "line.7": {
+            "text": "verdingt sich beim vorbeiziehenden herbst"
+        }
+    }
+}

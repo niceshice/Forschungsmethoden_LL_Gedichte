@@ -1,0 +1,53 @@
+{
+    "title": "sakura-14143",
+    "gender": "m",
+    "author": "Nicolai Kobus",
+    "author_birth": "1968",
+    "poem": {
+        "line.1": {
+            "text": "vom winter noch blind"
+        },
+        "line.2": {
+            "text": "über nacht hat der hügel"
+        },
+        "line.3": {
+            "text": "die stirn sich geschminkt"
+        },
+        "line.4": {
+            "text": "das fieber sinkt wie nebel"
+        },
+        "line.5": {
+            "text": "sacht in kargen boden"
+        },
+        "line.6": {
+            "text": "die bäume sind ohne schatten"
+        },
+        "line.7": {
+            "text": "in den ästen verfängt sich die angst"
+        },
+        "line.8": {
+            "text": "vor dem abend das weiß ist aus blut"
+        },
+        "line.9": {
+            "text": "und wasser gemischt der atem"
+        },
+        "line.10": {
+            "text": "eine geschmiedete klinge"
+        },
+        "line.11": {
+            "text": "schneidet das mondlicht in scheiben"
+        },
+        "line.12": {
+            "text": "die liegen wie augen im gras"
+        },
+        "line.13": {
+            "text": "bis morgen dann fällt"
+        },
+        "line.14": {
+            "text": "an den trockenen hängen"
+        },
+        "line.15": {
+            "text": "drei tage lang schnee"
+        }
+    }
+}

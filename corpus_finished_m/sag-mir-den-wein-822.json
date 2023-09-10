@@ -1,0 +1,26 @@
+{
+    "title": "sag-mir-den-wein-822",
+    "gender": "m",
+    "author": "Christian Loidl",
+    "author_birth": "1957",
+    "poem": {
+        "line.1": {
+            "text": "sag mir den wein"
+        },
+        "line.2": {
+            "text": "mit dem ich deine"
+        },
+        "line.3": {
+            "text": "asche"
+        },
+        "line.4": {
+            "text": "mischen soll:"
+        },
+        "line.5": {
+            "text": "ich werd ihn trinken"
+        },
+        "line.6": {
+            "text": "für Marc Adrian"
+        }
+    }
+}

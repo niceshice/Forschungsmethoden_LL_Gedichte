@@ -1,0 +1,26 @@
+{
+    "title": "untergehn-821",
+    "gender": "m",
+    "author": "Christian Loidl",
+    "author_birth": "1957",
+    "poem": {
+        "line.1": {
+            "text": "untergehn"
+        },
+        "line.2": {
+            "text": "wie mein mund"
+        },
+        "line.3": {
+            "text": "in deinen haaren"
+        },
+        "line.4": {
+            "text": "wie mein mund"
+        },
+        "line.5": {
+            "text": "in deinen haaren"
+        },
+        "line.6": {
+            "text": "untergehn"
+        }
+    }
+}

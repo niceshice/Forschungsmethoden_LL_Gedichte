@@ -1,0 +1,38 @@
+{
+    "title": "wer-wohl-1433",
+    "gender": "m",
+    "author": "Paul Maar",
+    "author_birth": "1937",
+    "poem": {
+        "line.1": {
+            "text": "Wer trägt ein spitzes Horn"
+        },
+        "line.2": {
+            "text": "auf seiner Nase vorn?!"
+        },
+        "line.3": {
+            "text": "Der Wendehals?"
+        },
+        "line.4": {
+            "text": "Keinesfalls!"
+        },
+        "line.5": {
+            "text": "Der Pinguin?"
+        },
+        "line.6": {
+            "text": "Wo denkst du hin!"
+        },
+        "line.7": {
+            "text": "Das Stachelschwein?"
+        },
+        "line.8": {
+            "text": "Schon wieder nein!"
+        },
+        "line.9": {
+            "text": "Dann wird es wohl"
+        },
+        "line.10": {
+            "text": "das Nashorn sein."
+        }
+    }
+}

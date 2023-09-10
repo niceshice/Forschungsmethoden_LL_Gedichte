@@ -1,0 +1,38 @@
+{
+    "title": "b-o-h-u-m-i-l-255",
+    "gender": "m",
+    "author": "Walther Petri",
+    "author_birth": "1940",
+    "poem": {
+        "line.1": {
+            "text": "Bohumil"
+        },
+        "line.2": {
+            "text": "ist ein Zwerg"
+        },
+        "line.3": {
+            "text": "seine Mütze"
+        },
+        "line.4": {
+            "text": "ein Schnipsel"
+        },
+        "line.5": {
+            "text": "sein Ersparnis"
+        },
+        "line.6": {
+            "text": "ein Pfennig"
+        },
+        "line.7": {
+            "text": "sein Zimmer"
+        },
+        "line.8": {
+            "text": "eine Nuß"
+        },
+        "line.9": {
+            "text": "sein Wunsch"
+        },
+        "line.10": {
+            "text": "ein Kuß"
+        }
+    }
+}

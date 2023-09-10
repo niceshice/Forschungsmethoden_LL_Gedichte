@@ -1,0 +1,32 @@
+{
+    "title": "wenn-du-mich-anrufst-3725",
+    "gender": "m",
+    "author": "Peter Turrini",
+    "author_birth": "1944",
+    "poem": {
+        "line.1": {
+            "text": "Wenn du mich anrufst"
+        },
+        "line.2": {
+            "text": "läutet das Telefon."
+        },
+        "line.3": {
+            "text": "Die Lampe läutet."
+        },
+        "line.4": {
+            "text": "Der Ofen läutet."
+        },
+        "line.5": {
+            "text": "Das Zimmer läutet."
+        },
+        "line.6": {
+            "text": "Die Aussicht vor meinem Fenster läutet."
+        },
+        "line.7": {
+            "text": "Es läuten die Glocken der Befreiung"
+        },
+        "line.8": {
+            "text": "vom Warten."
+        }
+    }
+}

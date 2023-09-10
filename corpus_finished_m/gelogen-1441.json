@@ -1,0 +1,20 @@
+{
+    "title": "gelogen-1441",
+    "gender": "m",
+    "author": "Paul Maar",
+    "author_birth": "1937",
+    "poem": {
+        "line.1": {
+            "text": "Was du hier hörst,"
+        },
+        "line.2": {
+            "text": "ist kein Gedicht,"
+        },
+        "line.3": {
+            "text": "ist endlos lang"
+        },
+        "line.4": {
+            "text": "und reimt sich nicht."
+        }
+    }
+}

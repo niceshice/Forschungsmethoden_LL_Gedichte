@@ -1,0 +1,32 @@
+{
+    "title": "loewenzahn-1417",
+    "gender": "w",
+    "author": "Christine Nöstlinger",
+    "author_birth": "1936",
+    "poem": {
+        "line.1": {
+            "text": "Es war einmal ein großer, fetter Löwenzahn,"
+        },
+        "line.2": {
+            "text": "der lebte von Geburt an im irren Größenwahn,"
+        },
+        "line.3": {
+            "text": "auf Lebzeit gelbleuchtend im Grünen zu stehn"
+        },
+        "line.4": {
+            "text": "und seinem Pusteblumenschicksal zu entgehn."
+        },
+        "line.5": {
+            "text": "Sei nicht dumm, raschelte das Birkenlaub,"
+        },
+        "line.6": {
+            "text": "nächsten Sonntag wird dein Kopf zu Staub!"
+        },
+        "line.7": {
+            "text": "Doch der Löwenzahn rief empört der Birke zu:"
+        },
+        "line.8": {
+            "text": "Nein! Denn am Freitag frißt mich die Kuh!"
+        }
+    }
+}

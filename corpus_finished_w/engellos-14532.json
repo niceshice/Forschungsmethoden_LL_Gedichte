@@ -1,0 +1,26 @@
+{
+    "title": "engellos-14532",
+    "gender": "w",
+    "author": "Ruth Wolf-Rehfeldt",
+    "author_birth": "1932",
+    "poem": {
+        "line.1": {
+            "text": "In Mauern gezwängt"
+        },
+        "line.2": {
+            "text": "Mit Flügeln behängt"
+        },
+        "line.3": {
+            "text": "Mit Flügeln aus Stahlbeton"
+        },
+        "line.4": {
+            "text": "Der Himmel bleibt leer"
+        },
+        "line.5": {
+            "text": "Es erreicht ihn nichts mehr"
+        },
+        "line.6": {
+            "text": "Als ein ächzender, krächzender Song"
+        }
+    }
+}

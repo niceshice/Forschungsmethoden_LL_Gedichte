@@ -1,0 +1,68 @@
+{
+    "title": "zirkel-14531",
+    "gender": "w",
+    "author": "Ruth Wolf-Rehfeldt",
+    "author_birth": "1932",
+    "poem": {
+        "line.1": {
+            "text": "Ich will"
+        },
+        "line.2": {
+            "text": "was ich will"
+        },
+        "line.3": {
+            "text": "aber was ich will"
+        },
+        "line.4": {
+            "text": "kann ich nicht"
+        },
+        "line.5": {
+            "text": "Ich kann"
+        },
+        "line.6": {
+            "text": "was ich kann"
+        },
+        "line.7": {
+            "text": "aber was ich kann"
+        },
+        "line.8": {
+            "text": "soll ich nicht"
+        },
+        "line.9": {
+            "text": "Ich soll"
+        },
+        "line.10": {
+            "text": "was ich soll"
+        },
+        "line.11": {
+            "text": "aber was ich soll"
+        },
+        "line.12": {
+            "text": "maß ich nicht"
+        },
+        "line.13": {
+            "text": "Ich muß"
+        },
+        "line.14": {
+            "text": "was ich muß"
+        },
+        "line.15": {
+            "text": "aber was ich muß"
+        },
+        "line.16": {
+            "text": "darf ich nicht"
+        },
+        "line.17": {
+            "text": "Ich darf"
+        },
+        "line.18": {
+            "text": "was ich darf"
+        },
+        "line.19": {
+            "text": "aber was ich darf"
+        },
+        "line.20": {
+            "text": "will ich nicht"
+        }
+    }
+}

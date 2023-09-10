@@ -1,0 +1,35 @@
+{
+    "title": "abschiedslied-4292",
+    "gender": "w",
+    "author": "Brigitte Struzyk",
+    "author_birth": "1946",
+    "poem": {
+        "line.1": {
+            "text": "Wir ziehen uns an"
+        },
+        "line.2": {
+            "text": "Wir ziehen uns aus"
+        },
+        "line.3": {
+            "text": "Und oben leuchten die Sterne"
+        },
+        "line.4": {
+            "text": "Wir greifen uns ab"
+        },
+        "line.5": {
+            "text": "Wir greifen uns an"
+        },
+        "line.6": {
+            "text": "Und ziehen in die Ferne"
+        },
+        "line.7": {
+            "text": "Wir wenden uns um"
+        },
+        "line.8": {
+            "text": "Wir wenden uns ab"
+        },
+        "line.9": {
+            "text": "Und blieben doch so gerne"
+        }
+    }
+}

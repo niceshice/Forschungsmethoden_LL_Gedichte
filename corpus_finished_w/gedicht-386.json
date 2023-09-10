@@ -1,0 +1,38 @@
+{
+    "title": "gedicht-386",
+    "gender": "w",
+    "author": "Barbara Köhler",
+    "author_birth": "1959",
+    "poem": {
+        "line.1": {
+            "text": "ich nenne mich du weil der Abstand"
+        },
+        "line.2": {
+            "text": "so vergeht zwischen uns wie Haut"
+        },
+        "line.3": {
+            "text": "an Haut wir sind nicht"
+        },
+        "line.4": {
+            "text": "zu unterscheiden zu trennen eins"
+        },
+        "line.5": {
+            "text": "und das Andere die Grenze ist"
+        },
+        "line.6": {
+            "text": "die Verletzung der Übergang"
+        },
+        "line.7": {
+            "text": "eine offene Wunde du nennst mich"
+        },
+        "line.8": {
+            "text": "ich wer von uns beiden sagt"
+        },
+        "line.9": {
+            "text": "hier hast du ein Messer"
+        },
+        "line.10": {
+            "text": "mach meinen Schnitt."
+        }
+    }
+}

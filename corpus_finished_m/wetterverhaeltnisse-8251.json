@@ -1,0 +1,23 @@
+{
+    "title": "wetterverhaeltnisse-8251",
+    "gender": "m",
+    "author": "Ror Wolf",
+    "author_birth": "1932",
+    "poem": {
+        "line.1": {
+            "text": "es schneit, dann fällt der regen nieder,"
+        },
+        "line.2": {
+            "text": "dann schneit es, regnet es und schneit,"
+        },
+        "line.3": {
+            "text": "dann regnet es die ganze Zeit,"
+        },
+        "line.4": {
+            "text": "es regnet und dann schneit es wieder."
+        },
+        "line.5": {
+            "text": "1984"
+        }
+    }
+}

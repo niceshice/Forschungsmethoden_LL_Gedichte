@@ -1,0 +1,47 @@
+{
+    "title": "zeus-5343",
+    "gender": "m",
+    "author": "Mario Wirz",
+    "author_birth": "1956",
+    "poem": {
+        "line.1": {
+            "text": "Um dir zu gefallen"
+        },
+        "line.2": {
+            "text": "ahme ich Zeus nach"
+        },
+        "line.3": {
+            "text": "übermütig"
+        },
+        "line.4": {
+            "text": "trotze ich meinen Jahren"
+        },
+        "line.5": {
+            "text": "und springe"
+        },
+        "line.6": {
+            "text": "in jede Gestalt"
+        },
+        "line.7": {
+            "text": "die dich verführt"
+        },
+        "line.8": {
+            "text": "natürlich sind diese Verwandlungen"
+        },
+        "line.9": {
+            "text": "anstrengend"
+        },
+        "line.10": {
+            "text": "erschrocken schaust du"
+        },
+        "line.11": {
+            "text": "auf den ältlichen Fremden"
+        },
+        "line.12": {
+            "text": "der morgens im Bett"
+        },
+        "line.13": {
+            "text": "neben dir liegt"
+        }
+    }
+}

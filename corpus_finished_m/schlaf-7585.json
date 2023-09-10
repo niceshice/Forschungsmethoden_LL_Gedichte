@@ -1,0 +1,35 @@
+{
+    "title": "schlaf-7585",
+    "gender": "m",
+    "author": "Christian  Filips",
+    "author_birth": "1981",
+    "poem": {
+        "line.1": {
+            "text": "ein Gletscher, jahrtausendealt"
+        },
+        "line.2": {
+            "text": "meine Hand."
+        },
+        "line.3": {
+            "text": "Und in ihr ein Ziehn ... wohin?"
+        },
+        "line.4": {
+            "text": "Halt! Da-Greift etwas"
+        },
+        "line.5": {
+            "text": "Das"
+        },
+        "line.6": {
+            "text": "fühlt sich an"
+        },
+        "line.7": {
+            "text": "wie jeder"
+        },
+        "line.8": {
+            "text": "wie peitschendes"
+        },
+        "line.9": {
+            "text": "Leder wie Schnee"
+        }
+    }
+}

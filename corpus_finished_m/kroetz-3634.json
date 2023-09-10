@@ -1,0 +1,32 @@
+{
+    "title": "kroetz-3634",
+    "gender": "m",
+    "author": "Franz Xaver  Kroetz",
+    "author_birth": "1946",
+    "poem": {
+        "line.1": {
+            "text": "Wenn ich"
+        },
+        "line.2": {
+            "text": "ihn spiele"
+        },
+        "line.3": {
+            "text": "den Kroetz"
+        },
+        "line.4": {
+            "text": "bin ich"
+        },
+        "line.5": {
+            "text": "ganz gut"
+        },
+        "line.6": {
+            "text": "aber wie"
+        },
+        "line.7": {
+            "text": "elend bin"
+        },
+        "line.8": {
+            "text": "ich es."
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "title": "diesem-sommer-99",
+    "gender": "m",
+    "author": "Adolf Endler",
+    "author_birth": "1930",
+    "poem": {
+        "line.1": {
+            "text": "1"
+        },
+        "line.2": {
+            "text": "Der weggewandte Eidechsenblick der Rosen."
+        },
+        "line.3": {
+            "text": "2"
+        },
+        "line.4": {
+            "text": "In sich gekehrt die Althand, die ihn belauscht.."
+        }
+    }
+}

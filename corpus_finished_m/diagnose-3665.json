@@ -1,0 +1,35 @@
+{
+    "title": "diagnose-3665",
+    "gender": "m",
+    "author": "Günter  Kunert",
+    "author_birth": "1929",
+    "poem": {
+        "line.1": {
+            "text": "Bei dir bin ich ein Weißnichtwer."
+        },
+        "line.2": {
+            "text": "Die Spiegel täuschen und es lügt"
+        },
+        "line.3": {
+            "text": "die eigne Stimme. Was mich betrügt,"
+        },
+        "line.4": {
+            "text": "ist gar mein Selbst, von Inhalt leer."
+        },
+        "line.5": {
+            "text": "Bin süchtig nach der Sicherheit"
+        },
+        "line.6": {
+            "text": "verleibter Stunden, nach gewohnter Hand,"
+        },
+        "line.7": {
+            "text": "nach einem Vatermutterliebesland,"
+        },
+        "line.8": {
+            "text": "nach einem Dasein ohne Zeit,"
+        },
+        "line.9": {
+            "text": "nach etwas Glück aus reinem Leid."
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "title": "rechenaufgabe-unter-traenen-1416",
+    "gender": "w",
+    "author": "Christine Nöstlinger",
+    "author_birth": "1936",
+    "poem": {
+        "line.1": {
+            "text": "3 + 4 = 7"
+        },
+        "line.2": {
+            "text": "Du hast mir einen Brief geschrieben."
+        },
+        "line.3": {
+            "text": "7 + 1 = 8"
+        },
+        "line.4": {
+            "text": "Der hat mich traurig gemacht."
+        },
+        "line.5": {
+            "text": "8 + 2 = 10"
+        },
+        "line.6": {
+            "text": "Willst mich nicht wiedersehn."
+        },
+        "line.7": {
+            "text": "10  6 = 4"
+        },
+        "line.8": {
+            "text": "Es liegt dir nichts an mir."
+        },
+        "line.9": {
+            "text": "4  1 = 3"
+        },
+        "line.10": {
+            "text": "0. K., ich gebe dich frei!"
+        },
+        "line.11": {
+            "text": "3  2 = 1"
+        },
+        "line.12": {
+            "text": "Aber Glück wünsch ich dir keins!"
+        }
+    }
+}

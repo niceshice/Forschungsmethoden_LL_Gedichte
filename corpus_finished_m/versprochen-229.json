@@ -1,0 +1,32 @@
+{
+    "title": "versprochen-229",
+    "gender": "m",
+    "author": "Detlev Meyer",
+    "author_birth": "1948",
+    "poem": {
+        "line.1": {
+            "text": "Eines Nachts"
+        },
+        "line.2": {
+            "text": "wird sich der Himmel"
+        },
+        "line.3": {
+            "text": "auf die Straße legen"
+        },
+        "line.4": {
+            "text": "wie ein Teppich."
+        },
+        "line.5": {
+            "text": "Eines Nachts"
+        },
+        "line.6": {
+            "text": "werde ich von Stern"
+        },
+        "line.7": {
+            "text": "zu Stern springen."
+        },
+        "line.8": {
+            "text": "Dir ins Herz."
+        }
+    }
+}

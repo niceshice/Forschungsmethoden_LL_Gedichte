@@ -1,0 +1,26 @@
+{
+    "title": "verstehen-25",
+    "gender": "m",
+    "author": "Hans Manz",
+    "author_birth": "1931",
+    "poem": {
+        "line.1": {
+            "text": "Du bist noch zu klein, um das zu verstehen,"
+        },
+        "line.2": {
+            "text": "das kannst du noch nicht verstehen,"
+        },
+        "line.3": {
+            "text": "nein, das verstehst du nicht,"
+        },
+        "line.4": {
+            "text": "verstehst das nicht,"
+        },
+        "line.5": {
+            "text": "noch nicht,"
+        },
+        "line.6": {
+            "text": "verstanden!!!"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "title": "einsicht-3815",
+    "gender": "m",
+    "author": "Günter Eich",
+    "author_birth": "1907",
+    "poem": {
+        "line.1": {
+            "text": "Alle wissen,"
+        },
+        "line.2": {
+            "text": "daß Mexiko ein erfundenes Land ist."
+        },
+        "line.3": {
+            "text": "Als ich das Küchenspind öffnete,"
+        },
+        "line.4": {
+            "text": "fand ich die Wahrheit"
+        },
+        "line.5": {
+            "text": "zugedeckt"
+        },
+        "line.6": {
+            "text": "in den beschrifteten Büchsen."
+        },
+        "line.7": {
+            "text": "Die Reiskörner"
+        },
+        "line.8": {
+            "text": "ruhen sich aus von den Jahrhunderten."
+        },
+        "line.9": {
+            "text": "Vorm Fenster"
+        },
+        "line.10": {
+            "text": "setzt der Wind seinen Weg fort."
+        }
+    }
+}

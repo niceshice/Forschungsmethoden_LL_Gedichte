@@ -1,0 +1,32 @@
+{
+    "title": "dichtung-14540",
+    "gender": "w",
+    "author": "Ruth Wolf-Rehfeldt",
+    "author_birth": "1932",
+    "poem": {
+        "line.1": {
+            "text": "Dichtung"
+        },
+        "line.2": {
+            "text": "Sei"
+        },
+        "line.3": {
+            "text": "Echt"
+        },
+        "line.4": {
+            "text": "Schlicht"
+        },
+        "line.5": {
+            "text": "Recht"
+        },
+        "line.6": {
+            "text": "Links"
+        },
+        "line.7": {
+            "text": "Siehe"
+        },
+        "line.8": {
+            "text": "Brecht"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "title": "tomographie-2630",
+    "gender": "w",
+    "author": "Kerstin Hensel",
+    "author_birth": "1961",
+    "poem": {
+        "line.1": {
+            "text": "Das Bild meines Schädels"
+        },
+        "line.2": {
+            "text": "In Scheiben geschnitten"
+        },
+        "line.3": {
+            "text": "Zeigt Nichts"
+        },
+        "line.4": {
+            "text": "Als kleine Verkalkungen altersbedingt"
+        },
+        "line.5": {
+            "text": "Die sturen Schmerzen kommen sagt der Arzt"
+        },
+        "line.6": {
+            "text": "Vom Großen und Ganzen Ihre Angst ist"
+        },
+        "line.7": {
+            "text": "Unbegründet."
+        }
+    }
+}

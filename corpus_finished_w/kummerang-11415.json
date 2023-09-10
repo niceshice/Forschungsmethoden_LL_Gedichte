@@ -1,0 +1,809 @@
+{
+    "title": "kummerang-11415",
+    "gender": "w",
+    "author": "Dagmara Kraus",
+    "author_birth": "1981",
+    "poem": {
+        "line.1": {
+            "text": "krummer als ein pisang,"
+        },
+        "line.2": {
+            "text": "pest du den hang lang,"
+        },
+        "line.3": {
+            "text": "gehst weg"
+        },
+        "line.4": {
+            "text": "und kehrst wieder,"
+        },
+        "line.5": {
+            "text": "flugs klanglos"
+        },
+        "line.6": {
+            "text": "wiim krebsgang,"
+        },
+        "line.7": {
+            "text": "so lang wie mein fuß lang ist,"
+        },
+        "line.8": {
+            "text": "kommst du"
+        },
+        "line.9": {
+            "text": "immer wieder,"
+        },
+        "line.10": {
+            "text": "doch lässt dich kaum"
+        },
+        "line.11": {
+            "text": "einfangen"
+        },
+        "line.12": {
+            "text": "und kreist und kreist so lang,"
+        },
+        "line.13": {
+            "text": "bis du"
+        },
+        "line.14": {
+            "text": "alleingangs,"
+        },
+        "line.15": {
+            "text": "von mittenmang baumgangs,"
+        },
+        "line.16": {
+            "text": "merlenfang, pfaufang,"
+        },
+        "line.17": {
+            "text": "von deinem luftgang,"
+        },
+        "line.18": {
+            "text": "grenz"
+        },
+        "line.19": {
+            "text": "-gang und talhang"
+        },
+        "line.20": {
+            "text": "zu mir"
+        },
+        "line.21": {
+            "text": "zurückkommst."
+        },
+        "line.22": {
+            "text": "dein drall"
+        },
+        "line.23": {
+            "text": "zurück"
+        },
+        "line.24": {
+            "text": "drang nach"
+        },
+        "line.25": {
+            "text": "dem anfang :"
+        },
+        "line.26": {
+            "text": "zwar zwang nur,"
+        },
+        "line.27": {
+            "text": "wenns ziel verfehlt;"
+        },
+        "line.28": {
+            "text": "kommst immer"
+        },
+        "line.29": {
+            "text": "zurück."
+        },
+        "line.30": {
+            "text": "und wäre es pjöngjang,"
+        },
+        "line.31": {
+            "text": "kämst du"
+        },
+        "line.32": {
+            "text": "zurück,"
+        },
+        "line.33": {
+            "text": "kämst du mit yinyang,"
+        },
+        "line.34": {
+            "text": "dugong und oolongduft,"
+        },
+        "line.35": {
+            "text": "umgeben von linsangs,"
+        },
+        "line.36": {
+            "text": "in seetang getauft."
+        },
+        "line.37": {
+            "text": "wärs kanaan,"
+        },
+        "line.38": {
+            "text": "kämst du"
+        },
+        "line.39": {
+            "text": "zurück,"
+        },
+        "line.40": {
+            "text": "kämst diaphan"
+        },
+        "line.41": {
+            "text": "als der rührmichnichtan,"
+        },
+        "line.42": {
+            "text": "eskortiert von zehn"
+        },
+        "line.43": {
+            "text": "xystusvandalen"
+        },
+        "line.44": {
+            "text": "mit khanskurtisanen,"
+        },
+        "line.45": {
+            "text": "von schneckenmilanen"
+        },
+        "line.46": {
+            "text": "aus grüncellophan."
+        },
+        "line.47": {
+            "text": "vielleicht kämst dann"
+        },
+        "line.48": {
+            "text": "toboggans"
+        },
+        "line.49": {
+            "text": "zu meinem wigwam,"
+        },
+        "line.50": {
+            "text": "mit pavianelan"
+        },
+        "line.51": {
+            "text": "und als trickschuft,"
+        },
+        "line.52": {
+            "text": "als mezzohetman"
+        },
+        "line.53": {
+            "text": "mit tukanuntertanen"
+        },
+        "line.54": {
+            "text": "die merluschkamähne"
+        },
+        "line.55": {
+            "text": "stünde dir gut."
+        },
+        "line.56": {
+            "text": "kämst"
+        },
+        "line.57": {
+            "text": "zurück wie ein mustang,"
+        },
+        "line.58": {
+            "text": "kämst"
+        },
+        "line.59": {
+            "text": "trabgangs, ganz frank"
+        },
+        "line.60": {
+            "text": "ohne gruß,"
+        },
+        "line.61": {
+            "text": "zwang, zug- oder zungzwang,"
+        },
+        "line.62": {
+            "text": "doch mit recht artigem"
+        },
+        "line.63": {
+            "text": "jubelgesang  kein kappzaum"
+        },
+        "line.64": {
+            "text": "zurück, kummerang,"
+        },
+        "line.65": {
+            "text": "von gimpelfang"
+        },
+        "line.66": {
+            "text": "und von kulmen"
+        },
+        "line.67": {
+            "text": "zurück."
+        },
+        "line.68": {
+            "text": "alle kummerangsnücken"
+        },
+        "line.69": {
+            "text": "(kummerangsnucken),"
+        },
+        "line.70": {
+            "text": "kummerangsgucker, dumpf,"
+        },
+        "line.71": {
+            "text": "die cancanierenden kummerangstücken;"
+        },
+        "line.72": {
+            "text": "all das kummerkrummbücken"
+        },
+        "line.73": {
+            "text": "kummerangs rückenkrümmung nämlich"
+        },
+        "line.74": {
+            "text": "ist krümmer,"
+        },
+        "line.75": {
+            "text": "als mein nasenhang krumm ist."
+        },
+        "line.76": {
+            "text": "so kämst du"
+        },
+        "line.77": {
+            "text": "mit stets krümmerem rücken"
+        },
+        "line.78": {
+            "text": "zurück, kummerang, zu mir,"
+        },
+        "line.79": {
+            "text": "krümmer, verkümmert"
+        },
+        "line.80": {
+            "text": "und immer viel schlimmer"
+        },
+        "line.81": {
+            "text": "als noch beim letzten mal,"
+        },
+        "line.82": {
+            "text": "da du mich sahst."
+        },
+        "line.83": {
+            "text": "doch wer warf dich,"
+        },
+        "line.84": {
+            "text": "kummerang,"
+        },
+        "line.85": {
+            "text": "ganz sicher mein arm nicht,"
+        },
+        "line.86": {
+            "text": "bestimmt diese hand nicht,"
+        },
+        "line.87": {
+            "text": "sie vermochte es nicht,"
+        },
+        "line.88": {
+            "text": "dich so zu werfen, dass du"
+        },
+        "line.89": {
+            "text": "zurückkommst."
+        },
+        "line.90": {
+            "text": "darf ich mal ?"
+        },
+        "line.91": {
+            "text": "würf ich nämlich,"
+        },
+        "line.92": {
+            "text": "kämst du nie mehr"
+        },
+        "line.93": {
+            "text": "zurück,"
+        },
+        "line.94": {
+            "text": "schössest zielhaft"
+        },
+        "line.95": {
+            "text": "aufs ziel zu,"
+        },
+        "line.96": {
+            "text": "ins schluckloch des schummers,"
+        },
+        "line.97": {
+            "text": "und verschwändest für immer darin :"
+        },
+        "line.98": {
+            "text": "kein schluckloch des kummers bliebe hier mehr zurück."
+        },
+        "line.99": {
+            "text": "aber du pest"
+        },
+        "line.100": {
+            "text": "und zimperst nicht;"
+        },
+        "line.101": {
+            "text": "aber du säst"
+        },
+        "line.102": {
+            "text": "und pimperst nicht;"
+        },
+        "line.103": {
+            "text": "aber du äst"
+        },
+        "line.104": {
+            "text": "und klimperst nicht;"
+        },
+        "line.105": {
+            "text": "aber du mähst"
+        },
+        "line.106": {
+            "text": "und wimperst nicht"
+        },
+        "line.107": {
+            "text": "einmal."
+        },
+        "line.108": {
+            "text": "aber du schläfst nicht."
+        },
+        "line.109": {
+            "text": "der schlummerang kann dem kummerang nichts anhaben."
+        },
+        "line.110": {
+            "text": "wie bang ist mein fangdrang :"
+        },
+        "line.111": {
+            "text": "fang ! fang ! fang ! fang ! fang ! fang !"
+        },
+        "line.112": {
+            "text": "ihn, der kimmlang den himmel belangt,"
+        },
+        "line.113": {
+            "text": "mal seiger,"
+        },
+        "line.114": {
+            "text": "im windfang"
+        },
+        "line.115": {
+            "text": "des kumulus kumulonimbus :"
+        },
+        "line.116": {
+            "text": "du bist der versehgang,"
+        },
+        "line.117": {
+            "text": "das kummerkoma des flügelschimmels."
+        },
+        "line.118": {
+            "text": "so lang kreist er"
+        },
+        "line.119": {
+            "text": "und kreist schon,"
+        },
+        "line.120": {
+            "text": "der kummerang,"
+        },
+        "line.121": {
+            "text": "stunden-, tage-, nächtelang"
+        },
+        "line.122": {
+            "text": "kreist dieser kummerang"
+        },
+        "line.123": {
+            "text": "um den kopf"
+        },
+        "line.124": {
+            "text": "und im kopf rum"
+        },
+        "line.125": {
+            "text": "und kommt immer"
+        },
+        "line.126": {
+            "text": "wieder zurück."
+        },
+        "line.127": {
+            "text": "ging rum,"
+        },
+        "line.128": {
+            "text": "um den kummer"
+        },
+        "line.129": {
+            "text": "beim morgenspaziergang"
+        },
+        "line.130": {
+            "text": "abzufangen,"
+        },
+        "line.131": {
+            "text": "zu befragen,"
+        },
+        "line.132": {
+            "text": "fing"
+        },
+        "line.133": {
+            "text": "aber nichts"
+        },
+        "line.134": {
+            "text": "undsoweiter"
+        },
+        "line.135": {
+            "text": "und rang mit dem kummer,"
+        },
+        "line.136": {
+            "text": "rang mit dem kummer,"
+        },
+        "line.137": {
+            "text": "dem grabskummerandrang,"
+        },
+        "line.138": {
+            "text": "kummerangsandrang,"
+        },
+        "line.139": {
+            "text": "bis sonnuntergang"
+        },
+        "line.140": {
+            "text": "seit mondaufgang."
+        },
+        "line.141": {
+            "text": "der kummerangeffekt"
+        },
+        "line.142": {
+            "text": "unterscheidet sich also"
+        },
+        "line.143": {
+            "text": "von jedem andern :"
+        },
+        "line.144": {
+            "text": "er färbt wellen"
+        },
+        "line.145": {
+            "text": "in das kleidgrau"
+        },
+        "line.146": {
+            "text": "der klageweiber;"
+        },
+        "line.147": {
+            "text": "er zerrt welt"
+        },
+        "line.148": {
+            "text": "durch den blaubau"
+        },
+        "line.149": {
+            "text": "der sageleider;"
+        },
+        "line.150": {
+            "text": "er wehrbellt"
+        },
+        "line.151": {
+            "text": "das chacha"
+        },
+        "line.152": {
+            "text": "der widdermeider;"
+        },
+        "line.153": {
+            "text": "er fährt held aus dem pfau."
+        },
+        "line.154": {
+            "text": "pomuchel der kopf,"
+        },
+        "line.155": {
+            "text": "der glaubt, er mäandert :"
+        },
+        "line.156": {
+            "text": "denn er pest"
+        },
+        "line.157": {
+            "text": "und zimpert nicht."
+        },
+        "line.158": {
+            "text": "denn er sät"
+        },
+        "line.159": {
+            "text": "und pimpert nicht."
+        },
+        "line.160": {
+            "text": "denn er äst"
+        },
+        "line.161": {
+            "text": "und klimpert nicht."
+        },
+        "line.162": {
+            "text": "denn er mäht"
+        },
+        "line.163": {
+            "text": "und wimpert nicht"
+        },
+        "line.164": {
+            "text": "zweimal."
+        },
+        "line.165": {
+            "text": "dies jedoch vor allem :"
+        },
+        "line.166": {
+            "text": "er schläft nicht."
+        },
+        "line.167": {
+            "text": "(spinnerlied, auf eine melodie aus"
+        },
+        "line.168": {
+            "text": "mary poppins"
+        },
+        "line.169": {
+            "text": ")"
+        },
+        "line.170": {
+            "text": "kummkummerang, kummkummerang, bumsklenguruh,"
+        },
+        "line.171": {
+            "text": "der kummerang hüpft nicht, hat kein blut, keinen schuh;"
+        },
+        "line.172": {
+            "text": "kummkummerang, kummkummerang, bumsklenguruh,"
+        },
+        "line.173": {
+            "text": "der kummerang kennt nur den schnellwendeflug;"
+        },
+        "line.174": {
+            "text": "kummkummerang, kummkummerang, bumsklenguruh,"
+        },
+        "line.175": {
+            "text": "den kummerang nennt kein spezialwörterbuch;"
+        },
+        "line.176": {
+            "text": "kummkummerang, kummkummerang, bumsklenguruh,"
+        },
+        "line.177": {
+            "text": "der kummerang hockt am pistolenabzug."
+        },
+        "line.178": {
+            "text": "TORNADA"
+        },
+        "line.179": {
+            "text": "enlaidiert enziane;"
+        },
+        "line.180": {
+            "text": "fern spreizen"
+        },
+        "line.181": {
+            "text": "geköpfte"
+        },
+        "line.182": {
+            "text": "vulkanpelikane"
+        },
+        "line.183": {
+            "text": "speiend die riesischen"
+        },
+        "line.184": {
+            "text": "feuersschnäbel."
+        },
+        "line.185": {
+            "text": "du liegst neben mir, wach, kummerang"
+        },
+        "line.186": {
+            "text": "die summa vielleicht etwa wäre :"
+        },
+        "line.187": {
+            "text": "verrückt, wie gut wir doch"
+        },
+        "line.188": {
+            "text": "in löffelchenstellung ineinanderpassen,"
+        },
+        "line.189": {
+            "text": "ich und mein buhle, der kummersatan."
+        },
+        "line.190": {
+            "text": "fakultative beschwörung"
+        },
+        "line.191": {
+            "text": "komm, kummercombrus, komm, kummercombrus,"
+        },
+        "line.192": {
+            "text": "kummkummer, komm. kummkummer, komm :"
+        },
+        "line.193": {
+            "text": "komm, kummercombrus."
+        },
+        "line.194": {
+            "text": "kummercumbrus"
+        },
+        "line.195": {
+            "text": "."
+        },
+        "line.196": {
+            "text": "kummcomboros. kummers oroboros"
+        },
+        "line.197": {
+            "text": "(uroboros), kummriger boris, komm, kummerbolos."
+        },
+        "line.198": {
+            "text": "kummers kümmerling, o komm, kummerkloß, -joch,"
+        },
+        "line.199": {
+            "text": "-last,"
+        },
+        "line.200": {
+            "text": "-see,"
+        },
+        "line.201": {
+            "text": "-los."
+        },
+        "line.202": {
+            "text": "hab nur paar"
+        },
+        "line.203": {
+            "text": "kummerkrumen"
+        },
+        "line.204": {
+            "text": "o kummerkrume, komm;"
+        },
+        "line.205": {
+            "text": "hab einen kubbenkrümel,"
+        },
+        "line.206": {
+            "text": "ach kummerkubbe, komm;"
+        },
+        "line.207": {
+            "text": "komm krümeln,"
+        },
+        "line.208": {
+            "text": "so himmele, komm."
+        },
+        "line.209": {
+            "text": "und wenn ?"
+        },
+        "line.210": {
+            "text": "warum in dieses"
+        },
+        "line.211": {
+            "text": "kummerkruch verkrümeln ?"
+        },
+        "line.212": {
+            "text": "die kummerrunen. kummerline."
+        },
+        "line.213": {
+            "text": "daginias kummernun."
+        },
+        "line.214": {
+            "text": "daginiakrümelkrumm."
+        },
+        "line.215": {
+            "text": "mit kumpfets kummer"
+        },
+        "line.216": {
+            "text": "kamm"
+        },
+        "line.217": {
+            "text": "(das nur für den frank), klamm,"
+        },
+        "line.218": {
+            "text": "kump kummermann und hier die galgenmiene,"
+        },
+        "line.219": {
+            "text": "klumpklar, kleinlamm."
+        },
+        "line.220": {
+            "text": "die kumbermuhme."
+        },
+        "line.221": {
+            "text": "mein fieberkumbermuhmenbann."
+        },
+        "line.222": {
+            "text": "ne muhmenkumpe flammt und fumpt den kummermann."
+        },
+        "line.223": {
+            "text": "da :"
+        },
+        "line.224": {
+            "text": "dies"
+        },
+        "line.225": {
+            "text": "ist seine bumsal."
+        },
+        "line.226": {
+            "text": "kumbers cumbrus  cumbersamba  kumbercumbrus  kummerrumba"
+        },
+        "line.227": {
+            "text": "kummertango  ummen mamba  kummermambo  warum das ?"
+        },
+        "line.228": {
+            "text": "kumbers cumbrus  cumbersamba  kumbercumbrus  kummerrumba"
+        },
+        "line.229": {
+            "text": "kummertango  ummen mamba  kummermambo  warum hast ?"
+        },
+        "line.230": {
+            "text": "kumbers cumbrus  cumbersamba  kumbercumbrus  kummerrumba  kummernumbfuß  kummersamba  dummercumbrus KUMMKARAMBA"
+        },
+        "line.231": {
+            "text": "auf kummerun"
+        },
+        "line.232": {
+            "text": ". ins umbad  schnell, schnell,"
+        },
+        "line.233": {
+            "text": "aber geht das ?"
+        },
+        "line.234": {
+            "text": "kummerskunde"
+        },
+        "line.235": {
+            "text": "kündet pfunde."
+        },
+        "line.236": {
+            "text": "doch hier vom kummergan."
+        },
+        "line.237": {
+            "text": "kurzfuß, armekurz, kratzfuß :"
+        },
+        "line.238": {
+            "text": "da kommt der kummerang mit seinem kummersklan."
+        },
+        "line.239": {
+            "text": "(tak, tak : szklany.)"
+        },
+        "line.240": {
+            "text": "(sind ja fahrende.)"
+        },
+        "line.241": {
+            "text": "postkarte"
+        },
+        "line.242": {
+            "text": "kummrang heut"
+        },
+        "line.243": {
+            "text": "in sankt kummer"
+        },
+        "line.244": {
+            "text": "und como"
+        },
+        "line.245": {
+            "text": "(pagane veranstaltung)"
+        },
+        "line.246": {
+            "text": "karawanen kommen herum."
+        },
+        "line.247": {
+            "text": "von makaras karakaras"
+        },
+        "line.248": {
+            "text": "besetzt ganz karaman;"
+        },
+        "line.249": {
+            "text": "und kommt dagmara,"
+        },
+        "line.250": {
+            "text": "kommt auch kummrang"
+        },
+        "line.251": {
+            "text": "klags auf den karagan."
+        },
+        "line.252": {
+            "text": "(immer will sie"
+        },
+        "line.253": {
+            "text": "dann zu ihm sagen :"
+        },
+        "line.254": {
+            "text": "huste mal."
+        },
+        "line.255": {
+            "text": "yychu. yychu, yychu.)"
+        },
+        "line.256": {
+            "text": "ich komm wohl nicht"
+        },
+        "line.257": {
+            "text": "da kummerrum,"
+        },
+        "line.258": {
+            "text": "ums kummergarn,"
+        },
+        "line.259": {
+            "text": "ums kummernun,"
+        },
+        "line.260": {
+            "text": "und karakumschwarz,"
+        },
+        "line.261": {
+            "text": "hummerhungrig,"
+        },
+        "line.262": {
+            "text": "komm ich tumb,"
+        },
+        "line.263": {
+            "text": "komm lummerlungig,"
+        },
+        "line.264": {
+            "text": "komme, komme,"
+        },
+        "line.265": {
+            "text": "komm ich, komm ich,"
+        },
+        "line.266": {
+            "text": "kummrang, komich komm ich"
+        },
+        "line.267": {
+            "text": "um."
+        }
+    }
+}

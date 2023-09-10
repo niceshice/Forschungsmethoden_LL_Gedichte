@@ -1,0 +1,23 @@
+{
+    "title": "hotel-de-la-paix-270",
+    "gender": "w",
+    "author": "Ingeborg Bachmann",
+    "author_birth": "1926",
+    "poem": {
+        "line.1": {
+            "text": "Die Rosenlast stürzt lautlos von den Wänden,"
+        },
+        "line.2": {
+            "text": "und durch den Teppich scheinen Grund und Boden."
+        },
+        "line.3": {
+            "text": "Das Lichtherz bricht der Lampe."
+        },
+        "line.4": {
+            "text": "Dunkel. Schritte."
+        },
+        "line.5": {
+            "text": "Der Riegel hat sich vor den Tod geschoben."
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "title": "rechnung-23",
+    "gender": "m",
+    "author": "Hans Manz",
+    "author_birth": "1931",
+    "poem": {
+        "line.1": {
+            "text": "Ein Halbschlauer,"
+        },
+        "line.2": {
+            "text": "der sich einsam fühlt,"
+        },
+        "line.3": {
+            "text": "ein Einfaltspinsel,"
+        },
+        "line.4": {
+            "text": "der einen Zweipfünder stiehlt,"
+        },
+        "line.5": {
+            "text": "ein Zweibeiner,"
+        },
+        "line.6": {
+            "text": "der Fünfe grad sein läßt,"
+        },
+        "line.7": {
+            "text": "ein Dreikäsehoch,"
+        },
+        "line.8": {
+            "text": "der halbwegs sein Kinderbett näßt,"
+        },
+        "line.9": {
+            "text": "ein Vierschrötiger,"
+        },
+        "line.10": {
+            "text": "der seine Siebensachen vergißt,"
+        },
+        "line.11": {
+            "text": "ein Fünfling,"
+        },
+        "line.12": {
+            "text": "der einen Vierfüßler ißt,"
+        },
+        "line.13": {
+            "text": "ein Sechstagefahrer,"
+        },
+        "line.14": {
+            "text": "der mit der Zweiradklingel die Leute weckt,"
+        },
+        "line.15": {
+            "text": "ein Siebenschläfer,"
+        },
+        "line.16": {
+            "text": "der alle viere von sich streckt,"
+        },
+        "line.17": {
+            "text": "ein Achttönnerschofför,"
+        },
+        "line.18": {
+            "text": "der mit dem Sechszylinder die Umwelt vergast,"
+        },
+        "line.19": {
+            "text": "ein Neunmalkluger,"
+        },
+        "line.20": {
+            "text": "der mit Siebenmeilenstiefeln umherrast,"
+        },
+        "line.21": {
+            "text": "ein Zehnkämpfer,"
+        },
+        "line.22": {
+            "text": "mit seiner einsilbigen Frau"
+        },
+        "line.23": {
+            "text": "dies alles zusammen"
+        },
+        "line.24": {
+            "text": "ergibt genau:"
+        },
+        "line.25": {
+            "text": ""
+        },
+        "line.26": {
+            "text": "95"
+        }
+    }
+}

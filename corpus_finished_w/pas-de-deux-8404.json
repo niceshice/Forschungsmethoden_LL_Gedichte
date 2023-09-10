@@ -1,0 +1,29 @@
+{
+    "title": "pas-de-deux-8404",
+    "gender": "w",
+    "author": "Doris Runge",
+    "author_birth": "1943",
+    "poem": {
+        "line.1": {
+            "text": "wechsel"
+        },
+        "line.2": {
+            "text": "schritt und"
+        },
+        "line.3": {
+            "text": "vor und"
+        },
+        "line.4": {
+            "text": "rück und vor"
+        },
+        "line.5": {
+            "text": "und drehn"
+        },
+        "line.6": {
+            "text": "paar verschwindet"
+        },
+        "line.7": {
+            "text": "bild bleibt stehn"
+        }
+    }
+}
