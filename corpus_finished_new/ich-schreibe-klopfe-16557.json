@@ -1,0 +1,35 @@
+{
+    "title": "ich-schreibe-klopfe-16557",
+    "gender": "m",
+    "author": "Sascha Garzetti",
+    "author_birth": "1986",
+    "poem": {
+        "line.1": {
+            "text": "Ich schreibe, klopfe"
+        },
+        "line.2": {
+            "text": "mit Wortern an eine Tur,"
+        },
+        "line.3": {
+            "text": "von der ich nicht weiß,"
+        },
+        "line.4": {
+            "text": "ob es sie gibt,"
+        },
+        "line.5": {
+            "text": "suche drinnen, draußen,"
+        },
+        "line.6": {
+            "text": "nach einer Stimme"
+        },
+        "line.7": {
+            "text": "fur die Nacht,"
+        },
+        "line.8": {
+            "text": "bevor sie eine findet"
+        },
+        "line.9": {
+            "text": "fur mich."
+        }
+    }
+}

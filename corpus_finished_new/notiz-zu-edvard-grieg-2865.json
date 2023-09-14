@@ -1,0 +1,20 @@
+{
+    "title": "notiz-zu-edvard-grieg-2865",
+    "gender": "m",
+    "author": "Helwig  Brunner",
+    "author_birth": "1967",
+    "poem": {
+        "line.1": {
+            "text": "die hölzerne Puppe, an deren Fäden eine Welt tanzt,"
+        },
+        "line.2": {
+            "text": "der Perlmuttspiegel, in dem man sich als Farbenspiel erkennt,"
+        },
+        "line.3": {
+            "text": "die doppelte Ruhe im Inneren dickwandiger Gefäße:"
+        },
+        "line.4": {
+            "text": "mit kleinen Bläschen im Wasser und kleinen Bläschen im Glas"
+        }
+    }
+}

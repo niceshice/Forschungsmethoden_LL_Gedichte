@@ -1,0 +1,32 @@
+{
+    "title": "zahlenre4e-26",
+    "gender": "m",
+    "author": "Hans Manz",
+    "author_birth": "1931",
+    "poem": {
+        "line.1": {
+            "text": "Ich bin 2fellos größer als du,"
+        },
+        "line.2": {
+            "text": "sprach zum Einer der Zweier."
+        },
+        "line.3": {
+            "text": "3ster Kerl, prahle nicht so!"
+        },
+        "line.4": {
+            "text": "knurrte der größere Dreier."
+        },
+        "line.5": {
+            "text": "Und ich! rief der Einer, bin zwar der kl1te,"
+        },
+        "line.6": {
+            "text": "aber dafür bestimmt auch der f1te."
+        },
+        "line.7": {
+            "text": "Nein, mir gibt man sogar noch den Sch0ller,"
+        },
+        "line.8": {
+            "text": "piepste der Nuller."
+        }
+    }
+}

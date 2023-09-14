@@ -1,0 +1,32 @@
+{
+    "title": "theater-16572",
+    "gender": "w",
+    "author": "Daniela  Chana",
+    "author_birth": "1985",
+    "poem": {
+        "line.1": {
+            "text": "Der Regisseur muss seine Kulissen zu Hause"
+        },
+        "line.2": {
+            "text": "aufbewahren"
+        },
+        "line.3": {
+            "text": "Weil im Theater kein Platz ist"
+        },
+        "line.4": {
+            "text": "Manchmal bewahrt er auch die Schauspieler auf"
+        },
+        "line.5": {
+            "text": "Und die Rollen und die Monologe"
+        },
+        "line.6": {
+            "text": "Und manchmal muss der Regisseur"
+        },
+        "line.7": {
+            "text": "Im Theater schlafen"
+        },
+        "line.8": {
+            "text": "Weil zu Hause vor lauter Kulissen kein Platz mehr ist"
+        }
+    }
+}

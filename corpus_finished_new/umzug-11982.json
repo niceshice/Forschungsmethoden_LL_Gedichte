@@ -1,0 +1,32 @@
+{
+    "title": "umzug-11982",
+    "gender": "w",
+    "author": "Carolin Callies",
+    "author_birth": "1980",
+    "poem": {
+        "line.1": {
+            "text": "wir suchen ne kopfgroße wohnung im ort"
+        },
+        "line.2": {
+            "text": "& wohnten zuvor in den steinen am hang"
+        },
+        "line.3": {
+            "text": "& trugen wir fell, so wars nicht besonders"
+        },
+        "line.4": {
+            "text": "& molken wir vieh, so gehörte es uns."
+        },
+        "line.5": {
+            "text": "nicht viel & wir schnitten die türen in äpfel,"
+        },
+        "line.6": {
+            "text": "nicht viel & wir sägten das fenster ins laub."
+        },
+        "line.7": {
+            "text": "ich trug viel davon & zu tragen vermochten wir"
+        },
+        "line.8": {
+            "text": "steinobst & mäuse am zaumzeug aus unserem stall."
+        }
+    }
+}

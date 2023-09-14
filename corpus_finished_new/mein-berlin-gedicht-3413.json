@@ -1,0 +1,20 @@
+{
+    "title": "mein-berlin-gedicht-3413",
+    "gender": "m",
+    "author": "Jürg  Halter",
+    "author_birth": "1980",
+    "poem": {
+        "line.1": {
+            "text": "Da war ich nie"
+        },
+        "line.2": {
+            "text": "das kenn ich nicht"
+        },
+        "line.3": {
+            "text": "noch sterbe ich"
+        },
+        "line.4": {
+            "text": "am Berlin-Gedicht"
+        }
+    }
+}

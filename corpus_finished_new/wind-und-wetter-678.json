@@ -1,0 +1,80 @@
+{
+    "title": "wind-und-wetter-678",
+    "gender": "m",
+    "author": "Jürg Schubiger",
+    "author_birth": "1936",
+    "poem": {
+        "line.1": {
+            "text": "Es regnet, es regnet,"
+        },
+        "line.2": {
+            "text": "mir ist ein Fisch begegnet,"
+        },
+        "line.3": {
+            "text": "es windet, es windet,"
+        },
+        "line.4": {
+            "text": "der nicht nach Hause findet."
+        },
+        "line.5": {
+            "text": "Es schneit, es schneit,"
+        },
+        "line.6": {
+            "text": "der Christ baum steht bereit."
+        },
+        "line.7": {
+            "text": "Es friert, es friert,"
+        },
+        "line.8": {
+            "text": "er ist noch nicht verziert."
+        },
+        "line.9": {
+            "text": "Es dunkelt, es dunkelt,"
+        },
+        "line.10": {
+            "text": "ein kleines Flugzeug funkelt."
+        },
+        "line.11": {
+            "text": "Es fliegt, es fliegt"
+        },
+        "line.12": {
+            "text": "und weiss, wo Oslo liegt."
+        },
+        "line.13": {
+            "text": "Es taut, es taut,"
+        },
+        "line.14": {
+            "text": "das Wetter ist heut laut."
+        },
+        "line.15": {
+            "text": "Es rauscht, es rauscht,"
+        },
+        "line.16": {
+            "text": "auch ich bin wie vertauscht."
+        },
+        "line.17": {
+            "text": "Es luftet, es luftet,"
+        },
+        "line.18": {
+            "text": "die Wiese summt und duftet."
+        },
+        "line.19": {
+            "text": "Es spriesst, es spriesst,"
+        },
+        "line.20": {
+            "text": "wer Schnupfen hat, der niest."
+        },
+        "line.21": {
+            "text": "Es blitzt, es blitzt,"
+        },
+        "line.22": {
+            "text": "ein Sperling sinnt und sitzt."
+        },
+        "line.23": {
+            "text": "Es tropft, es tropft,"
+        },
+        "line.24": {
+            "text": "sein Herz und meines klopft."
+        }
+    }
+}

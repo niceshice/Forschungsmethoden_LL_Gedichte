@@ -1,0 +1,41 @@
+{
+    "title": "plumbum-11546",
+    "gender": "w",
+    "author": "Nora Gomringer",
+    "author_birth": "1980",
+    "poem": {
+        "line.1": {
+            "text": "... und könnten Sie diesen Zustand einmal in Ihren eigenen Worten beschreiben?"
+        },
+        "line.2": {
+            "text": "der schwarze Hund"
+        },
+        "line.3": {
+            "text": "das Kleid aus Blei"
+        },
+        "line.4": {
+            "text": "die Nacht im Gefieder"
+        },
+        "line.5": {
+            "text": "das Wesen aus Nebel"
+        },
+        "line.6": {
+            "text": "der Weg aus Wegen"
+        },
+        "line.7": {
+            "text": "die Fragen aus Leder"
+        },
+        "line.8": {
+            "text": "das große Schweigen"
+        },
+        "line.9": {
+            "text": "die Summe aus Zeit"
+        },
+        "line.10": {
+            "text": "der Körper im Raum"
+        },
+        "line.11": {
+            "text": "Die Droge hilft/ der Tag wird hell/ das Leben: Traum."
+        }
+    }
+}

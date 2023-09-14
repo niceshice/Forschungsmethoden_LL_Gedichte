@@ -1,0 +1,50 @@
+{
+    "title": "schilf-12345",
+    "gender": "m",
+    "author": "David  Krause",
+    "author_birth": "1988",
+    "poem": {
+        "line.1": {
+            "text": "und irgendwann ist der wind"
+        },
+        "line.2": {
+            "text": "nur noch die umschreibung"
+        },
+        "line.3": {
+            "text": "des flusses."
+        },
+        "line.4": {
+            "text": "und irgendwann ist der fluss"
+        },
+        "line.5": {
+            "text": "nur noch die umschreibung"
+        },
+        "line.6": {
+            "text": "deiner sprache"
+        },
+        "line.7": {
+            "text": "wenn du geschichten erzählst"
+        },
+        "line.8": {
+            "text": "vom wind"
+        },
+        "line.9": {
+            "text": "vom fluss."
+        },
+        "line.10": {
+            "text": "wer sind du und ich"
+        },
+        "line.11": {
+            "text": "wenn alles in allem verschwindet?"
+        },
+        "line.12": {
+            "text": "wenn gedichte schilf sind"
+        },
+        "line.13": {
+            "text": "aus dem fluss gewachsen"
+        },
+        "line.14": {
+            "text": "in den wind hineingeschrieben?"
+        }
+    }
+}

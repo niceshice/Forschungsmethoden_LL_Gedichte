@@ -1,0 +1,32 @@
+{
+    "title": "zweite-jugend-27",
+    "gender": "m",
+    "author": "Hans Manz",
+    "author_birth": "1931",
+    "poem": {
+        "line.1": {
+            "text": "Eine große dicke Kuh"
+        },
+        "line.2": {
+            "text": "raste über die Weide,"
+        },
+        "line.3": {
+            "text": "warf den Kopf und alle beide"
+        },
+        "line.4": {
+            "text": "Hinterbeine hoch in die Luft,"
+        },
+        "line.5": {
+            "text": "hüpfte wie toll"
+        },
+        "line.6": {
+            "text": "und schnaubte laut."
+        },
+        "line.7": {
+            "text": "Das hatte sie"
+        },
+        "line.8": {
+            "text": "ihrem Kalb abgeschaut."
+        }
+    }
+}

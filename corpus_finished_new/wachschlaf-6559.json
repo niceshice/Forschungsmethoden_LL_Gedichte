@@ -1,0 +1,29 @@
+{
+    "title": "wachschlaf-6559",
+    "gender": "w",
+    "author": "Ilana Shmueli",
+    "author_birth": "1924",
+    "poem": {
+        "line.1": {
+            "text": "Wachschlaf"
+        },
+        "line.2": {
+            "text": "nie durchstandener Alp"
+        },
+        "line.3": {
+            "text": "entkommen"
+        },
+        "line.4": {
+            "text": "zum Traum hin"
+        },
+        "line.5": {
+            "text": "zum Lilienohr hin"
+        },
+        "line.6": {
+            "text": "in lautlosem Flug"
+        },
+        "line.7": {
+            "text": "ohne Halt"
+        }
+    }
+}

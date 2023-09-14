@@ -1,0 +1,32 @@
+{
+    "title": "tragoedie-2955",
+    "gender": "w",
+    "author": "Nora Gomringer",
+    "author_birth": "1980",
+    "poem": {
+        "line.1": {
+            "text": "Mama hat mich"
+        },
+        "line.2": {
+            "text": "immer gewarnt"
+        },
+        "line.3": {
+            "text": "Mit dir zieh ich mir"
+        },
+        "line.4": {
+            "text": "ein hölzernes Pferd"
+        },
+        "line.5": {
+            "text": "in die Mauern"
+        },
+        "line.6": {
+            "text": "Papa ringt jetzt"
+        },
+        "line.7": {
+            "text": "mit den Schlangen"
+        },
+        "line.8": {
+            "text": "am Strand"
+        }
+    }
+}

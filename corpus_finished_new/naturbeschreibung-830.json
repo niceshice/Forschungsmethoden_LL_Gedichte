@@ -1,0 +1,44 @@
+{
+    "title": "naturbeschreibung-830",
+    "gender": "m",
+    "author": "Gerhard Rühm",
+    "author_birth": "1930",
+    "poem": {
+        "line.1": {
+            "text": "die wolken ziehen sich in falten"
+        },
+        "line.2": {
+            "text": "die blumen erbleichen"
+        },
+        "line.3": {
+            "text": "die wiesen wenden sich ab"
+        },
+        "line.4": {
+            "text": "die wege verkriechen sich"
+        },
+        "line.5": {
+            "text": "die steinen starren vor sich hin"
+        },
+        "line.6": {
+            "text": "die berge versinken in schweigen"
+        },
+        "line.7": {
+            "text": "die täler erschauern"
+        },
+        "line.8": {
+            "text": "ein windstoss entringt sich den lüften"
+        },
+        "line.9": {
+            "text": "die flüsse treten aus den ufern"
+        },
+        "line.10": {
+            "text": "die büsche raufen sich die blätter"
+        },
+        "line.11": {
+            "text": "die bäume schlagen die äste über den wipfeln zusammen"
+        },
+        "line.12": {
+            "text": "die erde taumelt in die nacht"
+        }
+    }
+}

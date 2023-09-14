@@ -1,0 +1,32 @@
+{
+    "title": "sprachlicher-rueckstand-11676",
+    "gender": "m",
+    "author": "Franz Hohler",
+    "author_birth": "1943",
+    "poem": {
+        "line.1": {
+            "text": "Immer noch"
+        },
+        "line.2": {
+            "text": "sagen wir dem"
+        },
+        "line.3": {
+            "text": "was am Morgen geschieht"
+        },
+        "line.4": {
+            "text": "die Sonne geht auf"
+        },
+        "line.5": {
+            "text": "obwohl seit Kopernikus klar ist"
+        },
+        "line.6": {
+            "text": "die Sonne bleibt stehn"
+        },
+        "line.7": {
+            "text": "und"
+        },
+        "line.8": {
+            "text": "die Welt geht unter."
+        }
+    }
+}

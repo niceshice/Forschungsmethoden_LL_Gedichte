@@ -1,0 +1,38 @@
+{
+    "title": "abc-3222",
+    "gender": "m",
+    "author": "Heiner Müller",
+    "author_birth": "1929",
+    "poem": {
+        "line.1": {
+            "text": "LACH NIT ES SEI DANN EIN STADT UNTERGANGEN"
+        },
+        "line.2": {
+            "text": "(Grobianus)"
+        },
+        "line.3": {
+            "text": "ICH WILL EIN DEUTSCHER SEIN"
+        },
+        "line.4": {
+            "text": "(Eintragung im Schulheft eines elfjährigen jüdischen Jungen"
+        },
+        "line.5": {
+            "text": "im Warschauer Ghetto)"
+        },
+        "line.6": {
+            "text": "DER TERROR VON DEM ICH SCHREIBE KOMMT NICHT"
+        },
+        "line.7": {
+            "text": "AUS DEUTSCHLAND ES IST EIN TERROR DER SEELE"
+        },
+        "line.8": {
+            "text": "(Edgar Allen Poe)"
+        },
+        "line.9": {
+            "text": "DER TERROR VON DEM ICH SCHREIBE KOMMT AUS"
+        },
+        "line.10": {
+            "text": "DEUTSCHLAND"
+        }
+    }
+}

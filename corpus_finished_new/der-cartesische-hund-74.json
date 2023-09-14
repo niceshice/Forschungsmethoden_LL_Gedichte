@@ -1,0 +1,26 @@
+{
+    "title": "der-cartesische-hund-74",
+    "gender": "m",
+    "author": "Durs Grünbein",
+    "author_birth": "1962",
+    "poem": {
+        "line.1": {
+            "text": "Wedelnd um jedes Nein das ihn fortschleift"
+        },
+        "line.2": {
+            "text": "Worte wie Flöhe im Fell, die Schnauze im Dreck"
+        },
+        "line.3": {
+            "text": "Ohren angelegt auf der Flucht vor den Nullen"
+        },
+        "line.4": {
+            "text": "Gejagt von den kleineren Übeln ins Allergrößte"
+        },
+        "line.5": {
+            "text": "Müde der leeren Himmel, die Kehle blank"
+        },
+        "line.6": {
+            "text": "Gehorcht er dem Ersten das kommt und ihn denkt"
+        }
+    }
+}

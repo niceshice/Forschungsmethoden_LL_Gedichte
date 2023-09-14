@@ -1,0 +1,44 @@
+{
+    "title": "julikinder-5491",
+    "gender": "m",
+    "author": "Hermann Hesse",
+    "author_birth": "1877",
+    "poem": {
+        "line.1": {
+            "text": "Wir Kinder im Juli geboren"
+        },
+        "line.2": {
+            "text": "Lieben den Duft des weißen Jasmin,"
+        },
+        "line.3": {
+            "text": "Wir wandern an blühenden Gärten hin,"
+        },
+        "line.4": {
+            "text": "Still und in schwere Träume verloren."
+        },
+        "line.5": {
+            "text": "Unser Bruder ist der scharlachene Mohn,"
+        },
+        "line.6": {
+            "text": "Der brennt in flackernden roten Schauern"
+        },
+        "line.7": {
+            "text": "Im Ährenfeld und auf den heißen Mauern,"
+        },
+        "line.8": {
+            "text": "Dann treibt seine Blätter der Wind davon."
+        },
+        "line.9": {
+            "text": "Wie eine Julinacht will unser Leben"
+        },
+        "line.10": {
+            "text": "Traumbeladen seinen Reigen vollenden,"
+        },
+        "line.11": {
+            "text": "Träumen und heißen Erntefesten ergeben,"
+        },
+        "line.12": {
+            "text": "Kränze von Ähren und rotem Mohn in den Händen."
+        }
+    }
+}

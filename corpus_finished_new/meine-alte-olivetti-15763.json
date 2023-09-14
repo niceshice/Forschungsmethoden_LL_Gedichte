@@ -1,0 +1,20 @@
+{
+    "title": "meine-alte-olivetti-15763",
+    "gender": "m",
+    "author": "Günter Grass",
+    "author_birth": "1927",
+    "poem": {
+        "line.1": {
+            "text": "ist Zeuge, wie fleißig ich lüge"
+        },
+        "line.2": {
+            "text": "und von Fassung zu Fassung"
+        },
+        "line.3": {
+            "text": "der Wahrheit"
+        },
+        "line.4": {
+            "text": "um einen Tippfehler näher bin."
+        }
+    }
+}

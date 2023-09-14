@@ -1,0 +1,32 @@
+{
+    "title": "mutter-sprache-551",
+    "gender": "w",
+    "author": "Rose Ausländer",
+    "author_birth": "1901",
+    "poem": {
+        "line.1": {
+            "text": "Ich habe mich"
+        },
+        "line.2": {
+            "text": "in mich verwandelt"
+        },
+        "line.3": {
+            "text": "von Augenblick zu Augenblick"
+        },
+        "line.4": {
+            "text": "in Stücke zersplittert"
+        },
+        "line.5": {
+            "text": "auf dem Wortweg"
+        },
+        "line.6": {
+            "text": "Mutter Sprache"
+        },
+        "line.7": {
+            "text": "setzt mich zusammen"
+        },
+        "line.8": {
+            "text": "Menschmosaik"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "title": "entwicklung-468",
+    "gender": "m",
+    "author": "Lutz Rathenow",
+    "author_birth": "1952",
+    "poem": {
+        "line.1": {
+            "text": "Eine Blume, süß duftend, steht auf der Wiese."
+        },
+        "line.2": {
+            "text": "Eine Kuh, in Gedanken, verschluckt im Nu diese."
+        },
+        "line.3": {
+            "text": "Die Blume blüht unermüdlich weiter im Bauch."
+        },
+        "line.4": {
+            "text": "Die Kuh macht den Mund auf und duftet nun auch."
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "title": "das-ist-der-stand-der-dinge-800",
+    "gender": "m",
+    "author": "Michael Lentz",
+    "author_birth": "1964",
+    "poem": {
+        "line.1": {
+            "text": "Das Ding ist der Erde Stand."
+        },
+        "line.2": {
+            "text": "Der Rede Stand ist das Ding."
+        },
+        "line.3": {
+            "text": "Dringend redet das: Das ist"
+        },
+        "line.4": {
+            "text": "der Stand der Dinge. Das ist"
+        },
+        "line.5": {
+            "text": "des Dinges Tand. Da irrt des"
+        },
+        "line.6": {
+            "text": "Redens Test, da das Ding dir"
+        },
+        "line.7": {
+            "text": "das Ding, das dient. Der Rest:"
+        },
+        "line.8": {
+            "text": "Dir stand das Ding. Es redet:"
+        },
+        "line.9": {
+            "text": "DAS ist der Stand der Dinge."
+        }
+    }
+}

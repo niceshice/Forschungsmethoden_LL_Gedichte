@@ -1,0 +1,98 @@
+{
+    "title": "im-park-1236",
+    "gender": "m",
+    "author": "Ernst Jandl",
+    "author_birth": "1925",
+    "poem": {
+        "line.1": {
+            "text": "bitte ist hier frei"
+        },
+        "line.2": {
+            "text": "nein hier ist besetzt"
+        },
+        "line.3": {
+            "text": "danke"
+        },
+        "line.4": {
+            "text": "bitte ist hier frei"
+        },
+        "line.5": {
+            "text": "nein hier ist besetzt"
+        },
+        "line.6": {
+            "text": "danke"
+        },
+        "line.7": {
+            "text": "bitte ist hier frei"
+        },
+        "line.8": {
+            "text": "nein hier ist besetzt"
+        },
+        "line.9": {
+            "text": "danke"
+        },
+        "line.10": {
+            "text": "ist hier frei"
+        },
+        "line.11": {
+            "text": "nein hier ist besetzt"
+        },
+        "line.12": {
+            "text": "danke"
+        },
+        "line.13": {
+            "text": "ist hier frei"
+        },
+        "line.14": {
+            "text": "hier ist besetzt"
+        },
+        "line.15": {
+            "text": "danke"
+        },
+        "line.16": {
+            "text": "ist hier frei"
+        },
+        "line.17": {
+            "text": "nein besetzt"
+        },
+        "line.18": {
+            "text": "danke"
+        },
+        "line.19": {
+            "text": "bitte ist hier frei"
+        },
+        "line.20": {
+            "text": "nein"
+        },
+        "line.21": {
+            "text": "danke"
+        },
+        "line.22": {
+            "text": "hier frei"
+        },
+        "line.23": {
+            "text": "besetzt"
+        },
+        "line.24": {
+            "text": "danke"
+        },
+        "line.25": {
+            "text": "ist hier frei"
+        },
+        "line.26": {
+            "text": "nein hier ist leider besetzt"
+        },
+        "line.27": {
+            "text": "danke"
+        },
+        "line.28": {
+            "text": "ist hier frei"
+        },
+        "line.29": {
+            "text": "bitte"
+        },
+        "line.30": {
+            "text": "danke"
+        }
+    }
+}

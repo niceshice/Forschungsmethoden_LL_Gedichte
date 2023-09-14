@@ -1,0 +1,29 @@
+{
+    "title": "yogalaute-i-3052",
+    "gender": "m",
+    "author": "Ginka  Steinwachs",
+    "author_birth": "1942",
+    "poem": {
+        "line.1": {
+            "text": "OM"
+        },
+        "line.2": {
+            "text": "HRAM"
+        },
+        "line.3": {
+            "text": "HRIM"
+        },
+        "line.4": {
+            "text": "HRUM"
+        },
+        "line.5": {
+            "text": "HRAIM"
+        },
+        "line.6": {
+            "text": "HRAUM"
+        },
+        "line.7": {
+            "text": "HRAH"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "title": "asklepiadeisch-die-dritte",
+    "gender": "m",
+    "author": "Urs Allemann",
+    "author_birth": "1948",
+    "poem": {
+        "line.1": {
+            "text": "Fallsucht. Stirbt sich entzwei. Schiesst in die Grube da"
+        },
+        "line.2": {
+            "text": "er sich darin entdeckt. Singt davon. Trinkt sein Blut."
+        },
+        "line.3": {
+            "text": "Eines das zu vergiessen"
+        },
+        "line.4": {
+            "text": "du vergessen das eigene."
+        },
+        "line.5": {
+            "text": "Steigsucht. Lebt als ein Rauch. Kriecht aus der Grube da"
+        },
+        "line.6": {
+            "text": "er im Spiegel den Tod. Deckt ihn so. Speit Absud."
+        },
+        "line.7": {
+            "text": "Einen den zu vergessen"
+        },
+        "line.8": {
+            "text": "du vergossen von eigenen."
+        }
+    }
+}

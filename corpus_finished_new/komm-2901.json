@@ -1,0 +1,47 @@
+{
+    "title": "komm-2901",
+    "gender": "m",
+    "author": "Johannes  Jansen",
+    "author_birth": "1966",
+    "poem": {
+        "line.1": {
+            "text": "KOMM"
+        },
+        "line.2": {
+            "text": "WIR WOLLEN UNS"
+        },
+        "line.3": {
+            "text": "BRAUCHEN"
+        },
+        "line.4": {
+            "text": "WIE ES KEINER"
+        },
+        "line.5": {
+            "text": "WISSEN KONNTE"
+        },
+        "line.6": {
+            "text": "IN DIESER STADT"
+        },
+        "line.7": {
+            "text": "SIND MEINE TRÄUME"
+        },
+        "line.8": {
+            "text": "DEIN GEGENÜBER"
+        },
+        "line.9": {
+            "text": "BIN ICH"
+        },
+        "line.10": {
+            "text": "BEISAMMEN GEBLIEBEN"
+        },
+        "line.11": {
+            "text": "UND DU"
+        },
+        "line.12": {
+            "text": "HINTER DEN ANDERN"
+        },
+        "line.13": {
+            "text": "VORAUS"
+        }
+    }
+}

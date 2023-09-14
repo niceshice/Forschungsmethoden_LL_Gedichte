@@ -1,0 +1,29 @@
+{
+    "title": "komm-6558",
+    "gender": "w",
+    "author": "Ilana Shmueli",
+    "author_birth": "1924",
+    "poem": {
+        "line.1": {
+            "text": "Komm"
+        },
+        "line.2": {
+            "text": "spiel mit dir allein"
+        },
+        "line.3": {
+            "text": "Himmel und Hölle"
+        },
+        "line.4": {
+            "text": "spiel wie das Kind mit dem Stein"
+        },
+        "line.5": {
+            "text": "hüpf über den Strich-"
+        },
+        "line.6": {
+            "text": "ohne Angst"
+        },
+        "line.7": {
+            "text": "vor der Angst"
+        }
+    }
+}

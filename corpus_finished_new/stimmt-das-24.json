@@ -1,0 +1,83 @@
+{
+    "title": "stimmt-das-24",
+    "gender": "m",
+    "author": "Hans Manz",
+    "author_birth": "1931",
+    "poem": {
+        "line.1": {
+            "text": "Der Koch kocht."
+        },
+        "line.2": {
+            "text": "Der Schmied schmiedet."
+        },
+        "line.3": {
+            "text": "Der Schreiner hobelt."
+        },
+        "line.4": {
+            "text": "Der Gärtner pflanzt."
+        },
+        "line.5": {
+            "text": "Der Wächter wacht."
+        },
+        "line.6": {
+            "text": "Ja, das stimmt."
+        },
+        "line.7": {
+            "text": "Stimmt das auch?"
+        },
+        "line.8": {
+            "text": "Der Schmied wacht."
+        },
+        "line.9": {
+            "text": "Der Gärtner schmiedet."
+        },
+        "line.10": {
+            "text": "Der Koch hobelt."
+        },
+        "line.11": {
+            "text": "Der Schreiner pflanzt."
+        },
+        "line.12": {
+            "text": "Der Wächter kocht."
+        },
+        "line.13": {
+            "text": "Nein, das stimmt nicht."
+        },
+        "line.14": {
+            "text": "Doch, das stimmt!"
+        },
+        "line.15": {
+            "text": "Der Schmied wacht,"
+        },
+        "line.16": {
+            "text": "daß ihm das Feuer nicht ausgeht."
+        },
+        "line.17": {
+            "text": "Der Gärtner schmiedet Pläne"
+        },
+        "line.18": {
+            "text": "für seine Ferien."
+        },
+        "line.19": {
+            "text": "Der Schreiner pflanzt sich"
+        },
+        "line.20": {
+            "text": "vor dem Lehrling auf."
+        },
+        "line.21": {
+            "text": "Der Koch hobelt Käse"
+        },
+        "line.22": {
+            "text": "für die Nudeln."
+        },
+        "line.23": {
+            "text": "Der Wächter kocht,"
+        },
+        "line.24": {
+            "text": "er kocht vor Wut auf sich selbst,"
+        },
+        "line.25": {
+            "text": "weil er eingeschlafen ist."
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "title": "mozart-11242",
+    "gender": "m",
+    "author": "Thomas Rosenlöcher",
+    "author_birth": "1947",
+    "poem": {
+        "line.1": {
+            "text": "Ein Tastengeklacker. Und rumms rumms die Treppe"
+        },
+        "line.2": {
+            "text": "stapft der Tod hoch. Doch der Kerl ist schon wieder"
+        },
+        "line.3": {
+            "text": "auf und davon über alle Oktaven,"
+        },
+        "line.4": {
+            "text": "dreht grinsend den Kopf im Triolengestöber."
+        },
+        "line.5": {
+            "text": "Noch heute läuft der Tod durch Wien"
+        },
+        "line.6": {
+            "text": "und schlägt nach im Knöchelverzeichnis"
+        },
+        "line.7": {
+            "text": "und verkauft der ratlosen Fachwelt"
+        },
+        "line.8": {
+            "text": "den falschen Schädel als echt."
+        },
+        "line.9": {
+            "text": "Doch wieder hört er den Unsterblichkeitstriller"
+        },
+        "line.10": {
+            "text": "und nimmt gleich den Fahrstuhl, den Falschen zu treffen,"
+        },
+        "line.11": {
+            "text": "der hier auch nur übte. Nicht traurig sein, Tod."
+        },
+        "line.12": {
+            "text": "Kriegst ja sonst jeden, auch mich.  Lauf, da rennt er."
+        }
+    }
+}

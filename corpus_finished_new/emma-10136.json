@@ -1,0 +1,32 @@
+{
+    "title": "emma-10136",
+    "gender": "m",
+    "author": "Arne  Rautenberg",
+    "author_birth": "1967",
+    "poem": {
+        "line.1": {
+            "text": "wird was gutes schlimmer"
+        },
+        "line.2": {
+            "text": "bleibe immer emma"
+        },
+        "line.3": {
+            "text": "hast du keinen schimmer"
+        },
+        "line.4": {
+            "text": "bleibe immer emma"
+        },
+        "line.5": {
+            "text": "schickt man dich ins zimmer"
+        },
+        "line.6": {
+            "text": "bleibe immer emma"
+        },
+        "line.7": {
+            "text": "klappt was nie und nimmer"
+        },
+        "line.8": {
+            "text": "bleibe immer emma"
+        }
+    }
+}

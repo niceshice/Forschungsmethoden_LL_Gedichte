@@ -1,0 +1,26 @@
+{
+    "title": "der-warme-hut-631",
+    "gender": "m",
+    "author": "Arne  Rautenberg",
+    "author_birth": "1967",
+    "poem": {
+        "line.1": {
+            "text": "der warme hut unter den wir"
+        },
+        "line.2": {
+            "text": "unsre köpfe steckten unsre"
+        },
+        "line.3": {
+            "text": "körper blieben im kalten"
+        },
+        "line.4": {
+            "text": "unsre zungen leckten unsre"
+        },
+        "line.5": {
+            "text": "hitzigen küsse wallten"
+        },
+        "line.6": {
+            "text": "infam glutunter flehn wir"
+        }
+    }
+}

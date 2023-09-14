@@ -1,0 +1,32 @@
+{
+    "title": "tierleben-12756",
+    "gender": "m",
+    "author": "F. W. Bernstein",
+    "author_birth": "1938",
+    "poem": {
+        "line.1": {
+            "text": "Ob es uns groß gekümmert hatte?"
+        },
+        "line.2": {
+            "text": "Es war uns schnurz!"
+        },
+        "line.3": {
+            "text": "Das Leben unsrer Eintagsratte"
+        },
+        "line.4": {
+            "text": "war kurz."
+        },
+        "line.5": {
+            "text": "Es muß ein längeres Leben geben:"
+        },
+        "line.6": {
+            "text": "das des Klaviers."
+        },
+        "line.7": {
+            "text": "Klingt auch viel besser, dieses Leben"
+        },
+        "line.8": {
+            "text": "als wie der Ratte ihrs."
+        }
+    }
+}

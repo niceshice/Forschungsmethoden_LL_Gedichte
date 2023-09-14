@@ -1,0 +1,293 @@
+{
+    "title": "der-wald-3624",
+    "gender": "m",
+    "author": "Bodo  Hell",
+    "author_birth": "1943",
+    "poem": {
+        "line.1": {
+            "text": "sehr warm"
+        },
+        "line.2": {
+            "text": "warm"
+        },
+        "line.3": {
+            "text": "kühl"
+        },
+        "line.4": {
+            "text": "kalt"
+        },
+        "line.5": {
+            "text": "sehr kalt"
+        },
+        "line.6": {
+            "text": "das sind die 5 Stufen im Wald"
+        },
+        "line.7": {
+            "text": "bald"
+        },
+        "line.8": {
+            "text": "sobald"
+        },
+        "line.9": {
+            "text": "alsobald"
+        },
+        "line.10": {
+            "text": "alsbald"
+        },
+        "line.11": {
+            "text": "Wald"
+        },
+        "line.12": {
+            "text": "Laubwald"
+        },
+        "line.13": {
+            "text": "Hartlaubwald"
+        },
+        "line.14": {
+            "text": "Gemeindewald"
+        },
+        "line.15": {
+            "text": "Hegewald"
+        },
+        "line.16": {
+            "text": "Sumpfwald"
+        },
+        "line.17": {
+            "text": "Jungwald"
+        },
+        "line.18": {
+            "text": "Anflugwald"
+        },
+        "line.19": {
+            "text": "Hochwald"
+        },
+        "line.20": {
+            "text": "Mischwald"
+        },
+        "line.21": {
+            "text": "Buschwald"
+        },
+        "line.22": {
+            "text": "Bruchwald"
+        },
+        "line.23": {
+            "text": "Lohwald"
+        },
+        "line.24": {
+            "text": "Nadelwald"
+        },
+        "line.25": {
+            "text": "Grindelwald"
+        },
+        "line.26": {
+            "text": "Mittelwald"
+        },
+        "line.27": {
+            "text": "Gnadenwald"
+        },
+        "line.28": {
+            "text": "Odenwald"
+        },
+        "line.29": {
+            "text": "Regenwald"
+        },
+        "line.30": {
+            "text": "Eichenwald"
+        },
+        "line.31": {
+            "text": "Buchenwald"
+        },
+        "line.32": {
+            "text": "Kastanienwald"
+        },
+        "line.33": {
+            "text": "Trockenwald"
+        },
+        "line.34": {
+            "text": "Birkenwald"
+        },
+        "line.35": {
+            "text": "Fahnenwald"
+        },
+        "line.36": {
+            "text": "Tannenwald"
+        },
+        "line.37": {
+            "text": "Espenwald"
+        },
+        "line.38": {
+            "text": "Föhrenwald"
+        },
+        "line.39": {
+            "text": "Fichtenwald"
+        },
+        "line.40": {
+            "text": "Schattenwald"
+        },
+        "line.41": {
+            "text": "Mittenwald"
+        },
+        "line.42": {
+            "text": "Auenwald"
+        },
+        "line.43": {
+            "text": "Bannwald"
+        },
+        "line.44": {
+            "text": "Schonwald"
+        },
+        "line.45": {
+            "text": "Fronwald"
+        },
+        "line.46": {
+            "text": "Kiefernwald"
+        },
+        "line.47": {
+            "text": "Bauernwald"
+        },
+        "line.48": {
+            "text": "Monsunwald"
+        },
+        "line.49": {
+            "text": "Niederwald"
+        },
+        "line.50": {
+            "text": "Schilderwald"
+        },
+        "line.51": {
+            "text": "Plenterwald"
+        },
+        "line.52": {
+            "text": "Hinterwald"
+        },
+        "line.53": {
+            "text": "Unterwald"
+        },
+        "line.54": {
+            "text": "Blätterwald"
+        },
+        "line.55": {
+            "text": "Dauerwald"
+        },
+        "line.56": {
+            "text": "Bregenzerwald"
+        },
+        "line.57": {
+            "text": "Moorwald"
+        },
+        "line.58": {
+            "text": "Urwald"
+        },
+        "line.59": {
+            "text": "Greifswald"
+        },
+        "line.60": {
+            "text": "Wirtschaftswald"
+        },
+        "line.61": {
+            "text": "Auwald"
+        },
+        "line.62": {
+            "text": "Neuwald"
+        },
+        "line.63": {
+            "text": "Schutzwald"
+        },
+        "line.64": {
+            "text": "Wald am Schoberpaß"
+        },
+        "line.65": {
+            "text": "Feld"
+        },
+        "line.66": {
+            "text": "Lavafeld"
+        },
+        "line.67": {
+            "text": "Gradfeld"
+        },
+        "line.68": {
+            "text": "Getreidefeld"
+        },
+        "line.69": {
+            "text": "Landefeld"
+        },
+        "line.70": {
+            "text": "Schneefeld"
+        },
+        "line.71": {
+            "text": "Karl Lagerfeld"
+        },
+        "line.72": {
+            "text": "Ruhefeld"
+        },
+        "line.73": {
+            "text": "Gemüsefeld"
+        },
+        "line.74": {
+            "text": "Kräftefeld"
+        },
+        "line.75": {
+            "text": "der Dollar fällt"
+        },
+        "line.76": {
+            "text": "Erntefeld"
+        },
+        "line.77": {
+            "text": "Prüffeld"
+        },
+        "line.78": {
+            "text": "statt Kahlschlag auf Kalk ist eine plenterwald- bzw. femelschlagartige Wirtschaftsform angezeigt, Reinbestände werden nach Möglichkeit durch Mischwälder ersetzt, der zyklisch auftretende Befall durch die Miniermotte läßt das sonst gewohnte Frühjahrslärchengrün spätherbstlich braun überlaufen ausschauen, die Nadelschütte der Fichte infolge Befalls durch Rhizosphära- und Lophodermiumarten oder andere Schwächeparasiten ist weit verbreitet, mit forstlichen Mitteln allein ist der Forst nicht zu retten, das Aufforsten mit relativ rauchharten Baumarten anstelle der empfindlichen Tannen und Fichten wird angeraten, eine akute Gefahr durch SO2 im Lee der Hauptemittenten und eine starke Schädigung des Traufs ist insbesondere in Westexposition zu erwarten, bei gleichzeitiger Einwirkung von Luftschadstoffen und Klimaextremen wie hoher Trockenheit, Strahlungsintensität und späten Frösten kann es zu unerwünschten Synergieeffekten kommen, auch in der Landwirtschaft gibt es bereits Anzeichen dafür, daß Pflanzen überhaupt nicht mehr wachsen wollen, Wildverbiß infolge jägerseits erwünschter hoher Wilddichte setzt der Naturverjüngung außerhalb des Zauns stark zu, drinnen läßt sich eine reiche nitrophile Flora sowie Regenwurmfauna bei verstärktem unverzwieseltem Aufwuchs feststellen, ab dem Stangenholzalter wird jetzt nicht mehr in die Kronenschicht eingegriffen, damit ein dichter Bestandesschluß erhalten bleibt und den Schadstoffen die geringstmögliche Angriffsfläche geboten wird, der Ausdruck 'Kompensationskalkung' könnte bei den Emittenten leicht den Eindruck erwecken, der Schadstoffeintrag lasse sich kompensieren, der dichte tote Boden wird bis 45 cm tief gelockert und so zu neuer Feinverwurzelung tauglich gemacht, Voraussetzung für die Spatendiagnose zur Feststellung der Intensität des Bodenlebens ist das Herausheben eines Profilklotzes zu verschiedenen Wachstumszeiten, unterirdisch können sich wesentlich mehr Lebewesen ernähren als dies auf gleicher Fläche oberirdisch möglich ist, der Druckkeil, der sich bei der Holzrückung vom punktuell aufgesetzten Pferdehuf bildet, ist zwar wesentlich stärker als jener des rollenden Breitreifens, er baut sich aber im Gegensatz zur Spurverdichtung beim Pneu am Boden sehr schnell wieder ab, nitratreiches Grundwasser unter Intensivanbauflächen muß zur Trinkwassergewinnung mit nitratarmem Wasser aus dem Wald auf den gesetzlich zulässigen Grenzwert heruntergemischt werden"
+        },
+        "line.79": {
+            "text": "bei"
+        },
+        "line.80": {
+            "text": "der Errichtung eines"
+        },
+        "line.81": {
+            "text": "Trocknungsstoßes empfiehlt"
+        },
+        "line.82": {
+            "text": "der Holzfachmann das präzise Auflatteln"
+        },
+        "line.83": {
+            "text": "der Bretter mittels Sägewerkslatten aus der"
+        },
+        "line.84": {
+            "text": "Seitenware, dem sogenannten Besäumholz mit"
+        },
+        "line.85": {
+            "text": "der Waldkante, wobei der Stoß nach der Form des"
+        },
+        "line.86": {
+            "text": "Stamms aufgeschichtet sein kann, d.h. er erscheint"
+        },
+        "line.87": {
+            "text": "von der Stirnseite gesehen wie ein sich erweiterndes"
+        },
+        "line.88": {
+            "text": "und jetzt wieder verengendes Bretterzeilengedicht,"
+        },
+        "line.89": {
+            "text": "das dann luftig an der wetterabgekehrten Seite"
+        },
+        "line.90": {
+            "text": "oder gleich unter Dach, wenn im Freien, dann"
+        },
+        "line.91": {
+            "text": "aber auf jeden Fall abgedeckt und even-"
+        },
+        "line.92": {
+            "text": "tuell steinbeschwert für 4 bis 5"
+        },
+        "line.93": {
+            "text": "(oder auch für fünfhundert)"
+        },
+        "line.94": {
+            "text": "Jahre zum Trocknen da-"
+        },
+        "line.95": {
+            "text": "steht"
+        }
+    }
+}

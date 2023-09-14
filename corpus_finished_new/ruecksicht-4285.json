@@ -1,0 +1,26 @@
+{
+    "title": "ruecksicht-4285",
+    "gender": "w",
+    "author": "Brigitte Struzyk",
+    "author_birth": "1946",
+    "poem": {
+        "line.1": {
+            "text": "Die Spinne arbeitet"
+        },
+        "line.2": {
+            "text": "Dem Opfer kommt sie entgegen"
+        },
+        "line.3": {
+            "text": "Diese kleine artige Ordnung"
+        },
+        "line.4": {
+            "text": "Vor dem schwarzen Holunder"
+        },
+        "line.5": {
+            "text": "Werde ich doch nicht"
+        },
+        "line.6": {
+            "text": "Mit Fensterputzen bedrohen."
+        }
+    }
+}

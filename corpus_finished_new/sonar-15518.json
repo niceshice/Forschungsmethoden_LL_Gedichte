@@ -1,0 +1,56 @@
+{
+    "title": "sonar-15518",
+    "gender": "m",
+    "author": "André Schinkel",
+    "author_birth": "1972",
+    "poem": {
+        "line.1": {
+            "text": "Ich suche dich, ich hab dir längst verziehen,"
+        },
+        "line.2": {
+            "text": "Ich witter dich, ich hab dich fast;"
+        },
+        "line.3": {
+            "text": "Du brauchst nun nicht mehr vor mir fliehen"
+        },
+        "line.4": {
+            "text": "Ich spüre dich: dein Herzblut rast."
+        },
+        "line.5": {
+            "text": "Ich orte dich, ich kann dich immer finden,"
+        },
+        "line.6": {
+            "text": "Ich sehe, fühle, hör dich gut;"
+        },
+        "line.7": {
+            "text": "Du kannst vor mir nicht mehr verschwinden:"
+        },
+        "line.8": {
+            "text": "Ich bin dir auf der Spur, sei auf der Hut."
+        },
+        "line.9": {
+            "text": "Ich sehe dich auf jeder Lichtung,"
+        },
+        "line.10": {
+            "text": "Du tarnst dich falb in jedem Rindenloch;"
+        },
+        "line.11": {
+            "text": "Ich folge dir in jede Richtung:"
+        },
+        "line.12": {
+            "text": "Du siehst dich vor, ich seh dich doch."
+        },
+        "line.13": {
+            "text": "Ich fasse dich, ich schau dir in die Karten,"
+        },
+        "line.14": {
+            "text": "Du weißt es, du entkommst mir nicht;"
+        },
+        "line.15": {
+            "text": "Du wirst mich bald nicht mehr verraten"
+        },
+        "line.16": {
+            "text": "Ich spüre, rieche, atme dich."
+        }
+    }
+}

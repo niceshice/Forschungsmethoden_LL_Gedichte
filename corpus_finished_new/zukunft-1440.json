@@ -1,0 +1,26 @@
+{
+    "title": "zukunft-1440",
+    "gender": "m",
+    "author": "Paul Maar",
+    "author_birth": "1937",
+    "poem": {
+        "line.1": {
+            "text": "Die Zukunft kommt"
+        },
+        "line.2": {
+            "text": "schon morgen früh?"
+        },
+        "line.3": {
+            "text": "Kann man die nicht verschieben?"
+        },
+        "line.4": {
+            "text": "Ich wär so gern"
+        },
+        "line.5": {
+            "text": "und zwar mit dir"
+        },
+        "line.6": {
+            "text": "im Heute hier geblieben."
+        }
+    }
+}

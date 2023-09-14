@@ -1,0 +1,80 @@
+{
+    "title": "der-kaelbermarsch",
+    "gender": "m",
+    "author": "Bertolt  Brecht",
+    "author_birth": "1898",
+    "poem": {
+        "line.1": {
+            "text": "Hinter der Trommel her"
+        },
+        "line.2": {
+            "text": "Trotten die Kälber"
+        },
+        "line.3": {
+            "text": "Das Fell für die Trommel"
+        },
+        "line.4": {
+            "text": "Liefern sie selber."
+        },
+        "line.5": {
+            "text": "Der Schlächter ruft: Die Augen fest geschlossen"
+        },
+        "line.6": {
+            "text": "Das Kalb marschiert. In ruhig festem Tritt."
+        },
+        "line.7": {
+            "text": "Die Kälber, deren Blut im Schlachthaus schon geflossen"
+        },
+        "line.8": {
+            "text": "Marschiern im Geist in seinen Reihen mit."
+        },
+        "line.9": {
+            "text": "Sie heben die Hände hoch"
+        },
+        "line.10": {
+            "text": "Sie zeigen sie her."
+        },
+        "line.11": {
+            "text": "Die Hände sind blutbefleckt"
+        },
+        "line.12": {
+            "text": "Doch immer noch leer."
+        },
+        "line.13": {
+            "text": "Der Schlächter ruft: Die Augen fest geschlossen"
+        },
+        "line.14": {
+            "text": "Das Kalb marschiert. In ruhig festem Tritt."
+        },
+        "line.15": {
+            "text": "Die Kälber, deren Blut im Schlachthaus schon geflossen."
+        },
+        "line.16": {
+            "text": "Marschiern im Geist in seinen Reihen mit."
+        },
+        "line.17": {
+            "text": "Sie tragen ein Kreuz voran"
+        },
+        "line.18": {
+            "text": "Auf blutroten Flaggen"
+        },
+        "line.19": {
+            "text": "Das hat für den armen Mann"
+        },
+        "line.20": {
+            "text": "Einen großen Haken."
+        },
+        "line.21": {
+            "text": "Der Schlächter ruft: Die Augen fest geschlossen"
+        },
+        "line.22": {
+            "text": "Das Kalb marschiert. In ruhig festem Tritt."
+        },
+        "line.23": {
+            "text": "Die Kälber, deren Blut im Schlachthaus schon geflossen"
+        },
+        "line.24": {
+            "text": "Marschiern im Geist in seinen Reihen mit."
+        }
+    }
+}

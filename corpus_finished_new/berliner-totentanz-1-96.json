@@ -1,0 +1,32 @@
+{
+    "title": "berliner-totentanz-1-96",
+    "gender": "m",
+    "author": "Thomas Kling",
+    "author_birth": "1957",
+    "poem": {
+        "line.1": {
+            "text": "zu St. Marien"
+        },
+        "line.2": {
+            "text": "fig.1:"
+        },
+        "line.3": {
+            "text": "Ich habe die edlen herren wert"
+        },
+        "line.4": {
+            "text": "Als ein herzog regieret  mit dem schwert!"
+        },
+        "line.5": {
+            "text": "In knochenkleid steh ich nu im glanz:"
+        },
+        "line.6": {
+            "text": "Kein entkommen hier beim totntanz"
+        },
+        "line.7": {
+            "text": "fig.2:"
+        },
+        "line.8": {
+            "text": "tod:"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "title": "beschreibung-eines-gedichtes-1233",
+    "gender": "m",
+    "author": "Ernst Jandl",
+    "author_birth": "1925",
+    "poem": {
+        "line.1": {
+            "text": "bei geschlossenen lippen"
+        },
+        "line.2": {
+            "text": "ohne bewegung in mund und kehle"
+        },
+        "line.3": {
+            "text": "jedes einatmen und ausatmen"
+        },
+        "line.4": {
+            "text": "mit dem satz begleiten"
+        },
+        "line.5": {
+            "text": "langsam und ohne stimme gedacht"
+        },
+        "line.6": {
+            "text": "ich liebe dich"
+        },
+        "line.7": {
+            "text": "so daß jedes einziehen der luft durch die nase"
+        },
+        "line.8": {
+            "text": "sich deckt mit diesem satz"
+        },
+        "line.9": {
+            "text": "jedes ausstoßen der luft durch die nase"
+        },
+        "line.10": {
+            "text": "und das ruhige sich heben"
+        },
+        "line.11": {
+            "text": "und senken der brust"
+        }
+    }
+}

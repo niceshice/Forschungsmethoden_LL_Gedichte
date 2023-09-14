@@ -1,0 +1,32 @@
+{
+    "title": "gleich-und-ungleich-676",
+    "gender": "m",
+    "author": "Jürg Schubiger",
+    "author_birth": "1936",
+    "poem": {
+        "line.1": {
+            "text": "Erst knurrt mein Hund,"
+        },
+        "line.2": {
+            "text": "dann knurrt mein Bauch."
+        },
+        "line.3": {
+            "text": "Mein Herz schlägt laut,"
+        },
+        "line.4": {
+            "text": "die Wanduhr auch."
+        },
+        "line.5": {
+            "text": "Mein Bruder brüllt."
+        },
+        "line.6": {
+            "text": "Ich schreie: Nein!"
+        },
+        "line.7": {
+            "text": "Ich bin ein Mensch,"
+        },
+        "line.8": {
+            "text": "er ist ein Schwein."
+        }
+    }
+}

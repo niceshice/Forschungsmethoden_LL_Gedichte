@@ -1,0 +1,32 @@
+{
+    "title": "schoepfung-476",
+    "gender": "m",
+    "author": "Lutz Rathenow",
+    "author_birth": "1952",
+    "poem": {
+        "line.1": {
+            "text": "Am Anfang war die Nacht"
+        },
+        "line.2": {
+            "text": "Heimlich wuchs Licht"
+        },
+        "line.3": {
+            "text": "Und Tag war"
+        },
+        "line.4": {
+            "text": "bis zur Nacht"
+        },
+        "line.5": {
+            "text": "Dann wieder Tag"
+        },
+        "line.6": {
+            "text": "Nacht"
+        },
+        "line.7": {
+            "text": "Zwei Stehaufmännchen"
+        },
+        "line.8": {
+            "text": "bezwingen einander im Wechsel"
+        }
+    }
+}

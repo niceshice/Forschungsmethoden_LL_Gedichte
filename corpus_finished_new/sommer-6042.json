@@ -1,0 +1,41 @@
+{
+    "title": "sommer-6042",
+    "gender": "w",
+    "author": "Ilma Rakusa",
+    "author_birth": "1946",
+    "poem": {
+        "line.1": {
+            "text": "Sommer ist:"
+        },
+        "line.2": {
+            "text": "wenn das Zimmer bei halbgeschlossenen"
+        },
+        "line.3": {
+            "text": "Jalousien vor sich hin dämmert,"
+        },
+        "line.4": {
+            "text": "wenn eine einsame Fliege brummend"
+        },
+        "line.5": {
+            "text": "das Freie sucht und nicht findet,"
+        },
+        "line.6": {
+            "text": "wenn draussen Zikaden zirpen"
+        },
+        "line.7": {
+            "text": "bei brütender Hitze, während über"
+        },
+        "line.8": {
+            "text": "die Fliesen Lichthasen huschen,"
+        },
+        "line.9": {
+            "text": "zitternd weisse Geschöpfe,"
+        },
+        "line.10": {
+            "text": "und Vasen, Töpfe, Krüge als"
+        },
+        "line.11": {
+            "text": "Stilleben gänzlich ruhen."
+        }
+    }
+}

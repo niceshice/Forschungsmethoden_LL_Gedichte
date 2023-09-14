@@ -1,0 +1,17 @@
+{
+    "title": "eine-welt-3012",
+    "gender": "m",
+    "author": "Nicolas  Born",
+    "author_birth": "1937",
+    "poem": {
+        "line.1": {
+            "text": "in der jeder jeder ist -"
+        },
+        "line.2": {
+            "text": "Klingt das nicht vertraut?"
+        },
+        "line.3": {
+            "text": "Könnte das nicht von jedem sein?"
+        }
+    }
+}

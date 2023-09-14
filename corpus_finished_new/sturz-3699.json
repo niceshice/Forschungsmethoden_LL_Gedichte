@@ -1,0 +1,35 @@
+{
+    "title": "sturz-3699",
+    "gender": "m",
+    "author": "Richard  Anders",
+    "author_birth": "1928",
+    "poem": {
+        "line.1": {
+            "text": "Du öffnest das Fenster. Obwohl es heller Tag ist, siehst du in tiefe"
+        },
+        "line.2": {
+            "text": "Schwärze. Dennoch springst du, wie du es dir vorgenommen hast."
+        },
+        "line.3": {
+            "text": "Ein Blitz erschreckt dich: Hinter deinem Rücken zerflammt dein Haus."
+        },
+        "line.4": {
+            "text": "Die Schwärze scheint sich im Sturz zu verdichten, bis sie dich schwerelos"
+        },
+        "line.5": {
+            "text": "wie eine Mauer umschließt. Stand dein Haus in den Sternen? Gäbe es noch"
+        },
+        "line.6": {
+            "text": "Dämmerung, dämmerte es dir, daß springend du deinen Kopf nicht verlassen hast."
+        },
+        "line.7": {
+            "text": "Und du wirst ihn nie verlassen wegen deiner, im Vergleich zum Kopf"
+        },
+        "line.8": {
+            "text": "unendlichen Kleinheit, die dich zu Lebzeiten nicht den furchtbaren Aufschlag,"
+        },
+        "line.9": {
+            "text": "das Zersplittern aller Knochen erleben läßt."
+        }
+    }
+}
